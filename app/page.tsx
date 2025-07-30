@@ -14,66 +14,71 @@ const MedSourcePage = () => {
     {
       title: "Equipment",
       description: "Advanced imaging systems for precise medical diagnostics",
-      image: "/api/placeholder/150/150",
+      image: "/Depth 7, Frame 0.png",
       color: "bg-emerald-100",
     },
     {
       title: "Accessories",
       description:
         "Enhance your equipment with essential accessories and tools",
-      image: "/api/placeholder/150/150",
+      image: "/Depth 7, Frame 1.png",
       color: "bg-cyan-100",
     },
     {
       title: "Supplies",
       description: "Premium supplies for smooth operations and optimal control",
-      image: "/api/placeholder/150/150",
+      image: "/Depth 7, Frame 2.png",
       color: "bg-blue-100",
     },
     {
       title: "Parts",
       description: "Genuine parts to maintain peak performance standards",
-      image: "/api/placeholder/150/150",
+      image: "/Depth 7, Frame 3.png",
       color: "bg-teal-100",
     },
   ];
 
   const featuredProducts = [
     {
-      title: "Advanced X-Ray System",
-      description: "Cutting-edge technology for superior imaging",
-      image: "/api/placeholder/250/200",
-      price: "$45,000",
+      title: "Medium MRI phantom",
+      description: " ACR accredited phantoms optimized for time efficiency",
+      image:
+        "https://www.pnwx.com/Accessories/Phantoms/MRI/Pro-Project/ACR-Medium/09-301_1.jpg",
+      price: "$2,675",
     },
     {
-      title: "High-Resolution Ultrasound Machine",
-      description: "Crystal clear images for accurate diagnosis",
-      image: "/api/placeholder/250/200",
-      price: "$32,000",
+      title: "Lead-free X-Ray Apron",
+      description: "Fastest Shipping Lead Apparel",
+      image:
+        "https://www.pnwx.com/Accessories/LeadProducts/Aprons/Infab/LightningFast/UFP_1.jpg",
+      price: "$895",
     },
     {
-      title: "Portable C-Arm System",
-      description: "Flexible imaging for various settings",
-      image: "/api/placeholder/250/200",
-      price: "$28,000",
+      title: "Veterinary Immobilizers",
+      description: "Premium radiolucent small animal immobilizers",
+      image: "https://www.pnwx.com/Accessories/PosAides/Pet-Sitioner/PSL_1.jpg",
+      price: "$240",
     },
   ];
 
   const newArrivals = [
     {
-      title: "Latest MRI Scanner",
-      description: "Enhanced patient comfort and faster scan times",
-      image: "/api/placeholder/200/150",
+      title: "R/F QC Phantom",
+      description:
+        "Accurate, easy-to-use tool for evaluating the image quality",
+      image:
+        "https://www.pnwx.com/Accessories/Phantoms/Test/Fluoroscopy/07-647_1.jpg",
     },
     {
-      title: "Digital Mammography System",
-      description: "Superior image quality for early detection",
-      image: "/api/placeholder/200/150",
+      title: "X-Ray Grids",
+      description: "..with superior construction",
+      image: "https://www.pnwx.com/Parts/Grids/11432_1.jpg",
     },
     {
-      title: "Bone Densitometer",
-      description: "Accurate assessment of bone health",
-      image: "/api/placeholder/200/150",
+      title: "Radiation Reducing Gloves",
+      description: "Exam and Surgical Radiation Reducing Gloves built for dexterity and comfort",
+      image:
+        "https://www.pnwx.com/Accessories/LeadProducts/Gloves/Proguard/RR1_1.jpg",
     },
   ];
 
@@ -81,39 +86,48 @@ const MedSourcePage = () => {
     {
       name: "Dr. Amelia Chen",
       role: "Radiologist",
-      avatar: "/api/placeholder/40/40",
+      avatar: "/Depth 7, Frame 10.png",
       rating: 5,
       text: "MedSource has been an invaluable partner for our clinic. Their equipment is top-notch, and their customer service is exceptional. We highly recommend them!",
     },
     {
       name: "Dr. Benjamin Carter",
       role: "Cardiologist",
-      avatar: "/api/placeholder/40/40",
+      avatar: "/Depth 7, Frame 11.png",
       rating: 5,
       text: "We've been using MedSource equipment for years, and it has consistently met our high standards. Their team is knowledgeable and responsive, making them a pleasure to work with.",
     },
     {
       name: "Dr. Olivia Davis",
       role: "Orthopedist",
-      avatar: "/api/placeholder/40/40",
+      avatar: "/Depth 7, Frame 12.png",
       rating: 5,
       text: "MedSource provides reliable equipment and excellent support. When we had a minor issue with a recent order, their team quickly resolved it to our satisfaction.",
     },
   ];
 
   const partners = [
-    { name: "Partner 1", logo: "/api/placeholder/120/60" },
-    { name: "Partner 2", logo: "/api/placeholder/120/60" },
-    { name: "Partner 3", logo: "/api/placeholder/120/60" },
-    { name: "Partner 4", logo: "/api/placeholder/120/60" },
-    { name: "Partner 5", logo: "/api/placeholder/120/60" },
-    { name: "Partner 6", logo: "/api/placeholder/120/60" },
+    { name: "Partner 1", logo: "/Depth 7, Frame 13.png" },
+    { name: "Partner 2", logo: "/Depth 7, Frame 14.png" },
+    { name: "Partner 3", logo: "/Depth 7, Frame 19.png" },
+    { name: "Partner 4", logo: "/Depth 7, Frame 20.png" },
+    { name: "Partner 5", logo: "/Depth 7, Frame 21.png" },
+    { name: "Partner 6", logo: "/Depth 6, Frame 0.png" },
   ];
 
   const certifications = [
-    { name: "ISO Certification", logo: "/api/placeholder/150/100" },
-    { name: "FDA Approved", logo: "/api/placeholder/150/100" },
-    { name: "Quality Assurance", logo: "/api/placeholder/150/100" },
+    {
+      name: "ISO Certification",
+      logo: "https://www.fdiworlddental.org/sites/default/files/styles/ino_plain_1x_xs/public/2021-05/ISO%20logo%20copie.png?itok=_YwGJWNy",
+    },
+    {
+      name: "FDA Approved",
+      logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThLGbW32p4xWTiioDa_PzEOrIB_pp9-UoHUQ&s",
+    },
+    {
+      name: "Quality Assurance",
+      logo: "https://cdn-icons-png.flaticon.com/512/5988/5988354.png",
+    },
   ];
 
   return (
@@ -124,7 +138,7 @@ const MedSourcePage = () => {
           className="h-[500px] bg-cover bg-center flex items-center justify-center rounded-xl"
           style={{
             backgroundImage:
-              "linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('/api/placeholder/800/500')",
+              "linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('/Depth 7, Frame 0.png')",
           }}
         >
           <div className="text-center text-white max-w-4xl mx-auto px-6">
@@ -199,19 +213,16 @@ const MedSourcePage = () => {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {featuredProducts.map((product, index) => (
-              <Card key={index} className="hover:shadow-lg transition-shadow">
+              <Card key={index} className="hover:shadow-lg transition-shadow h-full flex flex-col">
                 <CardHeader className="p-0">
-                  <Image
-                    src={product.image}
-                    alt={product.title}
-                    width="100%"
-                    height={200}
-                    className="object-cover"
+                  <div 
+                    className="w-full h-[200px] bg-cover bg-center bg-no-repeat"
+                    style={{ backgroundImage: `url(${product.image})` }}
                   />
                 </CardHeader>
-                <CardBody className="p-6">
+                <CardBody className="p-6 flex-1 flex flex-col">
                   <h3 className="text-xl font-bold mb-2">{product.title}</h3>
-                  <p className="text-default-600 mb-4">{product.description}</p>
+                  <p className="text-default-600 mb-4 flex-1">{product.description}</p>
                   <div className="flex justify-between items-center">
                     <span className="text-2xl font-bold text-primary">
                       {product.price}
@@ -233,19 +244,21 @@ const MedSourcePage = () => {
           <h2 className="text-3xl font-bold text-center mb-12">New Arrivals</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {newArrivals.map((product, index) => (
-              <Card key={index} className="hover:shadow-lg transition-shadow">
+              <Card key={index} className="hover:shadow-lg transition-shadow h-full flex flex-col">
                 <CardHeader className="p-0">
-                  <Image
-                    src={product.image}
-                    alt={product.title}
-                    width="100%"
-                    height={200}
-                    className="object-cover"
+                  <div 
+                    className="w-full h-[200px] bg-cover bg-center bg-no-repeat"
+                    style={{ backgroundImage: `url(${product.image})` }}
                   />
                 </CardHeader>
-                <CardBody className="p-6">
+                <CardBody className="p-6 flex-1 flex flex-col">
                   <h3 className="text-xl font-bold mb-2">{product.title}</h3>
-                  <p className="text-default-600">{product.description}</p>
+                  <p className="text-default-600 mb-4 flex-1">{product.description}</p>
+                  <div className="flex justify-end">
+                    <Button color="primary" variant="flat">
+                      Learn More
+                    </Button>
+                  </div>
                 </CardBody>
               </Card>
             ))}
@@ -324,13 +337,10 @@ const MedSourcePage = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {certifications.map((cert, index) => (
               <div key={index} className="text-center">
-                <div className="bg-white p-8 rounded-lg shadow-md mb-4">
-                  <Image
-                    src={cert.logo}
-                    alt={cert.name}
-                    width={120}
-                    height={80}
-                    className="mx-auto"
+                <div className="bg-white p-6 rounded-lg shadow-md mb-4 h-24 w-32 mx-auto flex items-center justify-center">
+                  <div 
+                    className="w-full h-full bg-contain bg-center bg-no-repeat"
+                    style={{ backgroundImage: `url(${cert.logo})` }}
                   />
                 </div>
                 <h3 className="font-bold">{cert.name}</h3>
