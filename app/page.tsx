@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import { Card, CardBody, CardHeader, CardFooter } from "@heroui/card";
 import { Button } from "@heroui/button";
@@ -76,7 +77,8 @@ const MedSourcePage = () => {
     },
     {
       title: "Radiation Reducing Gloves",
-      description: "Exam and Surgical Radiation Reducing Gloves built for dexterity and comfort",
+      description:
+        "Exam and Surgical Radiation Reducing Gloves built for dexterity and comfort",
       image:
         "https://www.pnwx.com/Accessories/LeadProducts/Gloves/Proguard/RR1_1.jpg",
     },
@@ -213,16 +215,21 @@ const MedSourcePage = () => {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {featuredProducts.map((product, index) => (
-              <Card key={index} className="hover:shadow-lg transition-shadow h-full flex flex-col">
+              <Card
+                key={index}
+                className="hover:shadow-lg transition-shadow h-full flex flex-col"
+              >
                 <CardHeader className="p-0">
-                  <div 
+                  <div
                     className="w-full h-[200px] bg-cover bg-center bg-no-repeat"
                     style={{ backgroundImage: `url(${product.image})` }}
                   />
                 </CardHeader>
                 <CardBody className="p-6 flex-1 flex flex-col">
                   <h3 className="text-xl font-bold mb-2">{product.title}</h3>
-                  <p className="text-default-600 mb-4 flex-1">{product.description}</p>
+                  <p className="text-default-600 mb-4 flex-1">
+                    {product.description}
+                  </p>
                   <div className="flex justify-between items-center">
                     <span className="text-2xl font-bold text-primary">
                       {product.price}
@@ -244,16 +251,21 @@ const MedSourcePage = () => {
           <h2 className="text-3xl font-bold text-center mb-12">New Arrivals</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {newArrivals.map((product, index) => (
-              <Card key={index} className="hover:shadow-lg transition-shadow h-full flex flex-col">
+              <Card
+                key={index}
+                className="hover:shadow-lg transition-shadow h-full flex flex-col"
+              >
                 <CardHeader className="p-0">
-                  <div 
+                  <div
                     className="w-full h-[200px] bg-cover bg-center bg-no-repeat"
                     style={{ backgroundImage: `url(${product.image})` }}
                   />
                 </CardHeader>
                 <CardBody className="p-6 flex-1 flex flex-col">
                   <h3 className="text-xl font-bold mb-2">{product.title}</h3>
-                  <p className="text-default-600 mb-4 flex-1">{product.description}</p>
+                  <p className="text-default-600 mb-4 flex-1">
+                    {product.description}
+                  </p>
                   <div className="flex justify-end">
                     <Button color="primary" variant="flat">
                       Learn More
@@ -338,7 +350,7 @@ const MedSourcePage = () => {
             {certifications.map((cert, index) => (
               <div key={index} className="text-center">
                 <div className="bg-white p-6 rounded-lg shadow-md mb-4 h-24 w-32 mx-auto flex items-center justify-center">
-                  <div 
+                  <div
                     className="w-full h-full bg-contain bg-center bg-no-repeat"
                     style={{ backgroundImage: `url(${cert.logo})` }}
                   />
