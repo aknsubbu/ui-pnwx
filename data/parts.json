@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "lastUpdated": "2025-10-06",
+    "source": "https://www.pnwx.com/Parts/",
+    "version": "1.0"
+  },
+  "categories": [
+    {
+      "id": "grids",
+      "name": "X-Ray Grids",
+      "description": "Aluminum interspaced X-ray grids for improved image quality and scatter reduction",
+      "icon": "grid",
+      "featured": true,
+      "itemCount": 45,
+      "externalUrl": "https://www.pnwx.com/Parts/Grids/",
+      "subcategories": [
+        {
+          "id": "grid-focused",
+          "name": "Focused X-Ray Grids",
+          "description": "High-quality focused grids for optimal scatter reduction",
+          "image": "https://www.pnwx.com/Parts/Grids/image.jpg",
+          "url": "https://www.pnwx.com/Parts/Grids/",
+          "manufacturer": "Various",
+          "specifications": {
+            "Generator Type": "High Frequency",
+            "Power Output": "80 kHp @ 100 kV",
+            "kVp Range": "40-100 kVp (1 kVp steps)",
+            "mA Settings": "20, 32, 50, 63, 80, 100, 125 mA",
+            "mAs Range": "0.02 - 800 mAs",
+            "Focal Spot Size": "1.0mm (IEC 336)",
+            "Input Power": "120V, 60Hz, 20A",
+            "Battery Capacity": "200 exposures per charge"
+          },
+          "features": [
+            "High-frequency generator for superior image quality",
+            "Lightweight portable design",
+            "Built-in rechargeable battery for true portability",
+            "LCD display with intuitive controls",
+            "Anatomical programming for quick setup",
+            "Digital interface ready",
+            "CE marked and FDA approved"
+          ],
+          "dimensions": {
+            "width": "14.5 inches",
+            "height": "17 inches",
+            "depth": "19 inches",
+            "weight": "35 lbs"
+          },
+          "partNumbers": [
+            "HF80-115V",
+            "HF80-240V"
+          ],
+          "images": [
+            "https://www.pnwx.com/Parts/Grids/image.jpg",
+            "https://www.pnwx.com/Parts/Grids/image.gif",
+            "https://www.pnwx.com/Parts/Grids/product.jpg",
+            "https://www.pnwx.com/Parts/Grids/main.jpg",
+            "https://www.pnwx.com/Parts/Grids.jpg"
+          ]
+        },
+        {
+          "id": "grid-parallel",
+          "name": "Parallel X-Ray Grids",
+          "description": "Parallel grids for general radiography applications",
+          "image": "https://www.pnwx.com/Parts/Grids/image.jpg",
+          "url": "https://www.pnwx.com/Parts/Grids/",
+          "manufacturer": "Various",
+          "specifications": {
+            "Generator Type": "High Frequency",
+            "Power Output": "80 kHp @ 100 kV",
+            "kVp Range": "40-100 kVp (1 kVp steps)",
+            "mA Settings": "20, 32, 50, 63, 80, 100, 125 mA",
+            "mAs Range": "0.02 - 800 mAs",
+            "Focal Spot Size": "1.0mm (IEC 336)",
+            "Input Power": "120V, 60Hz, 20A",
+            "Battery Capacity": "200 exposures per charge"
+          },
+          "features": [
+            "High-frequency generator for superior image quality",
+            "Lightweight portable design",
+            "Built-in rechargeable battery for true portability",
+            "LCD display with intuitive controls",
+            "Anatomical programming for quick setup",
+            "Digital interface ready",
+            "CE marked and FDA approved"
+          ],
+          "dimensions": {
+            "width": "14.5 inches",
+            "height": "17 inches",
+            "depth": "19 inches",
+            "weight": "35 lbs"
+          },
+          "partNumbers": [
+            "HF80-115V",
+            "HF80-240V"
+          ],
+          "images": [
+            "https://www.pnwx.com/Parts/Grids/image.jpg",
+            "https://www.pnwx.com/Parts/Grids/image.gif",
+            "https://www.pnwx.com/Parts/Grids/product.jpg",
+            "https://www.pnwx.com/Parts/Grids/main.jpg",
+            "https://www.pnwx.com/Parts/Grids.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "collimators",
+      "name": "X-Ray Collimators",
+      "description": "Beam limiting collimators for X-ray systems with precision control and safety features",
+      "icon": "aperture",
+      "featured": true,
+      "itemCount": 28,
+      "externalUrl": "https://www.pnwx.com/Parts/Collimators/Ralco/",
+      "subcategories": [
+        {
+          "id": "ralco-collimators",
+          "name": "Ralco Collimators",
+          "description": "Professional X-ray beam limiting collimators from Ralco",
+          "image": "https://www.pnwx.com/Parts/Collimators/Ralco/image.jpg",
+          "url": "https://www.pnwx.com/Parts/Collimators/Ralco/",
+          "manufacturer": "Ralco",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "RALCO-COLLIMATORS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Parts/Collimators/Ralco/image.jpg",
+            "https://www.pnwx.com/Parts/Collimators/Ralco/image.gif",
+            "https://www.pnwx.com/Parts/Collimators/Ralco/product.jpg",
+            "https://www.pnwx.com/Parts/Collimators/Ralco/main.jpg",
+            "https://www.pnwx.com/Parts/Collimators/Ralco.jpg"
+          ]
+        },
+        {
+          "id": "replacement-collimators",
+          "name": "Replacement Collimators",
+          "description": "Replacement collimators for various X-ray systems",
+          "image": "https://www.pnwx.com/Parts/Collimators/Ralco/image.jpg",
+          "url": "https://www.pnwx.com/Parts/Collimators/Ralco/",
+          "manufacturer": "Various",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "REPLACEMENT-COLLIMATORS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Parts/Collimators/Ralco/image.jpg",
+            "https://www.pnwx.com/Parts/Collimators/Ralco/image.gif",
+            "https://www.pnwx.com/Parts/Collimators/Ralco/product.jpg",
+            "https://www.pnwx.com/Parts/Collimators/Ralco/main.jpg",
+            "https://www.pnwx.com/Parts/Collimators/Ralco.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lamps",
+      "name": "Collimator Lamps",
+      "description": "Replacement projection lamps for X-ray collimators",
+      "icon": "bulb",
+      "featured": false,
+      "itemCount": 32,
+      "externalUrl": "https://www.pnwx.com/Parts/Lamps/",
+      "subcategories": [
+        {
+          "id": "halogen-lamps",
+          "name": "Halogen Collimator Lamps",
+          "description": "High-quality halogen lamps for X-ray collimators",
+          "image": "https://www.pnwx.com/Parts/Lamps/image.jpg",
+          "url": "https://www.pnwx.com/Parts/Lamps/",
+          "manufacturer": "Various",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "HALOGEN-LAMPS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Parts/Lamps/image.jpg",
+            "https://www.pnwx.com/Parts/Lamps/image.gif",
+            "https://www.pnwx.com/Parts/Lamps/product.jpg",
+            "https://www.pnwx.com/Parts/Lamps/main.jpg",
+            "https://www.pnwx.com/Parts/Lamps.jpg"
+          ]
+        },
+        {
+          "id": "led-lamps",
+          "name": "LED Collimator Lamps",
+          "description": "Energy-efficient LED replacement lamps",
+          "image": "https://www.pnwx.com/Parts/Lamps/image.jpg",
+          "url": "https://www.pnwx.com/Parts/Lamps/",
+          "manufacturer": "Various",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "LED-LAMPS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Parts/Lamps/image.jpg",
+            "https://www.pnwx.com/Parts/Lamps/image.gif",
+            "https://www.pnwx.com/Parts/Lamps/product.jpg",
+            "https://www.pnwx.com/Parts/Lamps/main.jpg",
+            "https://www.pnwx.com/Parts/Lamps.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ht-cables",
+      "name": "High Voltage Cables",
+      "description": "High voltage/high tension cables for X-ray systems with superior insulation",
+      "icon": "cable",
+      "featured": false,
+      "itemCount": 18,
+      "externalUrl": "https://www.pnwx.com/Parts/HT_Cables/",
+      "subcategories": [
+        {
+          "id": "single-tank-cables",
+          "name": "Single Tank HV Cables",
+          "description": "High voltage cables for single tank X-ray systems",
+          "image": "https://www.pnwx.com/Parts/HT_Cables/image.jpg",
+          "url": "https://www.pnwx.com/Parts/HT_Cables/",
+          "manufacturer": "Various",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "SINGLE-TANK-CABLES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Parts/HT_Cables/image.jpg",
+            "https://www.pnwx.com/Parts/HT_Cables/image.gif",
+            "https://www.pnwx.com/Parts/HT_Cables/product.jpg",
+            "https://www.pnwx.com/Parts/HT_Cables/main.jpg",
+            "https://www.pnwx.com/Parts/HT_Cables.jpg"
+          ]
+        },
+        {
+          "id": "bipolar-cables",
+          "name": "Bipolar HV Cables",
+          "description": "Bipolar high voltage cables for dual tank systems",
+          "image": "https://www.pnwx.com/Parts/HT_Cables/image.jpg",
+          "url": "https://www.pnwx.com/Parts/HT_Cables/",
+          "manufacturer": "Various",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "BIPOLAR-CABLES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Parts/HT_Cables/image.jpg",
+            "https://www.pnwx.com/Parts/HT_Cables/image.gif",
+            "https://www.pnwx.com/Parts/HT_Cables/product.jpg",
+            "https://www.pnwx.com/Parts/HT_Cables/main.jpg",
+            "https://www.pnwx.com/Parts/HT_Cables.jpg"
+          ]
+        }
+      ]
+    }
+  ],
+  "contactInfo": {
+    "phone": "1-503-667-3000",
+    "tollFree": "800-827-XRAY (800-827-9729)",
+    "fax": "1-503-666-8855",
+    "email": "SalesD@pnwx.com",
+    "hours": "8am - 5pm Monday-Friday (Pacific/West Coast Time)",
+    "address": {
+      "street": "P.O. Box 625",
+      "city": "Gresham",
+      "state": "OR",
+      "zip": "97030",
+      "country": "U.S.A."
+    }
+  },
+  "orderingInfo": {
+    "minimumOrder": 30,
+    "poMinimumOrder": 500,
+    "orderFormUrl": "https://www.pnwx.com/PNWX-OrderForm.pdf",
+    "acceptedPayments": [
+      "Credit Card",
+      "Purchase Order",
+      "Check",
+      "Wire Transfer"
+    ],
+    "creditApprovalRequired": true
+  }
+}

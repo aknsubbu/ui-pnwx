@@ -48,10 +48,10 @@ import {
 
 export const Navbar = () => {
   const productIcons = {
-    xray: <XRayIcon className="text-primary" />,
-    ultrasound: <UltrasoundIcon className="text-secondary" />,
-    mri: <MRIIcon className="text-success" />,
-    ctscan: <CTScanIcon className="text-warning" />,
+    equipment: <XRayIcon className="text-primary" />,
+    accessories: <UltrasoundIcon className="text-secondary" />,
+    supplies: <MRIIcon className="text-success" />,
+    parts: <CTScanIcon className="text-warning" />,
   };
 
   const solutionIcons = {
@@ -116,36 +116,36 @@ export const Navbar = () => {
                     {item.label === "Products" ? (
                       <>
                         <DropdownItem
-                          key="xray"
-                          description="Advanced X-Ray systems for precise imaging"
-                          startContent={productIcons.xray}
-                          href="/products/xray"
+                          key="equipment"
+                          description="X-Ray/Radiology/Medical Equipment Main Directory "
+                          startContent={productIcons.equipment}
+                          href="/products/equipment"
                         >
-                          X-Ray Systems
+                          Equipment
                         </DropdownItem>
                         <DropdownItem
-                          key="ultrasound"
-                          description="High-resolution ultrasound machines"
-                          startContent={productIcons.ultrasound}
-                          href="/products/ultrasound"
+                          key="accessories"
+                          description="X-Ray/Radiology Accessories Main Directory"
+                          startContent={productIcons.accessories}
+                          href="/products/accessories"
                         >
-                          Ultrasound
+                          Accessories
                         </DropdownItem>
                         <DropdownItem
-                          key="mri"
-                          description="State-of-the-art MRI scanners"
-                          startContent={productIcons.mri}
-                          href="/products/mri"
+                          key="supplies"
+                          description="X-Ray Consumable Supplies"
+                          startContent={productIcons.supplies}
+                          href="/products/supplies"
                         >
-                          MRI Scanners
+                          Supplies
                         </DropdownItem>
                         <DropdownItem
-                          key="ctscan"
-                          description="Precision CT scanning equipment"
-                          startContent={productIcons.ctscan}
-                          href="/products/ct-scan"
+                          key="parts"
+                          description="X-Ray Parts and Components"
+                          startContent={productIcons.parts}
+                          href="/products/parts"
                         >
-                          CT Scanners
+                          Parts
                         </DropdownItem>
                       </>
                     ) : (

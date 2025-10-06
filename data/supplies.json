@@ -1,0 +1,651 @@
+{
+  "metadata": {
+    "lastUpdated": "2025-10-06",
+    "source": "https://www.pnwx.com/Supplies/",
+    "version": "1.0.0",
+    "pageType": "supplies"
+  },
+  "categories": [
+    {
+      "id": "hand-sanitizer",
+      "name": "Hand Sanitizer",
+      "description": "Alcohol-based sanitizer following WHO and FDA recommended formulas.",
+      "icon": "hand",
+      "itemCount": 1,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Supplies/Cleaners/Sanitizer/",
+      "subcategories": [
+        {
+          "id": "alcohol-sanitizer",
+          "name": "Hand Sanitizer",
+          "description": "WHO and FDA recommended formula alcohol-based sanitizer",
+          "url": "https://www.pnwx.com/Supplies/Cleaners/Sanitizer/",
+          "image": "https://www.pnwx.com/Supplies/Cleaners/Sanitizer/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "ALCOHOL-SANITIZER"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/Cleaners/Sanitizer/image.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/Sanitizer/image.gif",
+            "https://www.pnwx.com/Supplies/Cleaners/Sanitizer/product.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/Sanitizer/main.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/Sanitizer.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ct-gantry-covers",
+      "name": "CT Gantry Covers",
+      "description": "Protective covers for CT gantry from blood, contrast, and bodily fluids.",
+      "icon": "shield",
+      "itemCount": 1,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Supplies/EquipmentCovers/CTGantry/",
+      "subcategories": [
+        {
+          "id": "gantry-protection",
+          "name": "CT Gantry Covers",
+          "description": "Protective covers for CT equipment",
+          "url": "https://www.pnwx.com/Supplies/EquipmentCovers/CTGantry/",
+          "image": "https://www.pnwx.com/Supplies/EquipmentCovers/CTGantry/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "GANTRY-PROTECTION"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/EquipmentCovers/CTGantry/image.jpg",
+            "https://www.pnwx.com/Supplies/EquipmentCovers/CTGantry/image.gif",
+            "https://www.pnwx.com/Supplies/EquipmentCovers/CTGantry/product.jpg",
+            "https://www.pnwx.com/Supplies/EquipmentCovers/CTGantry/main.jpg",
+            "https://www.pnwx.com/Supplies/EquipmentCovers/CTGantry.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cr-plate-cleaning",
+      "name": "CR Plate Cleaning System",
+      "description": "Complete CR plate cleaning solution kit for over 500 imaging plates.",
+      "icon": "sparkles",
+      "itemCount": 1,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Supplies/Cleaners/CRPlates/",
+      "subcategories": [
+        {
+          "id": "cr-clean-system",
+          "name": "Clean Screen System",
+          "description": "Complete CR plate cleaning solution kit (500+ plates)",
+          "url": "https://www.pnwx.com/Supplies/Cleaners/CRPlates/",
+          "image": "https://www.pnwx.com/Supplies/Cleaners/CRPlates/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "CR-CLEAN-SYSTEM"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/Cleaners/CRPlates/image.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/CRPlates/image.gif",
+            "https://www.pnwx.com/Supplies/Cleaners/CRPlates/product.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/CRPlates/main.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/CRPlates.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd-dvd-storage",
+      "name": "Custom Printed CD/DVD Storage Media and Packaging",
+      "description": "Medical grade CD/DVD media with generic and custom printed packaging.",
+      "icon": "disc",
+      "itemCount": 1,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Supplies/CD-DVD/",
+      "subcategories": [
+        {
+          "id": "medical-cd-dvd",
+          "name": "CD Storage",
+          "description": "Medical grade CD/DVD media and custom packaging",
+          "url": "https://www.pnwx.com/Supplies/CD-DVD/",
+          "image": "https://www.pnwx.com/Supplies/CD-DVD/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MEDICAL-CD-DVD"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/CD-DVD/image.jpg",
+            "https://www.pnwx.com/Supplies/CD-DVD/image.gif",
+            "https://www.pnwx.com/Supplies/CD-DVD/product.jpg",
+            "https://www.pnwx.com/Supplies/CD-DVD/main.jpg",
+            "https://www.pnwx.com/Supplies/CD-DVD.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exam-gowns",
+      "name": "Exam Gowns/Capes",
+      "description": "Single-use patient examination capes and gowns.",
+      "icon": "shirt",
+      "itemCount": 1,
+      "featured": false,
+      "externalUrl": "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/",
+      "subcategories": [
+        {
+          "id": "patient-gowns",
+          "name": "Exam Capes/Gowns",
+          "description": "Single-use disposable patient apparel",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "PATIENT-GOWNS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "labels-dispensers",
+      "name": "Labels and Dispensers",
+      "description": "X-ray jacket marking labels and dispensing systems.",
+      "icon": "tag",
+      "itemCount": 1,
+      "featured": false,
+      "externalUrl": "https://www.pnwx.com/Supplies/Labels/",
+      "subcategories": [
+        {
+          "id": "envelope-labels",
+          "name": "Labels for Envelopes",
+          "description": "X-ray jacket marking labels and dispensers",
+          "url": "https://www.pnwx.com/Supplies/Labels/",
+          "image": "https://www.pnwx.com/Supplies/Labels/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "ENVELOPE-LABELS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/Labels/image.jpg",
+            "https://www.pnwx.com/Supplies/Labels/image.gif",
+            "https://www.pnwx.com/Supplies/Labels/product.jpg",
+            "https://www.pnwx.com/Supplies/Labels/main.jpg",
+            "https://www.pnwx.com/Supplies/Labels.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-envelopes",
+      "name": "Mailing / Filing Envelopes and Category Inserts",
+      "description": "Complete line of film storage and mailing envelopes.",
+      "icon": "mail",
+      "itemCount": 1,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Supplies/Envelopes/",
+      "subcategories": [
+        {
+          "id": "film-jackets",
+          "name": "Film Envelopes and Jackets",
+          "description": "Mailing envelopes, film jackets, mammo jackets, midi jackets, loan jackets, report folders, category inserts",
+          "url": "https://www.pnwx.com/Supplies/Envelopes/",
+          "image": "https://www.pnwx.com/Supplies/Envelopes/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "FILM-JACKETS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/Envelopes/image.jpg",
+            "https://www.pnwx.com/Supplies/Envelopes/image.gif",
+            "https://www.pnwx.com/Supplies/Envelopes/product.jpg",
+            "https://www.pnwx.com/Supplies/Envelopes/main.jpg",
+            "https://www.pnwx.com/Supplies/Envelopes.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mri-breast-coil-covers",
+      "name": "MRI Breast Coil Covers",
+      "description": "Disposable breast coil drapes for specific MR systems.",
+      "icon": "medical",
+      "itemCount": 1,
+      "featured": false,
+      "externalUrl": "https://www.pnwx.com/Supplies/Covers/MRI/",
+      "subcategories": [
+        {
+          "id": "breast-coil-drapes",
+          "name": "Breast Coil Covers/Drapes",
+          "description": "Disposable breast coil drapes for MRI systems",
+          "url": "https://www.pnwx.com/Supplies/Covers/MRI/",
+          "image": "https://www.pnwx.com/Supplies/Covers/MRI/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "BREAST-COIL-DRAPES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/Covers/MRI/image.jpg",
+            "https://www.pnwx.com/Supplies/Covers/MRI/image.gif",
+            "https://www.pnwx.com/Supplies/Covers/MRI/product.jpg",
+            "https://www.pnwx.com/Supplies/Covers/MRI/main.jpg",
+            "https://www.pnwx.com/Supplies/Covers/MRI.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mri-earplugs",
+      "name": "MRI Safe Earplugs/Hearing Protection",
+      "description": "MR-safe foam earplugs with no known hazards.",
+      "icon": "ear",
+      "itemCount": 1,
+      "featured": false,
+      "externalUrl": "https://www.pnwx.com/Supplies/MRI/EarProtection/",
+      "subcategories": [
+        {
+          "id": "hearing-protection",
+          "name": "MRI Earplugs",
+          "description": "MRI-safe foam earplugs for patient hearing protection",
+          "url": "https://www.pnwx.com/Supplies/MRI/EarProtection/",
+          "image": "https://www.pnwx.com/Supplies/MRI/EarProtection/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "HEARING-PROTECTION"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/MRI/EarProtection/image.jpg",
+            "https://www.pnwx.com/Supplies/MRI/EarProtection/image.gif",
+            "https://www.pnwx.com/Supplies/MRI/EarProtection/product.jpg",
+            "https://www.pnwx.com/Supplies/MRI/EarProtection/main.jpg",
+            "https://www.pnwx.com/Supplies/MRI/EarProtection.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radioactive-decontamination",
+      "name": "Radioactive Decontamination Products",
+      "description": "BindIt safe and effective radioactive iodine cleaning products.",
+      "icon": "nuclear",
+      "itemCount": 1,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Supplies/Cleaners/BindIt/",
+      "subcategories": [
+        {
+          "id": "bindit-cleaner",
+          "name": "BindIt Radioactive Decontamination",
+          "description": "Safe, gentle cleaner that binds and traps radioactive iodine for removal from surfaces and skin",
+          "url": "https://www.pnwx.com/Supplies/Cleaners/BindIt/",
+          "image": "https://www.pnwx.com/Supplies/Cleaners/BindIt/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "BINDIT-CLEANER"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/Cleaners/BindIt/image.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/BindIt/image.gif",
+            "https://www.pnwx.com/Supplies/Cleaners/BindIt/product.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/BindIt/main.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/BindIt.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cleaning-products",
+      "name": "Screen Cleaners and Surface Cleaners",
+      "description": "Comprehensive cleaning products for radiology departments.",
+      "icon": "sparkles",
+      "itemCount": 1,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Supplies/Cleaners/",
+      "subcategories": [
+        {
+          "id": "radiology-cleaners",
+          "name": "Radiology Department Cleaning Products",
+          "description": "Screen cleaners and spray cleaners for radiology",
+          "url": "https://www.pnwx.com/Supplies/Cleaners/",
+          "image": "https://www.pnwx.com/Supplies/Cleaners/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "RADIOLOGY-CLEANERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/Cleaners/image.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/image.gif",
+            "https://www.pnwx.com/Supplies/Cleaners/product.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/main.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ultrasound-gel",
+      "name": "Ultrasound Gel",
+      "description": "Wide array of ultrasound gels in bottles and larger jugs.",
+      "icon": "droplet",
+      "itemCount": 1,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Supplies/Ultrasound/",
+      "subcategories": [
+        {
+          "id": "us-gel-bottles",
+          "name": "Ultrasound Gel",
+          "description": "Ultrasound coupling gel in various sizes (bottles and jugs)",
+          "url": "https://www.pnwx.com/Supplies/Ultrasound/",
+          "image": "https://www.pnwx.com/Supplies/Ultrasound/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "US-GEL-BOTTLES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/Ultrasound/image.jpg",
+            "https://www.pnwx.com/Supplies/Ultrasound/image.gif",
+            "https://www.pnwx.com/Supplies/Ultrasound/product.jpg",
+            "https://www.pnwx.com/Supplies/Ultrasound/main.jpg",
+            "https://www.pnwx.com/Supplies/Ultrasound.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ultrasound-probe-covers",
+      "name": "Ultrasound Probe Covers",
+      "description": "Disposable protective covers for ultrasound probes.",
+      "icon": "shield",
+      "itemCount": 1,
+      "featured": false,
+      "externalUrl": "https://www.pnwx.com/Supplies/Covers/Ultrasound/",
+      "subcategories": [
+        {
+          "id": "probe-covers",
+          "name": "Ultrasound Probe Covers",
+          "description": "Disposable covers for ultrasound transducers",
+          "url": "https://www.pnwx.com/Supplies/Covers/Ultrasound/",
+          "image": "https://www.pnwx.com/Supplies/Covers/Ultrasound/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "PROBE-COVERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/Covers/Ultrasound/image.jpg",
+            "https://www.pnwx.com/Supplies/Covers/Ultrasound/image.gif",
+            "https://www.pnwx.com/Supplies/Covers/Ultrasound/product.jpg",
+            "https://www.pnwx.com/Supplies/Covers/Ultrasound/main.jpg",
+            "https://www.pnwx.com/Supplies/Covers/Ultrasound.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sanitizing-wipes",
+      "name": "Wipes",
+      "description": "Sanitizing wipes for medical and radiology facilities.",
+      "icon": "clean",
+      "itemCount": 1,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Supplies/Cleaners/Wipes/",
+      "subcategories": [
+        {
+          "id": "medical-wipes",
+          "name": "Sanitizing Wipes",
+          "description": "Surface sanitizing wipes for healthcare facilities",
+          "url": "https://www.pnwx.com/Supplies/Cleaners/Wipes/",
+          "image": "https://www.pnwx.com/Supplies/Cleaners/Wipes/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MEDICAL-WIPES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/Cleaners/Wipes/image.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/Wipes/image.gif",
+            "https://www.pnwx.com/Supplies/Cleaners/Wipes/product.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/Wipes/main.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/Wipes.jpg"
+          ]
+        }
+      ]
+    }
+  ],
+  "contactInfo": {
+    "phone": "1-503-667-3000",
+    "tollFree": "800-827-9729",
+    "fax": "1-503-666-8855",
+    "email": "SalesD@pnwx.com",
+    "hours": "8am - 5pm Monday-Friday (Pacific/West Coast Time)",
+    "address": {
+      "street": "P.O. Box 625",
+      "city": "Gresham",
+      "state": "OR",
+      "zip": "97030",
+      "country": "USA"
+    }
+  },
+  "orderingInfo": {
+    "minimumOrder": 30,
+    "poMinimumOrder": 500,
+    "orderFormUrl": "/PNWX-OrderForm.pdf",
+    "acceptedPayments": [
+      "Purchase Order",
+      "Credit Card",
+      "Cash"
+    ],
+    "creditApprovalRequired": true
+  }
+}

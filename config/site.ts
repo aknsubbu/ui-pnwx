@@ -4,6 +4,10 @@ export const siteConfig = {
   name: "Pacific Northwest X-Ray, Inc.",
   description: "Make your medical imaging easier.",
   navItems: [
+    { label: "Equipment", href: "/equipment", hasDropdown: false },
+    { label: "Accessories", href: "/accessories", hasDropdown: false },
+    { label: "Supplies", href: "/supplies", hasDropdown: false },
+    { label: "Parts", href: "/parts", hasDropdown: false },
     { label: "Products", href: "/products", hasDropdown: true },
     { label: "Solutions", href: "/solutions", hasDropdown: true },
     { label: "About Us", href: "/about", hasDropdown: false },

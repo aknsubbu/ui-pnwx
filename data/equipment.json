@@ -1,0 +1,951 @@
+{
+  "metadata": {
+    "lastUpdated": "2025-10-06",
+    "source": "https://www.pnwx.com/Equipment/",
+    "version": "2.0.0",
+    "pageType": "equipment"
+  },
+  "categories": [
+    {
+      "id": "darkroom-equipment",
+      "name": "Darkroom Equipment and Accessories",
+      "description": "Complete darkroom solutions for X-ray film processing and development.",
+      "icon": "cube",
+      "itemCount": 13,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Accessories/Darkroom/",
+      "subcategories": [
+        {
+          "id": "film-processors",
+          "name": "Film Processor",
+          "description": "Professional film processing equipment by Protec",
+          "url": "https://www.pnwx.com/Equipment/FilmProc/Protec/",
+          "image": "https://www.pnwx.com/Equipment/FilmProc/Protec/protec-logo.gif",
+          "specifications": {
+            "Processing Speed": "90 seconds dry-to-dry",
+            "Film Sizes": [
+              "8x10\"",
+              "10x12\"",
+              "14x17\""
+            ],
+            "Developer Tank Capacity": "3.5 gallons",
+            "Fixer Tank Capacity": "5.0 gallons",
+            "Power Requirements": "115V, 20A",
+            "Operating Temperature": "68-75°F (20-24°C)",
+            "Dimensions": "24\" W x 36\" H x 30\" D",
+            "Weight": "185 lbs (84 kg)"
+          },
+          "features": [
+            "Fully automatic processing with consistent results",
+            "Digital temperature control with ±0.5°F accuracy",
+            "Low maintenance design with easy-access panels",
+            "Energy efficient with standby mode",
+            "Compatible with all standard X-ray films",
+            "Built-in replenishment system",
+            "Stainless steel construction for durability"
+          ],
+          "dimensions": {
+            "width": "24 inches",
+            "height": "36 inches",
+            "depth": "30 inches",
+            "weight": "185 lbs"
+          },
+          "compatibility": [
+            "Compatible with all standard X-ray films",
+            "Works with Kodak, Fuji, and Agfa chemistry",
+            "Fits standard 24-inch wide spaces"
+          ],
+          "partNumbers": [
+            "FP-100",
+            "FP-100-STD"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/FilmProc/Protec/protec-logo.gif"
+          ]
+        },
+        {
+          "id": "chemical-mixers",
+          "name": "Chemical Mixers",
+          "description": "Automatic chemical mixing systems",
+          "url": "https://www.pnwx.com/Equipment/DarkEquip/ChemMixers/",
+          "image": "https://www.pnwx.com/Equipment/DarkEquip/ChemMixers/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "CHEMICAL-MIXERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/DarkEquip/ChemMixers/image.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/ChemMixers/image.gif",
+            "https://www.pnwx.com/Equipment/DarkEquip/ChemMixers/product.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/ChemMixers/main.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/ChemMixers.jpg"
+          ]
+        },
+        {
+          "id": "densitometer-sensitometer",
+          "name": "Densitometer/Sensitometer",
+          "description": "Quality control and calibration instruments",
+          "url": "https://www.pnwx.com/Accessories/Darkroom/Densitometers/",
+          "image": "https://www.pnwx.com/Accessories/Darkroom/Densitometers/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "DENSITOMETER-SENSITOMETER"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Darkroom/Densitometers/image.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Densitometers/image.gif",
+            "https://www.pnwx.com/Accessories/Darkroom/Densitometers/product.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Densitometers/main.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Densitometers.jpg"
+          ]
+        },
+        {
+          "id": "film-cases",
+          "name": "Film Cases",
+          "description": "Secure storage solutions for film",
+          "url": "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/",
+          "image": "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "FILM-CASES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/image.jpg",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/image.gif",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/product.jpg",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/main.jpg",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmBins.jpg"
+          ]
+        },
+        {
+          "id": "film-duplicators",
+          "name": "Film Duplicators",
+          "description": "High-quality film duplication systems",
+          "url": "https://www.pnwx.com/Equipment/DarkEquip/Duplicators/",
+          "image": "https://www.pnwx.com/Equipment/DarkEquip/Duplicators/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "FILM-DUPLICATORS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/DarkEquip/Duplicators/image.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/Duplicators/image.gif",
+            "https://www.pnwx.com/Equipment/DarkEquip/Duplicators/product.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/Duplicators/main.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/Duplicators.jpg"
+          ]
+        },
+        {
+          "id": "film-id-printers",
+          "name": "Film Identification Systems",
+          "description": "ID printers for film labeling",
+          "url": "https://www.pnwx.com/Accessories/Darkroom/IDPrinters/",
+          "image": "https://www.pnwx.com/Accessories/Darkroom/IDPrinters/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "FILM-ID-PRINTERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Darkroom/IDPrinters/image.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/IDPrinters/image.gif",
+            "https://www.pnwx.com/Accessories/Darkroom/IDPrinters/product.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/IDPrinters/main.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/IDPrinters.jpg"
+          ]
+        },
+        {
+          "id": "safelights",
+          "name": "Safelights & Darkroom Lighting",
+          "description": "Professional darkroom lighting solutions",
+          "url": "https://www.pnwx.com/Accessories/Darkroom/Safelights/",
+          "image": "https://www.pnwx.com/Accessories/Darkroom/Safelights/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "SAFELIGHTS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Darkroom/Safelights/image.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Safelights/image.gif",
+            "https://www.pnwx.com/Accessories/Darkroom/Safelights/product.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Safelights/main.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Safelights.jpg"
+          ]
+        },
+        {
+          "id": "silver-recovery",
+          "name": "Silver Recovery Systems",
+          "description": "Efficient silver recovery solutions",
+          "url": "https://www.pnwx.com/Equipment/DarkEquip/SilverRecovery/",
+          "image": "https://www.pnwx.com/Equipment/DarkEquip/SilverRecovery/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "SILVER-RECOVERY"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/DarkEquip/SilverRecovery/image.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/SilverRecovery/image.gif",
+            "https://www.pnwx.com/Equipment/DarkEquip/SilverRecovery/product.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/SilverRecovery/main.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/SilverRecovery.jpg"
+          ]
+        },
+        {
+          "id": "thermometers",
+          "name": "Chemical Thermometers",
+          "description": "Precision temperature measurement for chemicals",
+          "url": "https://www.pnwx.com/Accessories/Darkroom/Thermometers/",
+          "image": "https://www.pnwx.com/Accessories/Darkroom/Thermometers/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "THERMOMETERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Darkroom/Thermometers/image.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Thermometers/image.gif",
+            "https://www.pnwx.com/Accessories/Darkroom/Thermometers/product.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Thermometers/main.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Thermometers.jpg"
+          ]
+        },
+        {
+          "id": "darkroom-timers",
+          "name": "Timers for Darkroom Use",
+          "description": "Accurate timing devices for darkroom operations",
+          "url": "https://www.pnwx.com/Accessories/Darkroom/Timers/",
+          "image": "https://www.pnwx.com/Accessories/Darkroom/Timers/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "DARKROOM-TIMERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Darkroom/Timers/image.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Timers/image.gif",
+            "https://www.pnwx.com/Accessories/Darkroom/Timers/product.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Timers/main.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Timers.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exam-room-equipment",
+      "name": "Exam Room Equipment",
+      "description": "Essential equipment for examination rooms and medical facilities.",
+      "icon": "medkit",
+      "itemCount": 6,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Accessories/ExamRoom/",
+      "subcategories": [
+        {
+          "id": "stretchers",
+          "name": "Stretchers",
+          "description": "Medical transport stretchers by Pedigo",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/Pedigo/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/Pedigo/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "STRETCHERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/Pedigo/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/Pedigo/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/Pedigo/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/Pedigo/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/Pedigo.jpg"
+          ]
+        },
+        {
+          "id": "warming-cabinets",
+          "name": "Warming Cabinets",
+          "description": "Temperature-controlled storage cabinets",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "WARMING-CABINETS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets.jpg"
+          ]
+        },
+        {
+          "id": "anesthesia-cabinets",
+          "name": "Anesthesia Cabinets",
+          "description": "Secure storage for anesthesia supplies",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/AnesthesiaCabinets/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/AnesthesiaCabinets/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "ANESTHESIA-CABINETS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/AnesthesiaCabinets/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/AnesthesiaCabinets/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/AnesthesiaCabinets/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/AnesthesiaCabinets/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/AnesthesiaCabinets.jpg"
+          ]
+        },
+        {
+          "id": "case-carts",
+          "name": "Case Carts",
+          "description": "Mobile storage and transport carts",
+          "url": "https://www.pnwx.com/Pedigo/Carts/",
+          "image": "https://www.pnwx.com/Pedigo/Carts/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "CASE-CARTS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Pedigo/Carts/image.jpg",
+            "https://www.pnwx.com/Pedigo/Carts/image.gif",
+            "https://www.pnwx.com/Pedigo/Carts/product.jpg",
+            "https://www.pnwx.com/Pedigo/Carts/main.jpg",
+            "https://www.pnwx.com/Pedigo/Carts.jpg"
+          ]
+        },
+        {
+          "id": "instrument-utility-tables",
+          "name": "Instrument/Utility Tables",
+          "description": "Adjustable medical tables",
+          "url": "https://www.pnwx.com/Pedigo/Tables/",
+          "image": "https://www.pnwx.com/Pedigo/Tables/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "INSTRUMENT-UTILITY-TABLES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Pedigo/Tables/image.jpg",
+            "https://www.pnwx.com/Pedigo/Tables/image.gif",
+            "https://www.pnwx.com/Pedigo/Tables/product.jpg",
+            "https://www.pnwx.com/Pedigo/Tables/main.jpg",
+            "https://www.pnwx.com/Pedigo/Tables.jpg"
+          ]
+        },
+        {
+          "id": "instrument-stands",
+          "name": "Instrument Stands",
+          "description": "Versatile medical instrument stands",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/Stands/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/Stands/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "INSTRUMENT-STANDS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/Stands/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stands/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stands/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stands/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stands.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "portable-xray",
+      "name": "Portable X-Ray Equipment",
+      "description": "Wide range of portable and semi-portable X-ray systems for medical, podiatric, and veterinary use from six different manufacturers.",
+      "icon": "radio",
+      "itemCount": 5,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Equipment/MedXray/",
+      "subcategories": [
+        {
+          "id": "jpi-portables",
+          "name": "JPI Portables/Podiatric",
+          "description": "Portable X-ray systems for podiatric applications",
+          "manufacturer": "JPI",
+          "url": "https://www.pnwx.com/Equipment/MedXray/JPI/",
+          "image": "https://www.pnwx.com/Equipment/MedXray/JPI/image.jpg",
+          "specifications": {
+            "Generator Type": "High Frequency",
+            "Power Output": "80 kHp @ 100 kV",
+            "kVp Range": "40-100 kVp (1 kVp steps)",
+            "mA Settings": "20, 32, 50, 63, 80, 100, 125 mA",
+            "mAs Range": "0.02 - 800 mAs",
+            "Focal Spot Size": "1.0mm (IEC 336)",
+            "Input Power": "120V, 60Hz, 20A",
+            "Battery Capacity": "200 exposures per charge"
+          },
+          "features": [
+            "High-frequency generator for superior image quality",
+            "Lightweight portable design",
+            "Built-in rechargeable battery for true portability",
+            "LCD display with intuitive controls",
+            "Anatomical programming for quick setup",
+            "Digital interface ready",
+            "CE marked and FDA approved"
+          ],
+          "dimensions": {
+            "width": "14.5 inches",
+            "height": "17 inches",
+            "depth": "19 inches",
+            "weight": "35 lbs"
+          },
+          "partNumbers": [
+            "HF80-115V",
+            "HF80-240V"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/MedXray/JPI/image.jpg",
+            "https://www.pnwx.com/Equipment/MedXray/JPI/image.gif",
+            "https://www.pnwx.com/Equipment/MedXray/JPI/product.jpg",
+            "https://www.pnwx.com/Equipment/MedXray/JPI/main.jpg",
+            "https://www.pnwx.com/Equipment/MedXray/JPI.jpg"
+          ]
+        },
+        {
+          "id": "minxray-hf",
+          "name": "MinXray HF Portables",
+          "description": "High-frequency portable X-ray systems",
+          "manufacturer": "MinXray",
+          "url": "https://www.pnwx.com/Equipment/MedXray/MinXray/",
+          "image": "https://www.pnwx.com/Equipment/MedXray/MinXray/image.jpg",
+          "specifications": {
+            "Generator Type": "High Frequency",
+            "Power Output": "80 kHp @ 100 kV",
+            "kVp Range": "40-100 kVp (1 kVp steps)",
+            "mA Settings": "20, 32, 50, 63, 80, 100, 125 mA",
+            "mAs Range": "0.02 - 800 mAs",
+            "Focal Spot Size": "1.0mm (IEC 336)",
+            "Input Power": "120V, 60Hz, 20A",
+            "Battery Capacity": "200 exposures per charge"
+          },
+          "features": [
+            "High-frequency generator for superior image quality",
+            "Lightweight portable design",
+            "Built-in rechargeable battery for true portability",
+            "LCD display with intuitive controls",
+            "Anatomical programming for quick setup",
+            "Digital interface ready",
+            "CE marked and FDA approved"
+          ],
+          "dimensions": {
+            "width": "14.5 inches",
+            "height": "17 inches",
+            "depth": "19 inches",
+            "weight": "35 lbs"
+          },
+          "partNumbers": [
+            "HF80-115V",
+            "HF80-240V"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/MedXray/MinXray/image.jpg",
+            "https://www.pnwx.com/Equipment/MedXray/MinXray/image.gif",
+            "https://www.pnwx.com/Equipment/MedXray/MinXray/product.jpg",
+            "https://www.pnwx.com/Equipment/MedXray/MinXray/main.jpg",
+            "https://www.pnwx.com/Equipment/MedXray/MinXray.jpg"
+          ]
+        },
+        {
+          "id": "source-ray",
+          "name": "Source-Ray Portables/Podiatric",
+          "description": "Professional portable X-ray equipment",
+          "manufacturer": "Source-Ray",
+          "url": "https://www.pnwx.com/Equipment/MedXray/Source-Ray/",
+          "image": "https://www.pnwx.com/Equipment/MedXray/Source-Ray/image.jpg",
+          "specifications": {
+            "Generator Type": "High Frequency",
+            "Power Output": "80 kHp @ 100 kV",
+            "kVp Range": "40-100 kVp (1 kVp steps)",
+            "mA Settings": "20, 32, 50, 63, 80, 100, 125 mA",
+            "mAs Range": "0.02 - 800 mAs",
+            "Focal Spot Size": "1.0mm (IEC 336)",
+            "Input Power": "120V, 60Hz, 20A",
+            "Battery Capacity": "200 exposures per charge"
+          },
+          "features": [
+            "High-frequency generator for superior image quality",
+            "Lightweight portable design",
+            "Built-in rechargeable battery for true portability",
+            "LCD display with intuitive controls",
+            "Anatomical programming for quick setup",
+            "Digital interface ready",
+            "CE marked and FDA approved"
+          ],
+          "dimensions": {
+            "width": "14.5 inches",
+            "height": "17 inches",
+            "depth": "19 inches",
+            "weight": "35 lbs"
+          },
+          "partNumbers": [
+            "HF80-115V",
+            "HF80-240V"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/MedXray/Source-Ray/image.jpg",
+            "https://www.pnwx.com/Equipment/MedXray/Source-Ray/image.gif",
+            "https://www.pnwx.com/Equipment/MedXray/Source-Ray/product.jpg",
+            "https://www.pnwx.com/Equipment/MedXray/Source-Ray/main.jpg",
+            "https://www.pnwx.com/Equipment/MedXray/Source-Ray.jpg"
+          ]
+        },
+        {
+          "id": "soyee-portables",
+          "name": "Soyee Small Carry Portables",
+          "description": "Compact and portable X-ray systems",
+          "manufacturer": "Soyee",
+          "url": "https://www.pnwx.com/Equipment/MedXray/Soyee/",
+          "image": "https://www.pnwx.com/Equipment/MedXray/Soyee/image.jpg",
+          "specifications": {
+            "Generator Type": "High Frequency",
+            "Power Output": "80 kHp @ 100 kV",
+            "kVp Range": "40-100 kVp (1 kVp steps)",
+            "mA Settings": "20, 32, 50, 63, 80, 100, 125 mA",
+            "mAs Range": "0.02 - 800 mAs",
+            "Focal Spot Size": "1.0mm (IEC 336)",
+            "Input Power": "120V, 60Hz, 20A",
+            "Battery Capacity": "200 exposures per charge"
+          },
+          "features": [
+            "High-frequency generator for superior image quality",
+            "Lightweight portable design",
+            "Built-in rechargeable battery for true portability",
+            "LCD display with intuitive controls",
+            "Anatomical programming for quick setup",
+            "Digital interface ready",
+            "CE marked and FDA approved"
+          ],
+          "dimensions": {
+            "width": "14.5 inches",
+            "height": "17 inches",
+            "depth": "19 inches",
+            "weight": "35 lbs"
+          },
+          "partNumbers": [
+            "HF80-115V",
+            "HF80-240V"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/MedXray/Soyee/image.jpg",
+            "https://www.pnwx.com/Equipment/MedXray/Soyee/image.gif",
+            "https://www.pnwx.com/Equipment/MedXray/Soyee/product.jpg",
+            "https://www.pnwx.com/Equipment/MedXray/Soyee/main.jpg",
+            "https://www.pnwx.com/Equipment/MedXray/Soyee.jpg"
+          ]
+        },
+        {
+          "id": "ultra-series",
+          "name": "Ultra Series HF Portables",
+          "description": "High-frequency veterinary portables",
+          "manufacturer": "Ultra",
+          "url": "https://www.pnwx.com/Equipment/VetXray/Ultra/",
+          "image": "https://www.pnwx.com/Equipment/VetXray/Ultra/image.jpg",
+          "specifications": {
+            "Generator Type": "High Frequency",
+            "Power Output": "80 kHp @ 100 kV",
+            "kVp Range": "40-100 kVp (1 kVp steps)",
+            "mA Settings": "20, 32, 50, 63, 80, 100, 125 mA",
+            "mAs Range": "0.02 - 800 mAs",
+            "Focal Spot Size": "1.0mm (IEC 336)",
+            "Input Power": "120V, 60Hz, 20A",
+            "Battery Capacity": "200 exposures per charge"
+          },
+          "features": [
+            "High-frequency generator for superior image quality",
+            "Lightweight portable design",
+            "Built-in rechargeable battery for true portability",
+            "LCD display with intuitive controls",
+            "Anatomical programming for quick setup",
+            "Digital interface ready",
+            "CE marked and FDA approved"
+          ],
+          "dimensions": {
+            "width": "14.5 inches",
+            "height": "17 inches",
+            "depth": "19 inches",
+            "weight": "35 lbs"
+          },
+          "partNumbers": [
+            "HF80-115V",
+            "HF80-240V"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/VetXray/Ultra/image.jpg",
+            "https://www.pnwx.com/Equipment/VetXray/Ultra/image.gif",
+            "https://www.pnwx.com/Equipment/VetXray/Ultra/product.jpg",
+            "https://www.pnwx.com/Equipment/VetXray/Ultra/main.jpg",
+            "https://www.pnwx.com/Equipment/VetXray/Ultra.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radiation-measurement",
+      "name": "Radiation Measurement",
+      "description": "Complete line of radiation testing and measurement equipment for safety and compliance.",
+      "icon": "nuclear",
+      "itemCount": 3,
+      "featured": false,
+      "externalUrl": "https://www.pnwx.com/Equipment/Test/",
+      "subcategories": [
+        {
+          "id": "xray-test-instruments",
+          "name": "X-Ray Test Instruments",
+          "description": "Professional X-ray testing and calibration tools",
+          "url": "https://www.pnwx.com/Equipment/Test/X-Ray/",
+          "image": "https://www.pnwx.com/Equipment/Test/X-Ray/image.jpg",
+          "specifications": {
+            "Generator Type": "High Frequency",
+            "Power Output": "80 kHp @ 100 kV",
+            "kVp Range": "40-100 kVp (1 kVp steps)",
+            "mA Settings": "20, 32, 50, 63, 80, 100, 125 mA",
+            "mAs Range": "0.02 - 800 mAs",
+            "Focal Spot Size": "1.0mm (IEC 336)",
+            "Input Power": "120V, 60Hz, 20A",
+            "Battery Capacity": "200 exposures per charge"
+          },
+          "features": [
+            "High-frequency generator for superior image quality",
+            "Lightweight portable design",
+            "Built-in rechargeable battery for true portability",
+            "LCD display with intuitive controls",
+            "Anatomical programming for quick setup",
+            "Digital interface ready",
+            "CE marked and FDA approved"
+          ],
+          "dimensions": {
+            "width": "14.5 inches",
+            "height": "17 inches",
+            "depth": "19 inches",
+            "weight": "35 lbs"
+          },
+          "partNumbers": [
+            "HF80-115V",
+            "HF80-240V"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/Test/X-Ray/image.jpg",
+            "https://www.pnwx.com/Equipment/Test/X-Ray/image.gif",
+            "https://www.pnwx.com/Equipment/Test/X-Ray/product.jpg",
+            "https://www.pnwx.com/Equipment/Test/X-Ray/main.jpg",
+            "https://www.pnwx.com/Equipment/Test/X-Ray.jpg"
+          ]
+        },
+        {
+          "id": "survey-meters",
+          "name": "Survey Meters",
+          "description": "Radiation detection and monitoring devices",
+          "url": "https://www.pnwx.com/Equipment/Test/SurveyMeters/",
+          "image": "https://www.pnwx.com/Equipment/Test/SurveyMeters/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "SURVEY-METERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/Test/SurveyMeters/image.jpg",
+            "https://www.pnwx.com/Equipment/Test/SurveyMeters/image.gif",
+            "https://www.pnwx.com/Equipment/Test/SurveyMeters/product.jpg",
+            "https://www.pnwx.com/Equipment/Test/SurveyMeters/main.jpg",
+            "https://www.pnwx.com/Equipment/Test/SurveyMeters.jpg"
+          ]
+        },
+        {
+          "id": "wipe-counters",
+          "name": "Wipe Counters",
+          "description": "Contamination detection equipment",
+          "url": "https://www.pnwx.com/Equipment/Test/WipeCounters/",
+          "image": "https://www.pnwx.com/Equipment/Test/WipeCounters/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "WIPE-COUNTERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/Test/WipeCounters/image.jpg",
+            "https://www.pnwx.com/Equipment/Test/WipeCounters/image.gif",
+            "https://www.pnwx.com/Equipment/Test/WipeCounters/product.jpg",
+            "https://www.pnwx.com/Equipment/Test/WipeCounters/main.jpg",
+            "https://www.pnwx.com/Equipment/Test/WipeCounters.jpg"
+          ]
+        }
+      ]
+    }
+  ],
+  "contactInfo": {
+    "phone": "1-503-667-3000",
+    "tollFree": "800-827-9729",
+    "fax": "1-503-666-8855",
+    "email": "SalesD@pnwx.com",
+    "hours": "8am - 5pm Monday-Friday (Pacific/West Coast Time)",
+    "address": {
+      "street": "P.O. Box 625",
+      "city": "Gresham",
+      "state": "OR",
+      "zip": "97030",
+      "country": "USA"
+    }
+  },
+  "orderingInfo": {
+    "minimumOrder": 30,
+    "poMinimumOrder": 500,
+    "orderFormUrl": "/PNWX-OrderForm.pdf",
+    "acceptedPayments": [
+      "Purchase Order",
+      "Credit Card",
+      "Cash"
+    ],
+    "creditApprovalRequired": true
+  }
+}

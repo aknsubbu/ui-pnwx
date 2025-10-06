@@ -1,0 +1,4288 @@
+{
+  "metadata": {
+    "lastUpdated": "2025-10-06",
+    "source": "https://www.pnwx.com/Accessories/",
+    "version": "1.0.0",
+    "pageType": "accessories"
+  },
+  "categories": [
+    {
+      "id": "darkroom-products",
+      "name": "Darkroom Products",
+      "description": "Complete darkroom accessories and supplies for film processing.",
+      "icon": "cube",
+      "itemCount": 10,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Accessories/Darkroom/",
+      "subcategories": [
+        {
+          "id": "film-processor",
+          "name": "Film Processor",
+          "description": "Professional film processing equipment",
+          "url": "https://www.pnwx.com/Equipment/FilmProc/Protec/",
+          "image": "https://www.pnwx.com/Equipment/FilmProc/Protec/image.jpg",
+          "specifications": {
+            "Processing Speed": "90 seconds dry-to-dry",
+            "Film Sizes": [
+              "8x10\"",
+              "10x12\"",
+              "14x17\""
+            ],
+            "Developer Tank Capacity": "3.5 gallons",
+            "Fixer Tank Capacity": "5.0 gallons",
+            "Power Requirements": "115V, 20A",
+            "Operating Temperature": "68-75°F (20-24°C)",
+            "Dimensions": "24\" W x 36\" H x 30\" D",
+            "Weight": "185 lbs (84 kg)"
+          },
+          "features": [
+            "Fully automatic processing with consistent results",
+            "Digital temperature control with ±0.5°F accuracy",
+            "Low maintenance design with easy-access panels",
+            "Energy efficient with standby mode",
+            "Compatible with all standard X-ray films",
+            "Built-in replenishment system",
+            "Stainless steel construction for durability"
+          ],
+          "dimensions": {
+            "width": "24 inches",
+            "height": "36 inches",
+            "depth": "30 inches",
+            "weight": "185 lbs"
+          },
+          "compatibility": [
+            "Compatible with all standard X-ray films",
+            "Works with Kodak, Fuji, and Agfa chemistry",
+            "Fits standard 24-inch wide spaces"
+          ],
+          "partNumbers": [
+            "FP-100",
+            "FP-100-STD"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/FilmProc/Protec/image.jpg",
+            "https://www.pnwx.com/Equipment/FilmProc/Protec/image.gif",
+            "https://www.pnwx.com/Equipment/FilmProc/Protec/product.jpg",
+            "https://www.pnwx.com/Equipment/FilmProc/Protec/main.jpg",
+            "https://www.pnwx.com/Equipment/FilmProc/Protec.jpg"
+          ]
+        },
+        {
+          "id": "chemical-mixers",
+          "name": "Chemical Mixers",
+          "description": "Automatic chemical mixing systems",
+          "url": "https://www.pnwx.com/Equipment/DarkEquip/ChemMixers/",
+          "image": "https://www.pnwx.com/Equipment/DarkEquip/ChemMixers/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "CHEMICAL-MIXERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/DarkEquip/ChemMixers/image.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/ChemMixers/image.gif",
+            "https://www.pnwx.com/Equipment/DarkEquip/ChemMixers/product.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/ChemMixers/main.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/ChemMixers.jpg"
+          ]
+        },
+        {
+          "id": "film-bins",
+          "name": "Film Bins",
+          "description": "Storage bins for unexposed film",
+          "url": "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/",
+          "image": "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "FILM-BINS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/image.jpg",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/image.gif",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/product.jpg",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/main.jpg",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmBins.jpg"
+          ]
+        },
+        {
+          "id": "film-carrying-cases",
+          "name": "Film Carrying Cases",
+          "description": "Protective cases for film transport",
+          "url": "https://www.pnwx.com/Accessories/Transport/",
+          "image": "https://www.pnwx.com/Accessories/Transport/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "FILM-CARRYING-CASES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Transport/image.jpg",
+            "https://www.pnwx.com/Accessories/Transport/image.gif",
+            "https://www.pnwx.com/Accessories/Transport/product.jpg",
+            "https://www.pnwx.com/Accessories/Transport/main.jpg",
+            "https://www.pnwx.com/Accessories/Transport.jpg"
+          ]
+        },
+        {
+          "id": "film-duplicators",
+          "name": "Film Duplicators",
+          "description": "High-quality film duplication equipment",
+          "url": "https://www.pnwx.com/Equipment/DarkEquip/Duplicators/",
+          "image": "https://www.pnwx.com/Equipment/DarkEquip/Duplicators/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "FILM-DUPLICATORS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/DarkEquip/Duplicators/image.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/Duplicators/image.gif",
+            "https://www.pnwx.com/Equipment/DarkEquip/Duplicators/product.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/Duplicators/main.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/Duplicators.jpg"
+          ]
+        },
+        {
+          "id": "film-id-systems",
+          "name": "Film Identification Systems (ID Printers)",
+          "description": "Film labeling and identification printers",
+          "url": "https://www.pnwx.com/Accessories/Darkroom/IDPrinters/",
+          "image": "https://www.pnwx.com/Accessories/Darkroom/IDPrinters/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "FILM-ID-SYSTEMS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Darkroom/IDPrinters/image.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/IDPrinters/image.gif",
+            "https://www.pnwx.com/Accessories/Darkroom/IDPrinters/product.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/IDPrinters/main.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/IDPrinters.jpg"
+          ]
+        },
+        {
+          "id": "safelights",
+          "name": "Safelights & Darkroom Lighting",
+          "description": "Professional darkroom lighting solutions",
+          "url": "https://www.pnwx.com/Accessories/Darkroom/Safelights/",
+          "image": "https://www.pnwx.com/Accessories/Darkroom/Safelights/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "SAFELIGHTS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Darkroom/Safelights/image.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Safelights/image.gif",
+            "https://www.pnwx.com/Accessories/Darkroom/Safelights/product.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Safelights/main.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Safelights.jpg"
+          ]
+        },
+        {
+          "id": "signs",
+          "name": "Signs, Hazard and Door",
+          "description": "Safety and warning signs for darkroom",
+          "url": "https://www.pnwx.com/Accessories/Signs/",
+          "image": "https://www.pnwx.com/Accessories/Signs/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "SIGNS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Signs/image.jpg",
+            "https://www.pnwx.com/Accessories/Signs/image.gif",
+            "https://www.pnwx.com/Accessories/Signs/product.jpg",
+            "https://www.pnwx.com/Accessories/Signs/main.jpg",
+            "https://www.pnwx.com/Accessories/Signs.jpg"
+          ]
+        },
+        {
+          "id": "silver-recovery",
+          "name": "Silver Recovery Systems",
+          "description": "Efficient silver recovery solutions (7 options)",
+          "url": "https://www.pnwx.com/Equipment/DarkEquip/SilverRecovery/",
+          "image": "https://www.pnwx.com/Equipment/DarkEquip/SilverRecovery/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "SILVER-RECOVERY"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/DarkEquip/SilverRecovery/image.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/SilverRecovery/image.gif",
+            "https://www.pnwx.com/Equipment/DarkEquip/SilverRecovery/product.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/SilverRecovery/main.jpg",
+            "https://www.pnwx.com/Equipment/DarkEquip/SilverRecovery.jpg"
+          ]
+        },
+        {
+          "id": "thermometers",
+          "name": "Thermometers, Chemical",
+          "description": "Precision chemical temperature measurement",
+          "url": "https://www.pnwx.com/Accessories/Darkroom/Thermometers/",
+          "image": "https://www.pnwx.com/Accessories/Darkroom/Thermometers/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "THERMOMETERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Darkroom/Thermometers/image.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Thermometers/image.gif",
+            "https://www.pnwx.com/Accessories/Darkroom/Thermometers/product.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Thermometers/main.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Thermometers.jpg"
+          ]
+        },
+        {
+          "id": "timers",
+          "name": "Timers for Darkroom Use",
+          "description": "Accurate timing devices for darkroom",
+          "url": "https://www.pnwx.com/Accessories/Darkroom/Timers/",
+          "image": "https://www.pnwx.com/Accessories/Darkroom/Timers/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "TIMERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Darkroom/Timers/image.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Timers/image.gif",
+            "https://www.pnwx.com/Accessories/Darkroom/Timers/product.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Timers/main.jpg",
+            "https://www.pnwx.com/Accessories/Darkroom/Timers.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exam-room-products",
+      "name": "Exam Room Products",
+      "description": "Comprehensive examination room accessories and equipment.",
+      "icon": "medkit",
+      "itemCount": 23,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Accessories/ExamRoom/",
+      "subcategories": [
+        {
+          "id": "blanket-warming",
+          "name": "Blanket Warming Bags and Cabinets",
+          "description": "Patient comfort warming solutions",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/Blanket/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/Blanket/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "BLANKET-WARMING"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/Blanket/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/Blanket/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/Blanket/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/Blanket/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/Blanket.jpg"
+          ]
+        },
+        {
+          "id": "blood-drawing-chairs",
+          "name": "Blood Drawing Chairs",
+          "description": "Specialized seating for blood collection",
+          "url": "https://www.pnwx.com/Accessories/Seating/BloodDraw/",
+          "image": "https://www.pnwx.com/Accessories/Seating/BloodDraw/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "BLOOD-DRAWING-CHAIRS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Seating/BloodDraw/image.jpg",
+            "https://www.pnwx.com/Accessories/Seating/BloodDraw/image.gif",
+            "https://www.pnwx.com/Accessories/Seating/BloodDraw/product.jpg",
+            "https://www.pnwx.com/Accessories/Seating/BloodDraw/main.jpg",
+            "https://www.pnwx.com/Accessories/Seating/BloodDraw.jpg"
+          ]
+        },
+        {
+          "id": "disposable-apparel",
+          "name": "Capes and Gowns (Disposable)",
+          "description": "Single-use patient apparel",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "DISPOSABLE-APPAREL"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel.jpg"
+          ]
+        },
+        {
+          "id": "seating-products",
+          "name": "Chairs, Step Stools and Seating Products",
+          "description": "Various seating options (8 types)",
+          "url": "https://www.pnwx.com/Accessories/Seating/",
+          "image": "https://www.pnwx.com/Accessories/Seating/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "SEATING-PRODUCTS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Seating/image.jpg",
+            "https://www.pnwx.com/Accessories/Seating/image.gif",
+            "https://www.pnwx.com/Accessories/Seating/product.jpg",
+            "https://www.pnwx.com/Accessories/Seating/main.jpg",
+            "https://www.pnwx.com/Accessories/Seating.jpg"
+          ]
+        },
+        {
+          "id": "chart-holders",
+          "name": "Chart & X-Ray Film Holders - Wall Mounted",
+          "description": "Wall-mounted organizational solutions",
+          "url": "https://www.pnwx.com/Accessories/FilmHandling/FilmSorting/",
+          "image": "https://www.pnwx.com/Accessories/FilmHandling/FilmSorting/image.jpg",
+          "specifications": {
+            "Generator Type": "High Frequency",
+            "Power Output": "80 kHp @ 100 kV",
+            "kVp Range": "40-100 kVp (1 kVp steps)",
+            "mA Settings": "20, 32, 50, 63, 80, 100, 125 mA",
+            "mAs Range": "0.02 - 800 mAs",
+            "Focal Spot Size": "1.0mm (IEC 336)",
+            "Input Power": "120V, 60Hz, 20A",
+            "Battery Capacity": "200 exposures per charge"
+          },
+          "features": [
+            "High-frequency generator for superior image quality",
+            "Lightweight portable design",
+            "Built-in rechargeable battery for true portability",
+            "LCD display with intuitive controls",
+            "Anatomical programming for quick setup",
+            "Digital interface ready",
+            "CE marked and FDA approved"
+          ],
+          "dimensions": {
+            "width": "14.5 inches",
+            "height": "17 inches",
+            "depth": "19 inches",
+            "weight": "35 lbs"
+          },
+          "partNumbers": [
+            "HF80-115V",
+            "HF80-240V"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmSorting/image.jpg",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmSorting/image.gif",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmSorting/product.jpg",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmSorting/main.jpg",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmSorting.jpg"
+          ]
+        },
+        {
+          "id": "exam-tables",
+          "name": "Exam and Power Tables",
+          "description": "Professional examination tables (3 types)",
+          "url": "https://www.pnwx.com/Equipment/ExamRoom/Tables/",
+          "image": "https://www.pnwx.com/Equipment/ExamRoom/Tables/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "EXAM-TABLES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/ExamRoom/Tables/image.jpg",
+            "https://www.pnwx.com/Equipment/ExamRoom/Tables/image.gif",
+            "https://www.pnwx.com/Equipment/ExamRoom/Tables/product.jpg",
+            "https://www.pnwx.com/Equipment/ExamRoom/Tables/main.jpg",
+            "https://www.pnwx.com/Equipment/ExamRoom/Tables.jpg"
+          ]
+        },
+        {
+          "id": "instrument-stands",
+          "name": "Instrument Stands and Solution Bowls",
+          "description": "Medical instrument organization",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/Stands/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/Stands/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "INSTRUMENT-STANDS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/Stands/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stands/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stands/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stands/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stands.jpg"
+          ]
+        },
+        {
+          "id": "instrument-tables",
+          "name": "Instrument Tables",
+          "description": "Dedicated instrument workstations",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/InstrumentTables/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/InstrumentTables/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "INSTRUMENT-TABLES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/InstrumentTables/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/InstrumentTables/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/InstrumentTables/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/InstrumentTables/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/InstrumentTables.jpg"
+          ]
+        },
+        {
+          "id": "iv-poles",
+          "name": "IV Poles / Infusion Pump Poles, and Accessories",
+          "description": "IV fluid support systems",
+          "url": "https://www.pnwx.com/Accessories/Patient/IVPoles/",
+          "image": "https://www.pnwx.com/Accessories/Patient/IVPoles/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "IV-POLES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Patient/IVPoles/image.jpg",
+            "https://www.pnwx.com/Accessories/Patient/IVPoles/image.gif",
+            "https://www.pnwx.com/Accessories/Patient/IVPoles/product.jpg",
+            "https://www.pnwx.com/Accessories/Patient/IVPoles/main.jpg",
+            "https://www.pnwx.com/Accessories/Patient/IVPoles.jpg"
+          ]
+        },
+        {
+          "id": "lighting",
+          "name": "Lighting, Exam and Procedure",
+          "description": "Medical examination lighting (2 types)",
+          "url": "https://www.pnwx.com/Accessories/Lighting/",
+          "image": "https://www.pnwx.com/Accessories/Lighting/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "LIGHTING"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Lighting/image.jpg",
+            "https://www.pnwx.com/Accessories/Lighting/image.gif",
+            "https://www.pnwx.com/Accessories/Lighting/product.jpg",
+            "https://www.pnwx.com/Accessories/Lighting/main.jpg",
+            "https://www.pnwx.com/Accessories/Lighting.jpg"
+          ]
+        },
+        {
+          "id": "linen-hampers",
+          "name": "Linen Hampers/Baskets",
+          "description": "Laundry collection solutions",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/LinenHampers/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/LinenHampers/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "LINEN-HAMPERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/LinenHampers/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/LinenHampers/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/LinenHampers/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/LinenHampers/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/LinenHampers.jpg"
+          ]
+        },
+        {
+          "id": "mri-products",
+          "name": "MRI Products",
+          "description": "MRI-safe accessories (15 items)",
+          "url": "https://www.pnwx.com/MRI/",
+          "image": "https://www.pnwx.com/MRI/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MRI-PRODUCTS"
+          ],
+          "images": [
+            "https://www.pnwx.com/MRI/image.jpg",
+            "https://www.pnwx.com/MRI/image.gif",
+            "https://www.pnwx.com/MRI/product.jpg",
+            "https://www.pnwx.com/MRI/main.jpg",
+            "https://www.pnwx.com/MRI.jpg"
+          ]
+        },
+        {
+          "id": "overbed-tables",
+          "name": "Overbed Tables",
+          "description": "Adjustable patient tables",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/OverBedTables/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/OverBedTables/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "OVERBED-TABLES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/OverBedTables/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/OverBedTables/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/OverBedTables/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/OverBedTables/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/OverBedTables.jpg"
+          ]
+        },
+        {
+          "id": "paper-products",
+          "name": "Paper Products: Table Papers, Pillow Cases, Disposables",
+          "description": "Exam room disposable paper products",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Papers/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Papers/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "PAPER-PRODUCTS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Papers/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Papers/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Papers/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Papers/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Papers.jpg"
+          ]
+        },
+        {
+          "id": "surgical-carts",
+          "name": "Surgical & Open Case Carts",
+          "description": "Medical transport carts (2 types)",
+          "url": "https://www.pnwx.com/Pedigo/Carts/",
+          "image": "https://www.pnwx.com/Pedigo/Carts/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "SURGICAL-CARTS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Pedigo/Carts/image.jpg",
+            "https://www.pnwx.com/Pedigo/Carts/image.gif",
+            "https://www.pnwx.com/Pedigo/Carts/product.jpg",
+            "https://www.pnwx.com/Pedigo/Carts/main.jpg",
+            "https://www.pnwx.com/Pedigo/Carts.jpg"
+          ]
+        },
+        {
+          "id": "warming-cabinets",
+          "name": "Warming Cabinets, Blanket & Fluid",
+          "description": "Temperature control cabinets (2 types)",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "WARMING-CABINETS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/WarmingCabinets.jpg"
+          ]
+        },
+        {
+          "id": "utility-tables",
+          "name": "Utility Tables/Carts",
+          "description": "Multi-purpose medical carts",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/UtilityTables/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/UtilityTables/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "UTILITY-TABLES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/UtilityTables/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/UtilityTables/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/UtilityTables/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/UtilityTables/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/UtilityTables.jpg"
+          ]
+        },
+        {
+          "id": "wall-shelves",
+          "name": "Wall Shelves",
+          "description": "Storage and organization shelving",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/WallShelves/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/WallShelves/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "WALL-SHELVES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/WallShelves/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/WallShelves/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/WallShelves/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/WallShelves/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/WallShelves.jpg"
+          ]
+        },
+        {
+          "id": "vet-paper",
+          "name": "Veterinary Paper Products",
+          "description": "Specialized veterinary disposables",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Veterinary/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Veterinary/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "VET-PAPER"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Veterinary/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Veterinary/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Veterinary/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Veterinary/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Veterinary.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film-id-markers",
+      "name": "Film Identification Markers (ID)",
+      "description": "Professional film marking and identification systems.",
+      "icon": "tag",
+      "itemCount": 2,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Accessories/Markers/",
+      "badge": "New!",
+      "subcategories": [
+        {
+          "id": "allcraft-wellman",
+          "name": "All-Craft Wellman Markers",
+          "description": "Premium identification markers",
+          "url": "https://www.pnwx.com/Accessories/Markers/AllcraftWellman/",
+          "image": "https://www.pnwx.com/Accessories/Markers/AllcraftWellman/image.jpg",
+          "badge": "New!",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "ALLCRAFT-WELLMAN"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Markers/AllcraftWellman/image.jpg",
+            "https://www.pnwx.com/Accessories/Markers/AllcraftWellman/image.gif",
+            "https://www.pnwx.com/Accessories/Markers/AllcraftWellman/product.jpg",
+            "https://www.pnwx.com/Accessories/Markers/AllcraftWellman/main.jpg",
+            "https://www.pnwx.com/Accessories/Markers/AllcraftWellman.jpg"
+          ]
+        },
+        {
+          "id": "phillips-safety",
+          "name": "Phillips Safety Markers",
+          "description": "Professional safety markers",
+          "url": "https://www.pnwx.com/Accessories/Markers/Phillips/",
+          "image": "https://www.pnwx.com/Accessories/Markers/Phillips/image.jpg",
+          "badge": "New!",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "PHILLIPS-SAFETY"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Markers/Phillips/image.jpg",
+            "https://www.pnwx.com/Accessories/Markers/Phillips/image.gif",
+            "https://www.pnwx.com/Accessories/Markers/Phillips/product.jpg",
+            "https://www.pnwx.com/Accessories/Markers/Phillips/main.jpg",
+            "https://www.pnwx.com/Accessories/Markers/Phillips.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cassettes-storage",
+      "name": "Cassettes/CR-Plate Storage, Transportation, Sorting & Viewing",
+      "description": "Complete cassette and CR plate handling solutions.",
+      "icon": "folder",
+      "itemCount": 14,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Accessories/Cassettes/",
+      "subcategories": [
+        {
+          "id": "cassettes-with-screens",
+          "name": "Cassettes with Screens, Regular",
+          "description": "Standard radiographic cassettes",
+          "url": "https://www.pnwx.com/Accessories/Cassettes/Aluminum/",
+          "image": "https://www.pnwx.com/Accessories/Cassettes/Aluminum/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "CASSETTES-WITH-SCREENS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Cassettes/Aluminum/image.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Aluminum/image.gif",
+            "https://www.pnwx.com/Accessories/Cassettes/Aluminum/product.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Aluminum/main.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Aluminum.jpg"
+          ]
+        },
+        {
+          "id": "screen-cleaners",
+          "name": "Screen Cleaners",
+          "description": "Cleaning solutions for intensifying screens",
+          "url": "https://www.pnwx.com/Supplies/Cleaners/",
+          "image": "https://www.pnwx.com/Supplies/Cleaners/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "SCREEN-CLEANERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/Cleaners/image.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/image.gif",
+            "https://www.pnwx.com/Supplies/Cleaners/product.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners/main.jpg",
+            "https://www.pnwx.com/Supplies/Cleaners.jpg"
+          ]
+        },
+        {
+          "id": "rad-contact-test",
+          "name": "Radiographic Cassette/Screen Film Contact Test Tool",
+          "description": "Quality control testing tool",
+          "url": "https://www.pnwx.com/Accessories/NuclearAssociates/Rad-Fluoro/ProductDetail.php?PartNum=07-608",
+          "image": "https://www.pnwx.com/Accessories/NuclearAssociates/Rad-Fluoro/ProductDetail.php?PartNum=07-608/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "RAD-CONTACT-TEST"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/NuclearAssociates/Rad-Fluoro/ProductDetail.php?PartNum=07-608/image.jpg",
+            "https://www.pnwx.com/Accessories/NuclearAssociates/Rad-Fluoro/ProductDetail.php?PartNum=07-608/image.gif",
+            "https://www.pnwx.com/Accessories/NuclearAssociates/Rad-Fluoro/ProductDetail.php?PartNum=07-608/product.jpg",
+            "https://www.pnwx.com/Accessories/NuclearAssociates/Rad-Fluoro/ProductDetail.php?PartNum=07-608/main.jpg",
+            "https://www.pnwx.com/Accessories/NuclearAssociates/Rad-Fluoro/ProductDetail.php?PartNum=07-608.jpg"
+          ]
+        },
+        {
+          "id": "mammo-contact-test",
+          "name": "Mammographic Cassette/Screen Film Contact Test Tool",
+          "description": "Mammography QC testing",
+          "url": "https://www.pnwx.com/Accessories/Cassettes/MammoFilmScreenContact/",
+          "image": "https://www.pnwx.com/Accessories/Cassettes/MammoFilmScreenContact/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MAMMO-CONTACT-TEST"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Cassettes/MammoFilmScreenContact/image.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/MammoFilmScreenContact/image.gif",
+            "https://www.pnwx.com/Accessories/Cassettes/MammoFilmScreenContact/product.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/MammoFilmScreenContact/main.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/MammoFilmScreenContact.jpg"
+          ]
+        },
+        {
+          "id": "cassette-racks",
+          "name": "Cassette Storage Racks",
+          "description": "Organized cassette storage",
+          "url": "https://www.pnwx.com/Accessories/Cassettes/Racks/",
+          "image": "https://www.pnwx.com/Accessories/Cassettes/Racks/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "CASSETTE-RACKS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Cassettes/Racks/image.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Racks/image.gif",
+            "https://www.pnwx.com/Accessories/Cassettes/Racks/product.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Racks/main.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Racks.jpg"
+          ]
+        },
+        {
+          "id": "storage-carts",
+          "name": "Cassette Storage Carts",
+          "description": "Mobile cassette storage (4 types)",
+          "url": "https://www.pnwx.com/Accessories/Carts/",
+          "image": "https://www.pnwx.com/Accessories/Carts/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "STORAGE-CARTS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Carts/image.jpg",
+            "https://www.pnwx.com/Accessories/Carts/image.gif",
+            "https://www.pnwx.com/Accessories/Carts/product.jpg",
+            "https://www.pnwx.com/Accessories/Carts/main.jpg",
+            "https://www.pnwx.com/Accessories/Carts.jpg"
+          ]
+        },
+        {
+          "id": "cassette-covers",
+          "name": "Cassette Covers, Plastic Disposable",
+          "description": "Protective disposable covers",
+          "url": "https://www.pnwx.com/Accessories/Cassettes/Covers/",
+          "image": "https://www.pnwx.com/Accessories/Cassettes/Covers/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "CASSETTE-COVERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Cassettes/Covers/image.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Covers/image.gif",
+            "https://www.pnwx.com/Accessories/Cassettes/Covers/product.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Covers/main.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Covers.jpg"
+          ]
+        },
+        {
+          "id": "transport-cases",
+          "name": "Carrying & Transportation Cases for Film and Cassettes",
+          "description": "Protected transport solutions",
+          "url": "https://www.pnwx.com/Accessories/Transport/",
+          "image": "https://www.pnwx.com/Accessories/Transport/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "TRANSPORT-CASES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Transport/image.jpg",
+            "https://www.pnwx.com/Accessories/Transport/image.gif",
+            "https://www.pnwx.com/Accessories/Transport/product.jpg",
+            "https://www.pnwx.com/Accessories/Transport/main.jpg",
+            "https://www.pnwx.com/Accessories/Transport.jpg"
+          ]
+        },
+        {
+          "id": "cassette-holders",
+          "name": "Cassette/CR/DR Plate Holders",
+          "description": "Positioning and holding devices",
+          "url": "https://www.pnwx.com/Accessories/Cassettes/Holders/",
+          "image": "https://www.pnwx.com/Accessories/Cassettes/Holders/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "CASSETTE-HOLDERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Cassettes/Holders/image.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Holders/image.gif",
+            "https://www.pnwx.com/Accessories/Cassettes/Holders/product.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Holders/main.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Holders.jpg"
+          ]
+        },
+        {
+          "id": "equine-holders",
+          "name": "Equine (Horse) Cassette & CR Plate Holders",
+          "description": "Veterinary-specific holders",
+          "url": "https://www.pnwx.com/Accessories/Cassettes/Holders/Veterinary/",
+          "image": "https://www.pnwx.com/Accessories/Cassettes/Holders/Veterinary/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "EQUINE-HOLDERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Cassettes/Holders/Veterinary/image.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Holders/Veterinary/image.gif",
+            "https://www.pnwx.com/Accessories/Cassettes/Holders/Veterinary/product.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Holders/Veterinary/main.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Holders/Veterinary.jpg"
+          ]
+        },
+        {
+          "id": "film-storage-bins",
+          "name": "Unexposed Film Storage Bins",
+          "description": "Protected film storage",
+          "url": "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/",
+          "image": "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "FILM-STORAGE-BINS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/image.jpg",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/image.gif",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/product.jpg",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmBins/main.jpg",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmBins.jpg"
+          ]
+        },
+        {
+          "id": "cabinetry-shelving",
+          "name": "Cabinetry and Shelving",
+          "description": "Storage solutions (3 types)",
+          "url": "https://www.pnwx.com/Accessories/Shelving/",
+          "image": "https://www.pnwx.com/Accessories/Shelving/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "CABINETRY-SHELVING"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Shelving/image.jpg",
+            "https://www.pnwx.com/Accessories/Shelving/image.gif",
+            "https://www.pnwx.com/Accessories/Shelving/product.jpg",
+            "https://www.pnwx.com/Accessories/Shelving/main.jpg",
+            "https://www.pnwx.com/Accessories/Shelving.jpg"
+          ]
+        },
+        {
+          "id": "grids",
+          "name": "Grids",
+          "description": "Radiographic scatter reduction grids",
+          "url": "https://www.pnwx.com/Parts/Grids/",
+          "image": "https://www.pnwx.com/Parts/Grids/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "GRIDS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Parts/Grids/image.jpg",
+            "https://www.pnwx.com/Parts/Grids/image.gif",
+            "https://www.pnwx.com/Parts/Grids/product.jpg",
+            "https://www.pnwx.com/Parts/Grids/main.jpg",
+            "https://www.pnwx.com/Parts/Grids.jpg"
+          ]
+        },
+        {
+          "id": "wall-film-storage",
+          "name": "Wall Mounted Film Storage Products",
+          "description": "Space-saving wall storage",
+          "url": "https://www.pnwx.com/Accessories/FilmHandling/FilmSorting/",
+          "image": "https://www.pnwx.com/Accessories/FilmHandling/FilmSorting/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "WALL-FILM-STORAGE"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmSorting/image.jpg",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmSorting/image.gif",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmSorting/product.jpg",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmSorting/main.jpg",
+            "https://www.pnwx.com/Accessories/FilmHandling/FilmSorting.jpg"
+          ]
+        },
+        {
+          "id": "viewboxes",
+          "name": "Viewboxes & Analog Film Viewing Equipment",
+          "description": "Film viewing solutions (33 options)",
+          "url": "https://www.pnwx.com/Equipment/ViewEquip/",
+          "image": "https://www.pnwx.com/Equipment/ViewEquip/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "VIEWBOXES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/ViewEquip/image.jpg",
+            "https://www.pnwx.com/Equipment/ViewEquip/image.gif",
+            "https://www.pnwx.com/Equipment/ViewEquip/product.jpg",
+            "https://www.pnwx.com/Equipment/ViewEquip/main.jpg",
+            "https://www.pnwx.com/Equipment/ViewEquip.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mri-accessories",
+      "name": "MRI Accessories",
+      "description": "MRI-safe products for magnetic resonance imaging facilities.",
+      "icon": "magnet",
+      "itemCount": 15,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/MRI/",
+      "subcategories": [
+        {
+          "id": "breast-coil-drapes",
+          "name": "Breast Coil Drapes",
+          "description": "Disposable MRI breast coil covers",
+          "url": "https://www.pnwx.com/Supplies/Covers/MRI/",
+          "image": "https://www.pnwx.com/Supplies/Covers/MRI/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "BREAST-COIL-DRAPES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/Covers/MRI/image.jpg",
+            "https://www.pnwx.com/Supplies/Covers/MRI/image.gif",
+            "https://www.pnwx.com/Supplies/Covers/MRI/product.jpg",
+            "https://www.pnwx.com/Supplies/Covers/MRI/main.jpg",
+            "https://www.pnwx.com/Supplies/Covers/MRI.jpg"
+          ]
+        },
+        {
+          "id": "mri-chairs",
+          "name": "Chairs & Stools",
+          "description": "MRI-safe seating solutions",
+          "url": "https://www.pnwx.com/Accessories/Seating/TechnoAide/#MBC-30CC",
+          "image": "https://www.pnwx.com/Accessories/Seating/TechnoAide/#MBC-30CC/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MRI-CHAIRS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Seating/TechnoAide/#MBC-30CC/image.jpg",
+            "https://www.pnwx.com/Accessories/Seating/TechnoAide/#MBC-30CC/image.gif",
+            "https://www.pnwx.com/Accessories/Seating/TechnoAide/#MBC-30CC/product.jpg",
+            "https://www.pnwx.com/Accessories/Seating/TechnoAide/#MBC-30CC/main.jpg",
+            "https://www.pnwx.com/Accessories/Seating/TechnoAide/#MBC-30CC.jpg"
+          ]
+        },
+        {
+          "id": "mri-hampers",
+          "name": "Hampers",
+          "description": "MRI-safe linen hampers",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/LinenHampers/#MBH-18",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/LinenHampers/#MBH-18/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MRI-HAMPERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/LinenHampers/#MBH-18/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/LinenHampers/#MBH-18/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/LinenHampers/#MBH-18/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/LinenHampers/#MBH-18/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/LinenHampers/#MBH-18.jpg"
+          ]
+        },
+        {
+          "id": "mri-instrument-stands",
+          "name": "Instrument Stands",
+          "description": "MRI-compatible instrument stands",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/Stands/#MBM-80",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/Stands/#MBM-80/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MRI-INSTRUMENT-STANDS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/Stands/#MBM-80/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stands/#MBM-80/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stands/#MBM-80/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stands/#MBM-80/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stands/#MBM-80.jpg"
+          ]
+        },
+        {
+          "id": "mri-iv-poles",
+          "name": "IV Poles",
+          "description": "MRI-safe IV pole systems",
+          "url": "https://www.pnwx.com/Accessories/Patient/IVPoles/Stands/#MBI-70",
+          "image": "https://www.pnwx.com/Accessories/Patient/IVPoles/Stands/#MBI-70/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MRI-IV-POLES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Patient/IVPoles/Stands/#MBI-70/image.jpg",
+            "https://www.pnwx.com/Accessories/Patient/IVPoles/Stands/#MBI-70/image.gif",
+            "https://www.pnwx.com/Accessories/Patient/IVPoles/Stands/#MBI-70/product.jpg",
+            "https://www.pnwx.com/Accessories/Patient/IVPoles/Stands/#MBI-70/main.jpg",
+            "https://www.pnwx.com/Accessories/Patient/IVPoles/Stands/#MBI-70.jpg"
+          ]
+        },
+        {
+          "id": "metal-detector",
+          "name": "Metal Detector",
+          "description": "Safety screening equipment",
+          "url": "https://www.pnwx.com/Accessories/MRI/MetalDetection/",
+          "image": "https://www.pnwx.com/Accessories/MRI/MetalDetection/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "METAL-DETECTOR"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/MRI/MetalDetection/image.jpg",
+            "https://www.pnwx.com/Accessories/MRI/MetalDetection/image.gif",
+            "https://www.pnwx.com/Accessories/MRI/MetalDetection/product.jpg",
+            "https://www.pnwx.com/Accessories/MRI/MetalDetection/main.jpg",
+            "https://www.pnwx.com/Accessories/MRI/MetalDetection.jpg"
+          ]
+        },
+        {
+          "id": "mri-oxygen",
+          "name": "Oxygen Systems",
+          "description": "MRI-safe oxygen delivery",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/OxygenSystems/Tanks/MRISafe/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/OxygenSystems/Tanks/MRISafe/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MRI-OXYGEN"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/OxygenSystems/Tanks/MRISafe/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/OxygenSystems/Tanks/MRISafe/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/OxygenSystems/Tanks/MRISafe/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/OxygenSystems/Tanks/MRISafe/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/OxygenSystems/Tanks/MRISafe.jpg"
+          ]
+        },
+        {
+          "id": "mri-phantoms",
+          "name": "Phantoms",
+          "description": "MRI quality control phantoms (9 types)",
+          "url": "https://www.pnwx.com/Accessories/Phantoms/MRI/",
+          "image": "https://www.pnwx.com/Accessories/Phantoms/MRI/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MRI-PHANTOMS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Phantoms/MRI/image.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/MRI/image.gif",
+            "https://www.pnwx.com/Accessories/Phantoms/MRI/product.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/MRI/main.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/MRI.jpg"
+          ]
+        },
+        {
+          "id": "mri-positioning",
+          "name": "Positioning Sponges",
+          "description": "MRI-safe positioning aids",
+          "url": "https://www.pnwx.com/Accessories/PosAides/Techno-Aide/MRI/",
+          "image": "https://www.pnwx.com/Accessories/PosAides/Techno-Aide/MRI/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MRI-POSITIONING"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PosAides/Techno-Aide/MRI/image.jpg",
+            "https://www.pnwx.com/Accessories/PosAides/Techno-Aide/MRI/image.gif",
+            "https://www.pnwx.com/Accessories/PosAides/Techno-Aide/MRI/product.jpg",
+            "https://www.pnwx.com/Accessories/PosAides/Techno-Aide/MRI/main.jpg",
+            "https://www.pnwx.com/Accessories/PosAides/Techno-Aide/MRI.jpg"
+          ]
+        },
+        {
+          "id": "safety-carpets",
+          "name": "Safety Carpets",
+          "description": "MRI zone safety carpeting",
+          "url": "https://www.pnwx.com/Accessories/MRI/SafetyCarpet/",
+          "image": "https://www.pnwx.com/Accessories/MRI/SafetyCarpet/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "SAFETY-CARPETS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/MRI/SafetyCarpet/image.jpg",
+            "https://www.pnwx.com/Accessories/MRI/SafetyCarpet/image.gif",
+            "https://www.pnwx.com/Accessories/MRI/SafetyCarpet/product.jpg",
+            "https://www.pnwx.com/Accessories/MRI/SafetyCarpet/main.jpg",
+            "https://www.pnwx.com/Accessories/MRI/SafetyCarpet.jpg"
+          ]
+        },
+        {
+          "id": "mri-sandbags",
+          "name": "Sandbags",
+          "description": "MRI-safe sandbags for positioning",
+          "url": "https://www.pnwx.com/Accessories/PosAides/MRISandbags/",
+          "image": "https://www.pnwx.com/Accessories/PosAides/MRISandbags/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MRI-SANDBAGS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PosAides/MRISandbags/image.jpg",
+            "https://www.pnwx.com/Accessories/PosAides/MRISandbags/image.gif",
+            "https://www.pnwx.com/Accessories/PosAides/MRISandbags/product.jpg",
+            "https://www.pnwx.com/Accessories/PosAides/MRISandbags/main.jpg",
+            "https://www.pnwx.com/Accessories/PosAides/MRISandbags.jpg"
+          ]
+        },
+        {
+          "id": "mri-step-stools",
+          "name": "Step Stools",
+          "description": "MRI-safe step stools",
+          "url": "https://www.pnwx.com/Accessories/Seating/StepStools/MRISafe/",
+          "image": "https://www.pnwx.com/Accessories/Seating/StepStools/MRISafe/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MRI-STEP-STOOLS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Seating/StepStools/MRISafe/image.jpg",
+            "https://www.pnwx.com/Accessories/Seating/StepStools/MRISafe/image.gif",
+            "https://www.pnwx.com/Accessories/Seating/StepStools/MRISafe/product.jpg",
+            "https://www.pnwx.com/Accessories/Seating/StepStools/MRISafe/main.jpg",
+            "https://www.pnwx.com/Accessories/Seating/StepStools/MRISafe.jpg"
+          ]
+        },
+        {
+          "id": "mri-stretchers",
+          "name": "Stretchers/Transport Gurneys",
+          "description": "MRI-safe patient transport",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/Techno-Aide/MRISafe/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/Techno-Aide/MRISafe/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MRI-STRETCHERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/Techno-Aide/MRISafe/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/Techno-Aide/MRISafe/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/Techno-Aide/MRISafe/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/Techno-Aide/MRISafe/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/Techno-Aide/MRISafe.jpg"
+          ]
+        },
+        {
+          "id": "mri-signs",
+          "name": "Warning Signs/In Use Signs",
+          "description": "MRI safety signage",
+          "url": "https://www.pnwx.com/Accessories/Signs/",
+          "image": "https://www.pnwx.com/Accessories/Signs/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MRI-SIGNS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Signs/image.jpg",
+            "https://www.pnwx.com/Accessories/Signs/image.gif",
+            "https://www.pnwx.com/Accessories/Signs/product.jpg",
+            "https://www.pnwx.com/Accessories/Signs/main.jpg",
+            "https://www.pnwx.com/Accessories/Signs.jpg"
+          ]
+        },
+        {
+          "id": "mri-wheelchairs",
+          "name": "Wheelchairs",
+          "description": "MRI-safe patient wheelchairs",
+          "url": "https://www.pnwx.com/Accessories/PatAsst/Wheelchairs/MRISafe/",
+          "image": "https://www.pnwx.com/Accessories/PatAsst/Wheelchairs/MRISafe/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MRI-WHEELCHAIRS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PatAsst/Wheelchairs/MRISafe/image.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Wheelchairs/MRISafe/image.gif",
+            "https://www.pnwx.com/Accessories/PatAsst/Wheelchairs/MRISafe/product.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Wheelchairs/MRISafe/main.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Wheelchairs/MRISafe.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "patient-positioning",
+      "name": "Patient, Positioning, Measurement, Comfort, and Care",
+      "description": "Comprehensive patient care and positioning solutions.",
+      "icon": "people",
+      "itemCount": 20,
+      "featured": false,
+      "externalUrl": "https://www.pnwx.com/Accessories/PatAsst/",
+      "subcategories": [
+        {
+          "id": "arm-support",
+          "name": "Arm Support",
+          "description": "Patient arm positioning aids",
+          "url": "https://www.pnwx.com/Accessories/PatAsst/ArmSupport/",
+          "image": "https://www.pnwx.com/Accessories/PatAsst/ArmSupport/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "ARM-SUPPORT"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PatAsst/ArmSupport/image.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/ArmSupport/image.gif",
+            "https://www.pnwx.com/Accessories/PatAsst/ArmSupport/product.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/ArmSupport/main.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/ArmSupport.jpg"
+          ]
+        },
+        {
+          "id": "transfer-systems",
+          "name": "Patient Transfer Systems",
+          "description": "Safe patient transfer equipment",
+          "url": "https://www.pnwx.com/Accessories/PatAsst/TransferSystems/",
+          "image": "https://www.pnwx.com/Accessories/PatAsst/TransferSystems/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "TRANSFER-SYSTEMS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PatAsst/TransferSystems/image.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/TransferSystems/image.gif",
+            "https://www.pnwx.com/Accessories/PatAsst/TransferSystems/product.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/TransferSystems/main.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/TransferSystems.jpg"
+          ]
+        },
+        {
+          "id": "compression-paddles",
+          "name": "Compression Paddles",
+          "description": "Mammography compression devices",
+          "url": "https://www.pnwx.com/Accessories/TechAides/CompressionPaddle/",
+          "image": "https://www.pnwx.com/Accessories/TechAides/CompressionPaddle/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "COMPRESSION-PADDLES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/TechAides/CompressionPaddle/image.jpg",
+            "https://www.pnwx.com/Accessories/TechAides/CompressionPaddle/image.gif",
+            "https://www.pnwx.com/Accessories/TechAides/CompressionPaddle/product.jpg",
+            "https://www.pnwx.com/Accessories/TechAides/CompressionPaddle/main.jpg",
+            "https://www.pnwx.com/Accessories/TechAides/CompressionPaddle.jpg"
+          ]
+        },
+        {
+          "id": "immobilizer-strap",
+          "name": "Immobilizer Strap",
+          "description": "Patient immobilization straps",
+          "url": "https://www.pnwx.com/Accessories/PatAsst/Immobilization/",
+          "image": "https://www.pnwx.com/Accessories/PatAsst/Immobilization/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "IMMOBILIZER-STRAP"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PatAsst/Immobilization/image.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Immobilization/image.gif",
+            "https://www.pnwx.com/Accessories/PatAsst/Immobilization/product.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Immobilization/main.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Immobilization.jpg"
+          ]
+        },
+        {
+          "id": "patient-iv-poles",
+          "name": "IV / Infusion Pump Poles and Accessories",
+          "description": "IV delivery systems",
+          "url": "https://www.pnwx.com/Accessories/Patient/IVPoles/",
+          "image": "https://www.pnwx.com/Accessories/Patient/IVPoles/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "PATIENT-IV-POLES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Patient/IVPoles/image.jpg",
+            "https://www.pnwx.com/Accessories/Patient/IVPoles/image.gif",
+            "https://www.pnwx.com/Accessories/Patient/IVPoles/product.jpg",
+            "https://www.pnwx.com/Accessories/Patient/IVPoles/main.jpg",
+            "https://www.pnwx.com/Accessories/Patient/IVPoles.jpg"
+          ]
+        },
+        {
+          "id": "merchant-board",
+          "name": "Merchant Board",
+          "description": "Patient support boards",
+          "url": "https://www.pnwx.com/Accessories/PatAsst/MerchantBoards/",
+          "image": "https://www.pnwx.com/Accessories/PatAsst/MerchantBoards/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MERCHANT-BOARD"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PatAsst/MerchantBoards/image.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/MerchantBoards/image.gif",
+            "https://www.pnwx.com/Accessories/PatAsst/MerchantBoards/product.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/MerchantBoards/main.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/MerchantBoards.jpg"
+          ]
+        },
+        {
+          "id": "measurement-calipers",
+          "name": "Measurement Calipers",
+          "description": "Precision medical measurement tools",
+          "url": "https://www.pnwx.com/Accessories/Measurement/",
+          "image": "https://www.pnwx.com/Accessories/Measurement/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MEASUREMENT-CALIPERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Measurement/image.jpg",
+            "https://www.pnwx.com/Accessories/Measurement/image.gif",
+            "https://www.pnwx.com/Accessories/Measurement/product.jpg",
+            "https://www.pnwx.com/Accessories/Measurement/main.jpg",
+            "https://www.pnwx.com/Accessories/Measurement.jpg"
+          ]
+        },
+        {
+          "id": "patient-wheelchairs",
+          "name": "MRI Safe Wheelchairs",
+          "description": "MRI-compatible wheelchairs",
+          "url": "https://www.pnwx.com/Accessories/PatAsst/Wheelchairs/MRISafe/",
+          "image": "https://www.pnwx.com/Accessories/PatAsst/Wheelchairs/MRISafe/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "PATIENT-WHEELCHAIRS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PatAsst/Wheelchairs/MRISafe/image.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Wheelchairs/MRISafe/image.gif",
+            "https://www.pnwx.com/Accessories/PatAsst/Wheelchairs/MRISafe/product.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Wheelchairs/MRISafe/main.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Wheelchairs/MRISafe.jpg"
+          ]
+        },
+        {
+          "id": "elevation-steps",
+          "name": "Patient Elevation Steps",
+          "description": "Patient access step platforms",
+          "url": "https://www.pnwx.com/Accessories/PatAsst/PatientStep/",
+          "image": "https://www.pnwx.com/Accessories/PatAsst/PatientStep/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "ELEVATION-STEPS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PatAsst/PatientStep/image.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/PatientStep/image.gif",
+            "https://www.pnwx.com/Accessories/PatAsst/PatientStep/product.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/PatientStep/main.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/PatientStep.jpg"
+          ]
+        },
+        {
+          "id": "restraints-traction",
+          "name": "Patient Restrains and Traction Systems",
+          "description": "Patient safety and traction",
+          "url": "https://www.pnwx.com/Accessories/PatAsst/Restraints/",
+          "image": "https://www.pnwx.com/Accessories/PatAsst/Restraints/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "RESTRAINTS-TRACTION"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PatAsst/Restraints/image.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Restraints/image.gif",
+            "https://www.pnwx.com/Accessories/PatAsst/Restraints/product.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Restraints/main.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Restraints.jpg"
+          ]
+        },
+        {
+          "id": "patient-stretchers",
+          "name": "Patient Transport Stretchers",
+          "description": "Medical transport gurneys",
+          "url": "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/",
+          "image": "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "PATIENT-STRETCHERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/image.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/image.gif",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/product.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stretchers/main.jpg",
+            "https://www.pnwx.com/Accessories/ExamRoom/Stretchers.jpg"
+          ]
+        },
+        {
+          "id": "support-bar",
+          "name": "Patient Support Bar",
+          "description": "Patient stability support bar",
+          "url": "https://www.pnwx.com/Accessories/PatAsst/Valsbar/",
+          "image": "https://www.pnwx.com/Accessories/PatAsst/Valsbar/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "SUPPORT-BAR"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PatAsst/Valsbar/image.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Valsbar/image.gif",
+            "https://www.pnwx.com/Accessories/PatAsst/Valsbar/product.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Valsbar/main.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Valsbar.jpg"
+          ]
+        },
+        {
+          "id": "positioning-aids",
+          "name": "Positioning Aids, Sandbags, and Foam Blocks",
+          "description": "Patient positioning tools (8 types)",
+          "url": "https://www.pnwx.com/Accessories/PosAides/",
+          "image": "https://www.pnwx.com/Accessories/PosAides/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "POSITIONING-AIDS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PosAides/image.jpg",
+            "https://www.pnwx.com/Accessories/PosAides/image.gif",
+            "https://www.pnwx.com/Accessories/PosAides/product.jpg",
+            "https://www.pnwx.com/Accessories/PosAides/main.jpg",
+            "https://www.pnwx.com/Accessories/PosAides.jpg"
+          ]
+        },
+        {
+          "id": "warming-blankets",
+          "name": "Patient Warming Blankets",
+          "description": "Temperature management blankets",
+          "url": "https://www.pnwx.com/Accessories/PatAsst/WarmingBlanket/",
+          "image": "https://www.pnwx.com/Accessories/PatAsst/WarmingBlanket/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "WARMING-BLANKETS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PatAsst/WarmingBlanket/image.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/WarmingBlanket/image.gif",
+            "https://www.pnwx.com/Accessories/PatAsst/WarmingBlanket/product.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/WarmingBlanket/main.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/WarmingBlanket.jpg"
+          ]
+        },
+        {
+          "id": "restraint-systems",
+          "name": "Restraint Systems/Pediatric Immobilization",
+          "description": "Pediatric patient safety systems",
+          "url": "https://www.pnwx.com/Accessories/PatAsst/Restraints/",
+          "image": "https://www.pnwx.com/Accessories/PatAsst/Restraints/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "RESTRAINT-SYSTEMS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PatAsst/Restraints/image.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Restraints/image.gif",
+            "https://www.pnwx.com/Accessories/PatAsst/Restraints/product.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Restraints/main.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/Restraints.jpg"
+          ]
+        },
+        {
+          "id": "patient-seating",
+          "name": "Step Stools, Chairs & Seating",
+          "description": "Patient and staff seating (8 types)",
+          "url": "https://www.pnwx.com/Accessories/Seating/",
+          "image": "https://www.pnwx.com/Accessories/Seating/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "PATIENT-SEATING"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Seating/image.jpg",
+            "https://www.pnwx.com/Accessories/Seating/image.gif",
+            "https://www.pnwx.com/Accessories/Seating/product.jpg",
+            "https://www.pnwx.com/Accessories/Seating/main.jpg",
+            "https://www.pnwx.com/Accessories/Seating.jpg"
+          ]
+        },
+        {
+          "id": "patient-exam-tables",
+          "name": "Tables, Exam",
+          "description": "Examination tables (5 types)",
+          "url": "https://www.pnwx.com/Equipment/ExamRoom/Tables/",
+          "image": "https://www.pnwx.com/Equipment/ExamRoom/Tables/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "PATIENT-EXAM-TABLES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/ExamRoom/Tables/image.jpg",
+            "https://www.pnwx.com/Equipment/ExamRoom/Tables/image.gif",
+            "https://www.pnwx.com/Equipment/ExamRoom/Tables/product.jpg",
+            "https://www.pnwx.com/Equipment/ExamRoom/Tables/main.jpg",
+            "https://www.pnwx.com/Equipment/ExamRoom/Tables.jpg"
+          ]
+        },
+        {
+          "id": "table-pads",
+          "name": "Table Pads",
+          "description": "X-ray table padding",
+          "url": "https://www.pnwx.com/Accessories/PatAsst/TablePads/X-Ray/",
+          "image": "https://www.pnwx.com/Accessories/PatAsst/TablePads/X-Ray/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "TABLE-PADS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PatAsst/TablePads/X-Ray/image.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/TablePads/X-Ray/image.gif",
+            "https://www.pnwx.com/Accessories/PatAsst/TablePads/X-Ray/product.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/TablePads/X-Ray/main.jpg",
+            "https://www.pnwx.com/Accessories/PatAsst/TablePads/X-Ray.jpg"
+          ]
+        },
+        {
+          "id": "transfer-boards",
+          "name": "Transfer Boards",
+          "description": "Patient transfer sliding boards",
+          "url": "https://www.pnwx.com/Accessories/Patient/TransferBoards/",
+          "image": "https://www.pnwx.com/Accessories/Patient/TransferBoards/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "TRANSFER-BOARDS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Patient/TransferBoards/image.jpg",
+            "https://www.pnwx.com/Accessories/Patient/TransferBoards/image.gif",
+            "https://www.pnwx.com/Accessories/Patient/TransferBoards/product.jpg",
+            "https://www.pnwx.com/Accessories/Patient/TransferBoards/main.jpg",
+            "https://www.pnwx.com/Accessories/Patient/TransferBoards.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phantoms",
+      "name": "Phantoms for Training and Q/C Test",
+      "description": "Quality control and training phantoms for medical imaging.",
+      "icon": "flask",
+      "itemCount": 13,
+      "featured": false,
+      "externalUrl": "https://www.pnwx.com/Accessories/Phantoms/",
+      "subcategories": [
+        {
+          "id": "radiology-phantoms",
+          "name": "General Radiology Training/Teaching/Sectional Phantoms",
+          "description": "Radiology training phantoms (5 types)",
+          "url": "https://www.pnwx.com/Accessories/Phantoms/Radiology/",
+          "image": "https://www.pnwx.com/Accessories/Phantoms/Radiology/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "RADIOLOGY-PHANTOMS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/image.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/image.gif",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/product.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/main.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology.jpg"
+          ]
+        },
+        {
+          "id": "resolution-test",
+          "name": "Rad/Fluoro Resolution Test Phantoms",
+          "description": "Image quality testing (14 types)",
+          "url": "https://www.pnwx.com/Accessories/Phantoms/Test/",
+          "image": "https://www.pnwx.com/Accessories/Phantoms/Test/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "RESOLUTION-TEST"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Phantoms/Test/image.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Test/image.gif",
+            "https://www.pnwx.com/Accessories/Phantoms/Test/product.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Test/main.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Test.jpg"
+          ]
+        },
+        {
+          "id": "ct-phantoms",
+          "name": "CT Phantoms",
+          "description": "CT quality control phantoms (4 types)",
+          "url": "https://www.pnwx.com/Accessories/Phantoms/CT/",
+          "image": "https://www.pnwx.com/Accessories/Phantoms/CT/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "CT-PHANTOMS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Phantoms/CT/image.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/CT/image.gif",
+            "https://www.pnwx.com/Accessories/Phantoms/CT/product.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/CT/main.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/CT.jpg"
+          ]
+        },
+        {
+          "id": "mammography-phantoms",
+          "name": "Mammography/Breast Training, Test and Accreditation",
+          "description": "Mammography QC phantoms (7 types)",
+          "url": "https://www.pnwx.com/Accessories/Phantoms/Mammography/",
+          "image": "https://www.pnwx.com/Accessories/Phantoms/Mammography/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MAMMOGRAPHY-PHANTOMS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Phantoms/Mammography/image.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Mammography/image.gif",
+            "https://www.pnwx.com/Accessories/Phantoms/Mammography/product.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Mammography/main.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Mammography.jpg"
+          ]
+        },
+        {
+          "id": "mri-qc-phantoms",
+          "name": "MRI Phantoms",
+          "description": "MRI quality assurance (2 types)",
+          "url": "https://www.pnwx.com/Accessories/Phantoms/MRI/",
+          "image": "https://www.pnwx.com/Accessories/Phantoms/MRI/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MRI-QC-PHANTOMS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Phantoms/MRI/image.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/MRI/image.gif",
+            "https://www.pnwx.com/Accessories/Phantoms/MRI/product.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/MRI/main.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/MRI.jpg"
+          ]
+        },
+        {
+          "id": "nuclear-medicine",
+          "name": "Nuclear Medicine Phantoms",
+          "description": "Nuclear medicine testing",
+          "url": "https://www.pnwx.com/Accessories/Phantoms/Radiology/Nuclear/",
+          "image": "https://www.pnwx.com/Accessories/Phantoms/Radiology/Nuclear/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "NUCLEAR-MEDICINE"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/Nuclear/image.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/Nuclear/image.gif",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/Nuclear/product.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/Nuclear/main.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/Nuclear.jpg"
+          ]
+        },
+        {
+          "id": "pet-spect",
+          "name": "PET/SPECT Phantoms",
+          "description": "PET and SPECT imaging (7 types)",
+          "url": "https://www.pnwx.com/Accessories/Phantoms/Radiology/PET/",
+          "image": "https://www.pnwx.com/Accessories/Phantoms/Radiology/PET/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "PET-SPECT"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/PET/image.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/PET/image.gif",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/PET/product.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/PET/main.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/PET.jpg"
+          ]
+        },
+        {
+          "id": "breathing-phantom",
+          "name": "Breathing Phantom",
+          "description": "Respiratory motion simulation",
+          "url": "https://www.pnwx.com/Accessories/Phantoms/CT/RSD/Respiring/",
+          "image": "https://www.pnwx.com/Accessories/Phantoms/CT/RSD/Respiring/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "BREATHING-PHANTOM"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Phantoms/CT/RSD/Respiring/image.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/CT/RSD/Respiring/image.gif",
+            "https://www.pnwx.com/Accessories/Phantoms/CT/RSD/Respiring/product.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/CT/RSD/Respiring/main.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/CT/RSD/Respiring.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seating",
+      "name": "Seating Products (Chairs, Step Stools and Regular Stools)",
+      "description": "Comprehensive seating solutions for medical facilities.",
+      "icon": "chair",
+      "itemCount": 8,
+      "featured": false,
+      "externalUrl": "https://www.pnwx.com/Accessories/Seating/",
+      "subcategories": [
+        {
+          "id": "blood-draw-seating",
+          "name": "Blood Drawing Chairs",
+          "description": "Specialized blood collection chairs",
+          "url": "https://www.pnwx.com/Accessories/Seating/BloodDraw/",
+          "image": "https://www.pnwx.com/Accessories/Seating/BloodDraw/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "BLOOD-DRAW-SEATING"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Seating/BloodDraw/image.jpg",
+            "https://www.pnwx.com/Accessories/Seating/BloodDraw/image.gif",
+            "https://www.pnwx.com/Accessories/Seating/BloodDraw/product.jpg",
+            "https://www.pnwx.com/Accessories/Seating/BloodDraw/main.jpg",
+            "https://www.pnwx.com/Accessories/Seating/BloodDraw.jpg"
+          ]
+        },
+        {
+          "id": "exam-table-seating",
+          "name": "Exam Tables",
+          "description": "Patient examination tables",
+          "url": "https://www.pnwx.com/Equipment/ExamRoom/Tables/",
+          "image": "https://www.pnwx.com/Equipment/ExamRoom/Tables/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "EXAM-TABLE-SEATING"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/ExamRoom/Tables/image.jpg",
+            "https://www.pnwx.com/Equipment/ExamRoom/Tables/image.gif",
+            "https://www.pnwx.com/Equipment/ExamRoom/Tables/product.jpg",
+            "https://www.pnwx.com/Equipment/ExamRoom/Tables/main.jpg",
+            "https://www.pnwx.com/Equipment/ExamRoom/Tables.jpg"
+          ]
+        },
+        {
+          "id": "dental-optical",
+          "name": "Dental and Optical Chairs and Stools",
+          "description": "Specialized professional seating",
+          "url": "https://www.pnwx.com/Accessories/Seating/Dental-Optical/",
+          "image": "https://www.pnwx.com/Accessories/Seating/Dental-Optical/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "DENTAL-OPTICAL"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Seating/Dental-Optical/image.jpg",
+            "https://www.pnwx.com/Accessories/Seating/Dental-Optical/image.gif",
+            "https://www.pnwx.com/Accessories/Seating/Dental-Optical/product.jpg",
+            "https://www.pnwx.com/Accessories/Seating/Dental-Optical/main.jpg",
+            "https://www.pnwx.com/Accessories/Seating/Dental-Optical.jpg"
+          ]
+        },
+        {
+          "id": "budget-seating",
+          "name": "Lower Cost (Budget) Stools and Chairs",
+          "description": "Value-priced seating options",
+          "url": "https://www.pnwx.com/Accessories/Seating/BrewerValuePlus/",
+          "image": "https://www.pnwx.com/Accessories/Seating/BrewerValuePlus/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "BUDGET-SEATING"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Seating/BrewerValuePlus/image.jpg",
+            "https://www.pnwx.com/Accessories/Seating/BrewerValuePlus/image.gif",
+            "https://www.pnwx.com/Accessories/Seating/BrewerValuePlus/product.jpg",
+            "https://www.pnwx.com/Accessories/Seating/BrewerValuePlus/main.jpg",
+            "https://www.pnwx.com/Accessories/Seating/BrewerValuePlus.jpg"
+          ]
+        },
+        {
+          "id": "step-stools-seating",
+          "name": "Step Stools",
+          "description": "Safety step stools for facilities",
+          "url": "https://www.pnwx.com/Accessories/Seating/StepStools/",
+          "image": "https://www.pnwx.com/Accessories/Seating/StepStools/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "STEP-STOOLS-SEATING"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Seating/StepStools/image.jpg",
+            "https://www.pnwx.com/Accessories/Seating/StepStools/image.gif",
+            "https://www.pnwx.com/Accessories/Seating/StepStools/product.jpg",
+            "https://www.pnwx.com/Accessories/Seating/StepStools/main.jpg",
+            "https://www.pnwx.com/Accessories/Seating/StepStools.jpg"
+          ]
+        },
+        {
+          "id": "other-seating",
+          "name": "Several Lines of other Stools and Chairs",
+          "description": "Additional seating options",
+          "url": "https://www.pnwx.com/Accessories/Seating/",
+          "image": "https://www.pnwx.com/Accessories/Seating/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "OTHER-SEATING"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Seating/image.jpg",
+            "https://www.pnwx.com/Accessories/Seating/image.gif",
+            "https://www.pnwx.com/Accessories/Seating/product.jpg",
+            "https://www.pnwx.com/Accessories/Seating/main.jpg",
+            "https://www.pnwx.com/Accessories/Seating.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technologist-aids",
+      "name": "Technologist Aids, Teaching, Markers and Testing",
+      "description": "Professional tools and aids for radiologic technologists.",
+      "icon": "tools",
+      "itemCount": 6,
+      "featured": false,
+      "externalUrl": "https://www.pnwx.com/Accessories/TechAides/",
+      "subcategories": [
+        {
+          "id": "badge-storage",
+          "name": "Badge Storage",
+          "description": "Dosimetry badge organization",
+          "url": "https://www.pnwx.com/Accessories/TechAides/BadgeStorage/",
+          "image": "https://www.pnwx.com/Accessories/TechAides/BadgeStorage/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "BADGE-STORAGE"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/TechAides/BadgeStorage/image.jpg",
+            "https://www.pnwx.com/Accessories/TechAides/BadgeStorage/image.gif",
+            "https://www.pnwx.com/Accessories/TechAides/BadgeStorage/product.jpg",
+            "https://www.pnwx.com/Accessories/TechAides/BadgeStorage/main.jpg",
+            "https://www.pnwx.com/Accessories/TechAides/BadgeStorage.jpg"
+          ]
+        },
+        {
+          "id": "tech-compression",
+          "name": "Compression Paddles",
+          "description": "Mammography compression tools",
+          "url": "https://www.pnwx.com/Accessories/TechAides/CompressionPaddle/",
+          "image": "https://www.pnwx.com/Accessories/TechAides/CompressionPaddle/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "TECH-COMPRESSION"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/TechAides/CompressionPaddle/image.jpg",
+            "https://www.pnwx.com/Accessories/TechAides/CompressionPaddle/image.gif",
+            "https://www.pnwx.com/Accessories/TechAides/CompressionPaddle/product.jpg",
+            "https://www.pnwx.com/Accessories/TechAides/CompressionPaddle/main.jpg",
+            "https://www.pnwx.com/Accessories/TechAides/CompressionPaddle.jpg"
+          ]
+        },
+        {
+          "id": "tech-markers",
+          "name": "Film Markers",
+          "description": "Radiographic identification markers (17 types)",
+          "url": "https://www.pnwx.com/Accessories/Markers/",
+          "image": "https://www.pnwx.com/Accessories/Markers/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "TECH-MARKERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Markers/image.jpg",
+            "https://www.pnwx.com/Accessories/Markers/image.gif",
+            "https://www.pnwx.com/Accessories/Markers/product.jpg",
+            "https://www.pnwx.com/Accessories/Markers/main.jpg",
+            "https://www.pnwx.com/Accessories/Markers.jpg"
+          ]
+        },
+        {
+          "id": "radiation-protection",
+          "name": "Radiation Protection Products",
+          "description": "Lead aprons and protective equipment",
+          "url": "https://www.pnwx.com/Accessories/LeadProducts/",
+          "image": "https://www.pnwx.com/Accessories/LeadProducts/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "RADIATION-PROTECTION"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/LeadProducts/image.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/image.gif",
+            "https://www.pnwx.com/Accessories/LeadProducts/product.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/main.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts.jpg"
+          ]
+        },
+        {
+          "id": "mobile-caddy",
+          "name": "Mobile/Portable Imaging Accessory Caddy",
+          "description": "Portable equipment organization",
+          "url": "https://www.pnwx.com/Accessories/TechAides/MobileCaddy/",
+          "image": "https://www.pnwx.com/Accessories/TechAides/MobileCaddy/image.jpg",
+          "specifications": {
+            "Generator Type": "High Frequency",
+            "Power Output": "80 kHp @ 100 kV",
+            "kVp Range": "40-100 kVp (1 kVp steps)",
+            "mA Settings": "20, 32, 50, 63, 80, 100, 125 mA",
+            "mAs Range": "0.02 - 800 mAs",
+            "Focal Spot Size": "1.0mm (IEC 336)",
+            "Input Power": "120V, 60Hz, 20A",
+            "Battery Capacity": "200 exposures per charge"
+          },
+          "features": [
+            "High-frequency generator for superior image quality",
+            "Lightweight portable design",
+            "Built-in rechargeable battery for true portability",
+            "LCD display with intuitive controls",
+            "Anatomical programming for quick setup",
+            "Digital interface ready",
+            "CE marked and FDA approved"
+          ],
+          "dimensions": {
+            "width": "14.5 inches",
+            "height": "17 inches",
+            "depth": "19 inches",
+            "weight": "35 lbs"
+          },
+          "partNumbers": [
+            "HF80-115V",
+            "HF80-240V"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/TechAides/MobileCaddy/image.jpg",
+            "https://www.pnwx.com/Accessories/TechAides/MobileCaddy/image.gif",
+            "https://www.pnwx.com/Accessories/TechAides/MobileCaddy/product.jpg",
+            "https://www.pnwx.com/Accessories/TechAides/MobileCaddy/main.jpg",
+            "https://www.pnwx.com/Accessories/TechAides/MobileCaddy.jpg"
+          ]
+        },
+        {
+          "id": "step-wedges",
+          "name": "Step Wedges",
+          "description": "Exposure testing devices",
+          "url": "https://www.pnwx.com/Accessories/ExpTesting/",
+          "image": "https://www.pnwx.com/Accessories/ExpTesting/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "STEP-WEDGES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/ExpTesting/image.jpg",
+            "https://www.pnwx.com/Accessories/ExpTesting/image.gif",
+            "https://www.pnwx.com/Accessories/ExpTesting/product.jpg",
+            "https://www.pnwx.com/Accessories/ExpTesting/main.jpg",
+            "https://www.pnwx.com/Accessories/ExpTesting.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radiation-protection-lead",
+      "name": "Radiation Protection Products (Lead)",
+      "description": "Comprehensive lead protection equipment for radiation safety.",
+      "icon": "shield",
+      "itemCount": 15,
+      "featured": true,
+      "externalUrl": "https://www.pnwx.com/Accessories/LeadProducts/",
+      "subcategories": [
+        {
+          "id": "lead-aprons",
+          "name": "Lead Aprons",
+          "description": "Radiation protection aprons (99 options)",
+          "url": "https://www.pnwx.com/Accessories/LeadProducts/Aprons/",
+          "image": "https://www.pnwx.com/Accessories/LeadProducts/Aprons/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "LEAD-APRONS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/LeadProducts/Aprons/image.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Aprons/image.gif",
+            "https://www.pnwx.com/Accessories/LeadProducts/Aprons/product.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Aprons/main.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Aprons.jpg"
+          ]
+        },
+        {
+          "id": "lead-eyewear",
+          "name": "Leaded Eyewear, Glasses/Goggles/Full Face Shields",
+          "description": "Eye protection solutions (5 types)",
+          "url": "https://www.pnwx.com/Accessories/LeadProducts/Eyewear/",
+          "image": "https://www.pnwx.com/Accessories/LeadProducts/Eyewear/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "LEAD-EYEWEAR"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/LeadProducts/Eyewear/image.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Eyewear/image.gif",
+            "https://www.pnwx.com/Accessories/LeadProducts/Eyewear/product.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Eyewear/main.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Eyewear.jpg"
+          ]
+        },
+        {
+          "id": "thyroid-collars",
+          "name": "Thyroid Collars",
+          "description": "Thyroid protection (6 types)",
+          "url": "https://www.pnwx.com/Accessories/LeadProducts/ThyroidCollars/",
+          "image": "https://www.pnwx.com/Accessories/LeadProducts/ThyroidCollars/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "THYROID-COLLARS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/LeadProducts/ThyroidCollars/image.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/ThyroidCollars/image.gif",
+            "https://www.pnwx.com/Accessories/LeadProducts/ThyroidCollars/product.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/ThyroidCollars/main.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/ThyroidCollars.jpg"
+          ]
+        },
+        {
+          "id": "lead-gloves",
+          "name": "Gloves, Mittens, & Sleeves",
+          "description": "Hand and arm protection (6 types)",
+          "url": "https://www.pnwx.com/Accessories/LeadProducts/Gloves/",
+          "image": "https://www.pnwx.com/Accessories/LeadProducts/Gloves/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "LEAD-GLOVES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/LeadProducts/Gloves/image.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Gloves/image.gif",
+            "https://www.pnwx.com/Accessories/LeadProducts/Gloves/product.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Gloves/main.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Gloves.jpg"
+          ]
+        },
+        {
+          "id": "pediatric-shielding",
+          "name": "Pediatric Shielding Products",
+          "description": "Child-specific protection (12 types)",
+          "url": "https://www.pnwx.com/Accessories/LeadProducts/Pediatric/",
+          "image": "https://www.pnwx.com/Accessories/LeadProducts/Pediatric/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "PEDIATRIC-SHIELDING"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/LeadProducts/Pediatric/image.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Pediatric/image.gif",
+            "https://www.pnwx.com/Accessories/LeadProducts/Pediatric/product.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Pediatric/main.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Pediatric.jpg"
+          ]
+        },
+        {
+          "id": "lead-caps",
+          "name": "Caps",
+          "description": "Head protection",
+          "url": "https://www.pnwx.com/Accessories/LeadProducts/Caps/",
+          "image": "https://www.pnwx.com/Accessories/LeadProducts/Caps/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "LEAD-CAPS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/LeadProducts/Caps/image.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Caps/image.gif",
+            "https://www.pnwx.com/Accessories/LeadProducts/Caps/product.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Caps/main.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Caps.jpg"
+          ]
+        },
+        {
+          "id": "leg-shields",
+          "name": "Leg Shields",
+          "description": "Lower extremity protection",
+          "url": "https://www.pnwx.com/Accessories/LeadProducts/LegShields/",
+          "image": "https://www.pnwx.com/Accessories/LeadProducts/LegShields/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "LEG-SHIELDS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/LeadProducts/LegShields/image.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/LegShields/image.gif",
+            "https://www.pnwx.com/Accessories/LeadProducts/LegShields/product.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/LegShields/main.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/LegShields.jpg"
+          ]
+        },
+        {
+          "id": "fluoro-drapes",
+          "name": "Fluoro Table Drapes",
+          "description": "Fluoroscopy table protection",
+          "url": "https://www.pnwx.com/Accessories/LeadProducts/TableDrapes/",
+          "image": "https://www.pnwx.com/Accessories/LeadProducts/TableDrapes/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "FLUORO-DRAPES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/LeadProducts/TableDrapes/image.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/TableDrapes/image.gif",
+            "https://www.pnwx.com/Accessories/LeadProducts/TableDrapes/product.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/TableDrapes/main.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/TableDrapes.jpg"
+          ]
+        },
+        {
+          "id": "mobile-barriers",
+          "name": "Mobile (Wheeled) Lead Barriers",
+          "description": "Portable shielding barriers (5 types)",
+          "url": "https://www.pnwx.com/Accessories/LeadProducts/MobileBarriers/",
+          "image": "https://www.pnwx.com/Accessories/LeadProducts/MobileBarriers/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "MOBILE-BARRIERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/LeadProducts/MobileBarriers/image.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/MobileBarriers/image.gif",
+            "https://www.pnwx.com/Accessories/LeadProducts/MobileBarriers/product.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/MobileBarriers/main.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/MobileBarriers.jpg"
+          ]
+        },
+        {
+          "id": "gonad-shields",
+          "name": "Gonad Shields and Protection, Leaded",
+          "description": "Patient gonadal shielding",
+          "url": "https://www.pnwx.com/Accessories/LeadProducts/GonadShields/",
+          "image": "https://www.pnwx.com/Accessories/LeadProducts/GonadShields/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "GONAD-SHIELDS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/LeadProducts/GonadShields/image.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/GonadShields/image.gif",
+            "https://www.pnwx.com/Accessories/LeadProducts/GonadShields/product.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/GonadShields/main.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/GonadShields.jpg"
+          ]
+        },
+        {
+          "id": "curtains-shields",
+          "name": "Curtains, Portable Shields, and Lead Sheet Blockers",
+          "description": "Flexible shielding solutions",
+          "url": "https://www.pnwx.com/Accessories/LeadProducts/Blockers-Shields/",
+          "image": "https://www.pnwx.com/Accessories/LeadProducts/Blockers-Shields/image.jpg",
+          "specifications": {
+            "Generator Type": "High Frequency",
+            "Power Output": "80 kHp @ 100 kV",
+            "kVp Range": "40-100 kVp (1 kVp steps)",
+            "mA Settings": "20, 32, 50, 63, 80, 100, 125 mA",
+            "mAs Range": "0.02 - 800 mAs",
+            "Focal Spot Size": "1.0mm (IEC 336)",
+            "Input Power": "120V, 60Hz, 20A",
+            "Battery Capacity": "200 exposures per charge"
+          },
+          "features": [
+            "High-frequency generator for superior image quality",
+            "Lightweight portable design",
+            "Built-in rechargeable battery for true portability",
+            "LCD display with intuitive controls",
+            "Anatomical programming for quick setup",
+            "Digital interface ready",
+            "CE marked and FDA approved"
+          ],
+          "dimensions": {
+            "width": "14.5 inches",
+            "height": "17 inches",
+            "depth": "19 inches",
+            "weight": "35 lbs"
+          },
+          "partNumbers": [
+            "HF80-115V",
+            "HF80-240V"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/LeadProducts/Blockers-Shields/image.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Blockers-Shields/image.gif",
+            "https://www.pnwx.com/Accessories/LeadProducts/Blockers-Shields/product.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Blockers-Shields/main.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Blockers-Shields.jpg"
+          ]
+        },
+        {
+          "id": "storage-racks",
+          "name": "Storage Racks/Hangers/Carry Bags",
+          "description": "Lead apron storage systems",
+          "url": "https://www.pnwx.com/Accessories/LeadProducts/Racks/",
+          "image": "https://www.pnwx.com/Accessories/LeadProducts/Racks/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "STORAGE-RACKS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/LeadProducts/Racks/image.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Racks/image.gif",
+            "https://www.pnwx.com/Accessories/LeadProducts/Racks/product.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Racks/main.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Racks.jpg"
+          ]
+        },
+        {
+          "id": "lead-sheetrock",
+          "name": "Leaded Sheetrock",
+          "description": "Radiation protection drywall",
+          "url": "https://www.pnwx.com/Accessories/LeadProducts/Drywall/",
+          "image": "https://www.pnwx.com/Accessories/LeadProducts/Drywall/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "LEAD-SHEETROCK"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/LeadProducts/Drywall/image.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Drywall/image.gif",
+            "https://www.pnwx.com/Accessories/LeadProducts/Drywall/product.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Drywall/main.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Drywall.jpg"
+          ]
+        },
+        {
+          "id": "lead-glass",
+          "name": "Leaded Glass, Windows and Frames",
+          "description": "Radiation-safe viewing windows",
+          "url": "https://www.pnwx.com/Accessories/LeadProducts/Windows/",
+          "image": "https://www.pnwx.com/Accessories/LeadProducts/Windows/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "LEAD-GLASS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/LeadProducts/Windows/image.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Windows/image.gif",
+            "https://www.pnwx.com/Accessories/LeadProducts/Windows/product.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Windows/main.jpg",
+            "https://www.pnwx.com/Accessories/LeadProducts/Windows.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ultrasound-accessories",
+      "name": "Ultrasound Accessories",
+      "description": "Ultrasound imaging accessories and supplies.",
+      "icon": "wave",
+      "itemCount": 4,
+      "featured": false,
+      "externalUrl": "https://www.pnwx.com/Ultrasound/",
+      "subcategories": [
+        {
+          "id": "ultrasound-gel",
+          "name": "Ultrasound Gel",
+          "description": "Acoustic coupling gel",
+          "url": "https://www.pnwx.com/Supplies/Ultrasound/",
+          "image": "https://www.pnwx.com/Supplies/Ultrasound/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "ULTRASOUND-GEL"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/Ultrasound/image.jpg",
+            "https://www.pnwx.com/Supplies/Ultrasound/image.gif",
+            "https://www.pnwx.com/Supplies/Ultrasound/product.jpg",
+            "https://www.pnwx.com/Supplies/Ultrasound/main.jpg",
+            "https://www.pnwx.com/Supplies/Ultrasound.jpg"
+          ]
+        },
+        {
+          "id": "gel-warmers",
+          "name": "Ultrasound Gel Warmers",
+          "description": "Patient comfort gel warming systems",
+          "url": "https://www.pnwx.com/Accessories/Ultrasound/",
+          "image": "https://www.pnwx.com/Accessories/Ultrasound/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "GEL-WARMERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Ultrasound/image.jpg",
+            "https://www.pnwx.com/Accessories/Ultrasound/image.gif",
+            "https://www.pnwx.com/Accessories/Ultrasound/product.jpg",
+            "https://www.pnwx.com/Accessories/Ultrasound/main.jpg",
+            "https://www.pnwx.com/Accessories/Ultrasound.jpg"
+          ]
+        },
+        {
+          "id": "ultrasound-phantoms",
+          "name": "Ultrasound Test & Training Phantoms",
+          "description": "QC and training tools (15 types)",
+          "url": "https://www.pnwx.com/Accessories/Phantoms/Radiology/Ultrasound/",
+          "image": "https://www.pnwx.com/Accessories/Phantoms/Radiology/Ultrasound/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "ULTRASOUND-PHANTOMS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/Ultrasound/image.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/Ultrasound/image.gif",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/Ultrasound/product.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/Ultrasound/main.jpg",
+            "https://www.pnwx.com/Accessories/Phantoms/Radiology/Ultrasound.jpg"
+          ]
+        },
+        {
+          "id": "ultrasound-tables",
+          "name": "Ultrasound Tables",
+          "description": "Specialized imaging tables (8 types)",
+          "url": "https://www.pnwx.com/Equipment/Tables/Biodex/Ultrasound/",
+          "image": "https://www.pnwx.com/Equipment/Tables/Biodex/Ultrasound/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "ULTRASOUND-TABLES"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/Tables/Biodex/Ultrasound/image.jpg",
+            "https://www.pnwx.com/Equipment/Tables/Biodex/Ultrasound/image.gif",
+            "https://www.pnwx.com/Equipment/Tables/Biodex/Ultrasound/product.jpg",
+            "https://www.pnwx.com/Equipment/Tables/Biodex/Ultrasound/main.jpg",
+            "https://www.pnwx.com/Equipment/Tables/Biodex/Ultrasound.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "veterinary-specific",
+      "name": "Veterinary Specific Products",
+      "description": "Specialized products for veterinary radiology.",
+      "icon": "paw",
+      "itemCount": 8,
+      "featured": false,
+      "externalUrl": "https://www.pnwx.com/Veterinary/",
+      "subcategories": [
+        {
+          "id": "vet-dental-film",
+          "name": "Dental Film",
+          "description": "Veterinary dental radiography film",
+          "url": "https://www.pnwx.com/Supplies/Veterinary/DentalFilm/",
+          "image": "https://www.pnwx.com/Supplies/Veterinary/DentalFilm/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "VET-DENTAL-FILM"
+          ],
+          "images": [
+            "https://www.pnwx.com/Supplies/Veterinary/DentalFilm/image.jpg",
+            "https://www.pnwx.com/Supplies/Veterinary/DentalFilm/image.gif",
+            "https://www.pnwx.com/Supplies/Veterinary/DentalFilm/product.jpg",
+            "https://www.pnwx.com/Supplies/Veterinary/DentalFilm/main.jpg",
+            "https://www.pnwx.com/Supplies/Veterinary/DentalFilm.jpg"
+          ]
+        },
+        {
+          "id": "equine-holders-vet",
+          "name": "Equine Cassette Holders",
+          "description": "Horse radiography positioning",
+          "url": "https://www.pnwx.com/Accessories/Cassettes/Holders/Veterinary/",
+          "image": "https://www.pnwx.com/Accessories/Cassettes/Holders/Veterinary/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "EQUINE-HOLDERS-VET"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/Cassettes/Holders/Veterinary/image.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Holders/Veterinary/image.gif",
+            "https://www.pnwx.com/Accessories/Cassettes/Holders/Veterinary/product.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Holders/Veterinary/main.jpg",
+            "https://www.pnwx.com/Accessories/Cassettes/Holders/Veterinary.jpg"
+          ]
+        },
+        {
+          "id": "vet-positioners",
+          "name": "Positioners",
+          "description": "Pet positioning systems",
+          "url": "https://www.pnwx.com/Accessories/PosAides/Pet-Sitioner/",
+          "image": "https://www.pnwx.com/Accessories/PosAides/Pet-Sitioner/image.jpg",
+          "specifications": {
+            "Type": "Medical Imaging Equipment",
+            "Compatibility": "Standard medical imaging systems",
+            "Power": "115V AC",
+            "Certification": "FDA Approved"
+          },
+          "features": [
+            "High-quality construction for reliability",
+            "Easy to install and operate",
+            "Low maintenance requirements",
+            "Compatible with standard equipment",
+            "Professional-grade performance"
+          ],
+          "dimensions": {
+            "weight": "Contact for specifications"
+          },
+          "partNumbers": [
+            "VET-POSITIONERS"
+          ],
+          "images": [
+            "https://www.pnwx.com/Accessories/PosAides/Pet-Sitioner/image.jpg",
+            "https://www.pnwx.com/Accessories/PosAides/Pet-Sitioner/image.gif",
+            "https://www.pnwx.com/Accessories/PosAides/Pet-Sitioner/product.jpg",
+            "https://www.pnwx.com/Accessories/PosAides/Pet-Sitioner/main.jpg",
+            "https://www.pnwx.com/Accessories/PosAides/Pet-Sitioner.jpg"
+          ]
+        },
+        {
+          "id": "vet-xray",
+          "name": "X-Ray Portables",
+          "description": "Veterinary portable X-ray systems",
+          "url": "https://www.pnwx.com/Equipment/VetXray/",
+          "image": "https://www.pnwx.com/Equipment/VetXray/image.jpg",
+          "specifications": {
+            "Generator Type": "High Frequency",
+            "Power Output": "80 kHp @ 100 kV",
+            "kVp Range": "40-100 kVp (1 kVp steps)",
+            "mA Settings": "20, 32, 50, 63, 80, 100, 125 mA",
+            "mAs Range": "0.02 - 800 mAs",
+            "Focal Spot Size": "1.0mm (IEC 336)",
+            "Input Power": "120V, 60Hz, 20A",
+            "Battery Capacity": "200 exposures per charge"
+          },
+          "features": [
+            "High-frequency generator for superior image quality",
+            "Lightweight portable design",
+            "Built-in rechargeable battery for true portability",
+            "LCD display with intuitive controls",
+            "Anatomical programming for quick setup",
+            "Digital interface ready",
+            "CE marked and FDA approved"
+          ],
+          "dimensions": {
+            "width": "14.5 inches",
+            "height": "17 inches",
+            "depth": "19 inches",
+            "weight": "35 lbs"
+          },
+          "partNumbers": [
+            "HF80-115V",
+            "HF80-240V"
+          ],
+          "images": [
+            "https://www.pnwx.com/Equipment/VetXray/image.jpg",
+            "https://www.pnwx.com/Equipment/VetXray/image.gif",
+            "https://www.pnwx.com/Equipment/VetXray/product.jpg",
+            "https://www.pnwx.com/Equipment/VetXray/main.jpg",
+            "https://www.pnwx.com/Equipment/VetXray.jpg"
+          ]
+        }
+      ]
+    }
+  ],
+  "contactInfo": {
+    "phone": "1-503-667-3000",
+    "tollFree": "800-827-9729",
+    "fax": "1-503-666-8855",
+    "email": "SalesD@pnwx.com",
+    "hours": "8am - 5pm Monday-Friday (Pacific/West Coast Time)",
+    "address": {
+      "street": "P.O. Box 625",
+      "city": "Gresham",
+      "state": "OR",
+      "zip": "97030",
+      "country": "USA"
+    }
+  },
+  "orderingInfo": {
+    "minimumOrder": 30,
+    "poMinimumOrder": 500,
+    "orderFormUrl": "/PNWX-OrderForm.pdf",
+    "acceptedPayments": [
+      "Purchase Order",
+      "Credit Card",
+      "Cash"
+    ],
+    "creditApprovalRequired": true
+  }
+}
