@@ -1,12 +1,11 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Next.js + HeroUI",
-  description: "Make beautiful websites regardless of your design experience.",
+  name: "Pacific Northwest X-Ray, Inc.",
+  description: "Make your medical imaging easier.",
   navItems: [
     { label: "Products", href: "/products", hasDropdown: true },
     { label: "Solutions", href: "/solutions", hasDropdown: true },
-    { label: "Resources", href: "/resources", hasDropdown: false },
     { label: "About Us", href: "/about", hasDropdown: false },
   ],
   navMenuItems: [
