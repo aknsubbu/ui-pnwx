@@ -48,11 +48,11 @@ export default function RootLayout({
             <main className="container mx-auto max-w-7xl pt-16 px-6 flex-grow">
               {children}
             </main>
-            <footer className=" text-white py-12 px-6">
+            <footer className=" text-white py-12 px-6 border-t-1 border-default-700">
               <div className="max-w-7xl mx-auto">
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
                   <div>
-                    <h3 className="text-xl font-bold mb-4">MedSource</h3>
+                    <h3 className="text-xl font-bold mb-4">PNWX</h3>
                     <p className="text-default-400 mb-4">
                       Your trusted partner in medical imaging solutions for over
                       20 years.
@@ -178,11 +178,11 @@ export default function RootLayout({
 
                 <div className="flex flex-col md:flex-row justify-between items-center">
                   <p className="text-default-400">
-                    © 2024 MedSource. All rights reserved.
+                    © 2024 PNWX. All rights reserved.
                   </p>
                   <div className="flex gap-6 mt-4 md:mt-0">
                     <Link
-                      href="#"
+                      href="#about"
                       className="text-default-400 hover:text-white text-sm"
                     >
                       About Us

@@ -8,8 +8,8 @@ export const siteConfig = {
     { label: "Accessories", href: "/accessories", hasDropdown: false },
     { label: "Supplies", href: "/supplies", hasDropdown: false },
     { label: "Parts", href: "/parts", hasDropdown: false },
-    { label: "Products", href: "/products", hasDropdown: true },
-    { label: "Solutions", href: "/solutions", hasDropdown: true },
+    // { label: "Products", href: "/products", hasDropdown: true },
+    // { label: "Solutions", href: "/solutions", hasDropdown: true },
     { label: "About Us", href: "/about", hasDropdown: false },
   ],
   navMenuItems: [
