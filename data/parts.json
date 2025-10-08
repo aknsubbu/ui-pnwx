@@ -18,7 +18,7 @@
           "id": "grid-focused",
           "name": "Focused X-Ray Grids",
           "description": "High-quality focused grids for optimal scatter reduction",
-          "image": "https://www.pnwx.com/Parts/Grids/image.jpg",
+          "image": "/images/pnwx-product-9.jpg",
           "url": "https://www.pnwx.com/Parts/Grids/",
           "manufacturer": "Various",
           "specifications": {
@@ -51,18 +51,14 @@
             "HF80-240V"
           ],
           "images": [
-            "https://www.pnwx.com/Parts/Grids/image.jpg",
-            "https://www.pnwx.com/Parts/Grids/image.gif",
-            "https://www.pnwx.com/Parts/Grids/product.jpg",
-            "https://www.pnwx.com/Parts/Grids/main.jpg",
-            "https://www.pnwx.com/Parts/Grids.jpg"
+            "/images/pnwx-product-9.jpg"
           ]
         },
         {
           "id": "grid-parallel",
           "name": "Parallel X-Ray Grids",
           "description": "Parallel grids for general radiography applications",
-          "image": "https://www.pnwx.com/Parts/Grids/image.jpg",
+          "image": "/images/pnwx-product-1.jpg",
           "url": "https://www.pnwx.com/Parts/Grids/",
           "manufacturer": "Various",
           "specifications": {
@@ -95,11 +91,7 @@
             "HF80-240V"
           ],
           "images": [
-            "https://www.pnwx.com/Parts/Grids/image.jpg",
-            "https://www.pnwx.com/Parts/Grids/image.gif",
-            "https://www.pnwx.com/Parts/Grids/product.jpg",
-            "https://www.pnwx.com/Parts/Grids/main.jpg",
-            "https://www.pnwx.com/Parts/Grids.jpg"
+            "/images/pnwx-product-1.jpg"
           ]
         }
       ]
@@ -117,7 +109,7 @@
           "id": "ralco-collimators",
           "name": "Ralco Collimators",
           "description": "Professional X-ray beam limiting collimators from Ralco",
-          "image": "https://www.pnwx.com/Parts/Collimators/Ralco/image.jpg",
+          "image": "/images/pnwx-product-2.jpg",
           "url": "https://www.pnwx.com/Parts/Collimators/Ralco/",
           "manufacturer": "Ralco",
           "specifications": {
@@ -140,18 +132,14 @@
             "RALCO-COLLIMATORS"
           ],
           "images": [
-            "https://www.pnwx.com/Parts/Collimators/Ralco/image.jpg",
-            "https://www.pnwx.com/Parts/Collimators/Ralco/image.gif",
-            "https://www.pnwx.com/Parts/Collimators/Ralco/product.jpg",
-            "https://www.pnwx.com/Parts/Collimators/Ralco/main.jpg",
-            "https://www.pnwx.com/Parts/Collimators/Ralco.jpg"
+            "/images/pnwx-product-2.jpg"
           ]
         },
         {
           "id": "replacement-collimators",
           "name": "Replacement Collimators",
           "description": "Replacement collimators for various X-ray systems",
-          "image": "https://www.pnwx.com/Parts/Collimators/Ralco/image.jpg",
+          "image": "/images/pnwx-product-3.jpg",
           "url": "https://www.pnwx.com/Parts/Collimators/Ralco/",
           "manufacturer": "Various",
           "specifications": {
@@ -174,11 +162,7 @@
             "REPLACEMENT-COLLIMATORS"
           ],
           "images": [
-            "https://www.pnwx.com/Parts/Collimators/Ralco/image.jpg",
-            "https://www.pnwx.com/Parts/Collimators/Ralco/image.gif",
-            "https://www.pnwx.com/Parts/Collimators/Ralco/product.jpg",
-            "https://www.pnwx.com/Parts/Collimators/Ralco/main.jpg",
-            "https://www.pnwx.com/Parts/Collimators/Ralco.jpg"
+            "/images/pnwx-product-3.jpg"
           ]
         }
       ]
@@ -196,7 +180,7 @@
           "id": "halogen-lamps",
           "name": "Halogen Collimator Lamps",
           "description": "High-quality halogen lamps for X-ray collimators",
-          "image": "https://www.pnwx.com/Parts/Lamps/image.jpg",
+          "image": "/images/pnwx-product-4.jpg",
           "url": "https://www.pnwx.com/Parts/Lamps/",
           "manufacturer": "Various",
           "specifications": {
@@ -219,18 +203,14 @@
             "HALOGEN-LAMPS"
           ],
           "images": [
-            "https://www.pnwx.com/Parts/Lamps/image.jpg",
-            "https://www.pnwx.com/Parts/Lamps/image.gif",
-            "https://www.pnwx.com/Parts/Lamps/product.jpg",
-            "https://www.pnwx.com/Parts/Lamps/main.jpg",
-            "https://www.pnwx.com/Parts/Lamps.jpg"
+            "/images/pnwx-product-4.jpg"
           ]
         },
         {
           "id": "led-lamps",
           "name": "LED Collimator Lamps",
           "description": "Energy-efficient LED replacement lamps",
-          "image": "https://www.pnwx.com/Parts/Lamps/image.jpg",
+          "image": "/images/pnwx-product-5.jpg",
           "url": "https://www.pnwx.com/Parts/Lamps/",
           "manufacturer": "Various",
           "specifications": {
@@ -253,11 +233,7 @@
             "LED-LAMPS"
           ],
           "images": [
-            "https://www.pnwx.com/Parts/Lamps/image.jpg",
-            "https://www.pnwx.com/Parts/Lamps/image.gif",
-            "https://www.pnwx.com/Parts/Lamps/product.jpg",
-            "https://www.pnwx.com/Parts/Lamps/main.jpg",
-            "https://www.pnwx.com/Parts/Lamps.jpg"
+            "/images/pnwx-product-5.jpg"
           ]
         }
       ]
@@ -275,7 +251,7 @@
           "id": "single-tank-cables",
           "name": "Single Tank HV Cables",
           "description": "High voltage cables for single tank X-ray systems",
-          "image": "https://www.pnwx.com/Parts/HT_Cables/image.jpg",
+          "image": "/images/pnwx-product-6.jpg",
           "url": "https://www.pnwx.com/Parts/HT_Cables/",
           "manufacturer": "Various",
           "specifications": {
@@ -298,18 +274,14 @@
             "SINGLE-TANK-CABLES"
           ],
           "images": [
-            "https://www.pnwx.com/Parts/HT_Cables/image.jpg",
-            "https://www.pnwx.com/Parts/HT_Cables/image.gif",
-            "https://www.pnwx.com/Parts/HT_Cables/product.jpg",
-            "https://www.pnwx.com/Parts/HT_Cables/main.jpg",
-            "https://www.pnwx.com/Parts/HT_Cables.jpg"
+            "/images/pnwx-product-6.jpg"
           ]
         },
         {
           "id": "bipolar-cables",
           "name": "Bipolar HV Cables",
           "description": "Bipolar high voltage cables for dual tank systems",
-          "image": "https://www.pnwx.com/Parts/HT_Cables/image.jpg",
+          "image": "/images/pnwx-product-7.jpg",
           "url": "https://www.pnwx.com/Parts/HT_Cables/",
           "manufacturer": "Various",
           "specifications": {
@@ -332,11 +304,7 @@
             "BIPOLAR-CABLES"
           ],
           "images": [
-            "https://www.pnwx.com/Parts/HT_Cables/image.jpg",
-            "https://www.pnwx.com/Parts/HT_Cables/image.gif",
-            "https://www.pnwx.com/Parts/HT_Cables/product.jpg",
-            "https://www.pnwx.com/Parts/HT_Cables/main.jpg",
-            "https://www.pnwx.com/Parts/HT_Cables.jpg"
+            "/images/pnwx-product-7.jpg"
           ]
         }
       ]

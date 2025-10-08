@@ -1,99 +1,103 @@
 /**
- * Simple Image URL Updater
- * 
- * Replaces placeholder images with PNWX URLs that browsers can load directly.
- * For products without specific images, uses a generic medical equipment image.
+ * PNWX Image Updater
+ *
+ * Distributes the downloaded PNWX product images across all products
+ * by cycling through them and updating JSON files.
  */
 
-import * as fs from 'fs/promises';
-import * as path from 'path';
+import * as fs from "fs/promises";
+import * as path from "path";
 
 interface Product {
   id: string;
   name: string;
-  url?: string;
   image?: string;
   images?: string[];
+  [key: string]: any;
 }
 
-/**
- * Update product to use PNWX image or fallback
- */
-function updateProductImage(product: Product): Product {
-  // Keep existing PNWX images
-  if (product.image?.includes('pnwx.com') && !product.image.includes('placeholder')) {
-    return product;
-  }
-
-  // If product has a PNWX URL, try to construct image URL from it
-  if (product.url) {
-    // Common PNWX image locations
-    const baseUrl = product.url.endsWith('/') ? product.url : product.url + '/';
-    const possibleImages = [
-      `${baseUrl}image.jpg`,
-      `${baseUrl}image.gif`,
-      `${baseUrl}product.jpg`,
-      `${baseUrl}main.jpg`,
-      `${product.url.replace(/\/$/, '')}.jpg`,
-    ];
-
-    return {
-      ...product,
-      image: possibleImages[0], // Use first option as primary
-      images: possibleImages, // Store all options for the gallery
-    };
-  }
-
-  // Fallback: use a generic medical equipment placeholder
-  return {
-    ...product,
-    image: 'https://via.placeholder.com/400x300/4A5568/FFFFFF?text=Medical+Equipment',
-    images: ['https://via.placeholder.com/400x300/4A5568/FFFFFF?text=Medical+Equipment'],
-  };
+interface DataFile {
+  categories: Array<{
+    name: string;
+    id: string;
+    subcategories: Product[];
+  }>;
 }
 
-async function processFile(filePath: string): Promise<void> {
-  console.log(`\n📄 Processing: ${path.basename(filePath)}`);
-  
-  const content = await fs.readFile(filePath, 'utf-8');
-  const data = JSON.parse(content);
-  
-  let updatedCount = 0;
-  
-  for (const category of data.categories) {
-    for (let i = 0; i < category.subcategories.length; i++) {
-      const product = category.subcategories[i];
-      const before = JSON.stringify(product.image);
-      const updated = updateProductImage(product);
-      const after = JSON.stringify(updated.image);
-      
-      if (before !== after) {
-        category.subcategories[i] = updated;
-        updatedCount++;
-        console.log(`  ✅ ${product.name}`);
-        console.log(`     → ${updated.image}`);
+async function updateProductsWithPNWXImages() {
+  console.log("🖼️  Updating products with PNWX images...\n");
+
+  const dataDir = path.join(process.cwd(), "data");
+  const files = [
+    "equipment.json",
+    "accessories.json",
+    "supplies.json",
+    "parts.json",
+  ];
+
+  // List of downloaded PNWX images (based on 9 URLs from links.txt)
+  const pnwxImages = [
+    "/images/pnwx-product-1.jpg", // Lead apron
+    "/images/pnwx-product-2.jpg", // Fluoroscopy phantom
+    "/images/pnwx-product-3.jpg", // Lead gloves
+    "/images/pnwx-product-4.jpg", // Pet positioning aid
+    "/images/pnwx-product-5.jpg", // Table pad
+    "/images/pnwx-product-6.jpg", // X-ray grid
+    "/images/pnwx-product-7.jpg", // Film duplicator
+    "/images/pnwx-product-8.jpg", // Chemical processing equipment
+  ];
+
+  let totalUpdated = 0;
+  let imageIndex = 0;
+
+  for (const filename of files) {
+    console.log(`📄 Processing ${filename}...`);
+    const filePath = path.join(dataDir, filename);
+    const data: DataFile = JSON.parse(await fs.readFile(filePath, "utf-8"));
+
+    let fileUpdated = 0;
+
+    for (const category of data.categories) {
+      console.log(`  📁 ${category.name}`);
+
+      for (const product of category.subcategories) {
+        // Cycle through PNWX images
+        const currentImage = pnwxImages[imageIndex % pnwxImages.length];
+
+        // Update product with PNWX image
+        product.image = currentImage;
+        product.images = [currentImage];
+
+        console.log(`    ✅ ${product.name} → ${currentImage}`);
+
+        imageIndex++;
+        fileUpdated++;
+        totalUpdated++;
       }
     }
+
+    // Save updated data
+    await fs.writeFile(filePath, JSON.stringify(data, null, 2));
+    console.log(`  💾 Updated ${fileUpdated} products in ${filename}\n`);
   }
-  
-  await fs.writeFile(filePath, JSON.stringify(data, null, 2));
-  console.log(`\n  💾 Updated ${updatedCount} products`);
+
+  console.log("═".repeat(60));
+  console.log(`✨ Complete! Updated ${totalUpdated} products with PNWX images`);
+  console.log(
+    `🔄 Images cycled ${Math.ceil(totalUpdated / pnwxImages.length)} times`
+  );
+  console.log("═".repeat(60));
+  console.log("\n🚀 Next steps:");
+  console.log("  1. Start dev server: npm run dev");
+  console.log(
+    "  2. Visit: http://localhost:3000/equipment/darkroom-equipment-and-accessories/film-processor"
+  );
+  console.log("  3. Check that images are loading properly");
 }
 
-async function main() {
-  console.log('🖼️  Converting to PNWX image URLs...\n');
-  
-  const dataDir = path.join(process.cwd(), 'data');
-  const files = ['equipment.json', 'accessories.json', 'supplies.json', 'parts.json'];
-  
-  for (const file of files) {
-    await processFile(path.join(dataDir, file));
-  }
-  
-  console.log('\n' + '='.repeat(60));
-  console.log('✨ Done! Images will now load directly from PNWX.');
-  console.log('   Your browser will handle fetching them.');
-  console.log('='.repeat(60));
+// Run the script
+if (import.meta.url === `file://${process.argv[1]}`) {
+  updateProductsWithPNWXImages().catch(console.error);
 }
 
-main().catch(console.error);
+export { updateProductsWithPNWXImages };

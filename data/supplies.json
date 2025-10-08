@@ -20,7 +20,7 @@
           "name": "Hand Sanitizer",
           "description": "WHO and FDA recommended formula alcohol-based sanitizer",
           "url": "https://www.pnwx.com/Supplies/Cleaners/Sanitizer/",
-          "image": "https://www.pnwx.com/Supplies/Cleaners/Sanitizer/image.jpg",
+          "image": "/images/pnwx-product-4.jpg",
           "specifications": {
             "Type": "Medical Imaging Equipment",
             "Compatibility": "Standard medical imaging systems",
@@ -41,11 +41,7 @@
             "ALCOHOL-SANITIZER"
           ],
           "images": [
-            "https://www.pnwx.com/Supplies/Cleaners/Sanitizer/image.jpg",
-            "https://www.pnwx.com/Supplies/Cleaners/Sanitizer/image.gif",
-            "https://www.pnwx.com/Supplies/Cleaners/Sanitizer/product.jpg",
-            "https://www.pnwx.com/Supplies/Cleaners/Sanitizer/main.jpg",
-            "https://www.pnwx.com/Supplies/Cleaners/Sanitizer.jpg"
+            "/images/pnwx-product-4.jpg"
           ]
         }
       ]
@@ -64,7 +60,7 @@
           "name": "CT Gantry Covers",
           "description": "Protective covers for CT equipment",
           "url": "https://www.pnwx.com/Supplies/EquipmentCovers/CTGantry/",
-          "image": "https://www.pnwx.com/Supplies/EquipmentCovers/CTGantry/image.jpg",
+          "image": "/images/pnwx-product-5.jpg",
           "specifications": {
             "Type": "Medical Imaging Equipment",
             "Compatibility": "Standard medical imaging systems",
@@ -85,11 +81,7 @@
             "GANTRY-PROTECTION"
           ],
           "images": [
-            "https://www.pnwx.com/Supplies/EquipmentCovers/CTGantry/image.jpg",
-            "https://www.pnwx.com/Supplies/EquipmentCovers/CTGantry/image.gif",
-            "https://www.pnwx.com/Supplies/EquipmentCovers/CTGantry/product.jpg",
-            "https://www.pnwx.com/Supplies/EquipmentCovers/CTGantry/main.jpg",
-            "https://www.pnwx.com/Supplies/EquipmentCovers/CTGantry.jpg"
+            "/images/pnwx-product-5.jpg"
           ]
         }
       ]
@@ -108,7 +100,7 @@
           "name": "Clean Screen System",
           "description": "Complete CR plate cleaning solution kit (500+ plates)",
           "url": "https://www.pnwx.com/Supplies/Cleaners/CRPlates/",
-          "image": "https://www.pnwx.com/Supplies/Cleaners/CRPlates/image.jpg",
+          "image": "/images/pnwx-product-6.jpg",
           "specifications": {
             "Type": "Medical Imaging Equipment",
             "Compatibility": "Standard medical imaging systems",
@@ -129,11 +121,7 @@
             "CR-CLEAN-SYSTEM"
           ],
           "images": [
-            "https://www.pnwx.com/Supplies/Cleaners/CRPlates/image.jpg",
-            "https://www.pnwx.com/Supplies/Cleaners/CRPlates/image.gif",
-            "https://www.pnwx.com/Supplies/Cleaners/CRPlates/product.jpg",
-            "https://www.pnwx.com/Supplies/Cleaners/CRPlates/main.jpg",
-            "https://www.pnwx.com/Supplies/Cleaners/CRPlates.jpg"
+            "/images/pnwx-product-6.jpg"
           ]
         }
       ]
@@ -152,7 +140,7 @@
           "name": "CD Storage",
           "description": "Medical grade CD/DVD media and custom packaging",
           "url": "https://www.pnwx.com/Supplies/CD-DVD/",
-          "image": "https://www.pnwx.com/Supplies/CD-DVD/image.jpg",
+          "image": "/images/pnwx-product-7.jpg",
           "specifications": {
             "Type": "Medical Imaging Equipment",
             "Compatibility": "Standard medical imaging systems",
@@ -173,11 +161,7 @@
             "MEDICAL-CD-DVD"
           ],
           "images": [
-            "https://www.pnwx.com/Supplies/CD-DVD/image.jpg",
-            "https://www.pnwx.com/Supplies/CD-DVD/image.gif",
-            "https://www.pnwx.com/Supplies/CD-DVD/product.jpg",
-            "https://www.pnwx.com/Supplies/CD-DVD/main.jpg",
-            "https://www.pnwx.com/Supplies/CD-DVD.jpg"
+            "/images/pnwx-product-7.jpg"
           ]
         }
       ]
@@ -196,7 +180,7 @@
           "name": "Exam Capes/Gowns",
           "description": "Single-use disposable patient apparel",
           "url": "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/",
-          "image": "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/image.jpg",
+          "image": "/images/pnwx-product-8.jpg",
           "specifications": {
             "Type": "Medical Imaging Equipment",
             "Compatibility": "Standard medical imaging systems",
@@ -217,11 +201,7 @@
             "PATIENT-GOWNS"
           ],
           "images": [
-            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/image.jpg",
-            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/image.gif",
-            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/product.jpg",
-            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel/main.jpg",
-            "https://www.pnwx.com/Accessories/ExamRoom/Disposables/Apparel.jpg"
+            "/images/pnwx-product-8.jpg"
           ]
         }
       ]
@@ -240,7 +220,7 @@
           "name": "Labels for Envelopes",
           "description": "X-ray jacket marking labels and dispensers",
           "url": "https://www.pnwx.com/Supplies/Labels/",
-          "image": "https://www.pnwx.com/Supplies/Labels/image.jpg",
+          "image": "/images/pnwx-product-9.jpg",
           "specifications": {
             "Type": "Medical Imaging Equipment",
             "Compatibility": "Standard medical imaging systems",
@@ -261,11 +241,7 @@
             "ENVELOPE-LABELS"
           ],
           "images": [
-            "https://www.pnwx.com/Supplies/Labels/image.jpg",
-            "https://www.pnwx.com/Supplies/Labels/image.gif",
-            "https://www.pnwx.com/Supplies/Labels/product.jpg",
-            "https://www.pnwx.com/Supplies/Labels/main.jpg",
-            "https://www.pnwx.com/Supplies/Labels.jpg"
+            "/images/pnwx-product-9.jpg"
           ]
         }
       ]
@@ -284,7 +260,7 @@
           "name": "Film Envelopes and Jackets",
           "description": "Mailing envelopes, film jackets, mammo jackets, midi jackets, loan jackets, report folders, category inserts",
           "url": "https://www.pnwx.com/Supplies/Envelopes/",
-          "image": "https://www.pnwx.com/Supplies/Envelopes/image.jpg",
+          "image": "/images/pnwx-product-1.jpg",
           "specifications": {
             "Type": "Medical Imaging Equipment",
             "Compatibility": "Standard medical imaging systems",
@@ -305,11 +281,7 @@
             "FILM-JACKETS"
           ],
           "images": [
-            "https://www.pnwx.com/Supplies/Envelopes/image.jpg",
-            "https://www.pnwx.com/Supplies/Envelopes/image.gif",
-            "https://www.pnwx.com/Supplies/Envelopes/product.jpg",
-            "https://www.pnwx.com/Supplies/Envelopes/main.jpg",
-            "https://www.pnwx.com/Supplies/Envelopes.jpg"
+            "/images/pnwx-product-1.jpg"
           ]
         }
       ]
@@ -328,7 +300,7 @@
           "name": "Breast Coil Covers/Drapes",
           "description": "Disposable breast coil drapes for MRI systems",
           "url": "https://www.pnwx.com/Supplies/Covers/MRI/",
-          "image": "https://www.pnwx.com/Supplies/Covers/MRI/image.jpg",
+          "image": "/images/pnwx-product-2.jpg",
           "specifications": {
             "Type": "Medical Imaging Equipment",
             "Compatibility": "Standard medical imaging systems",
@@ -349,11 +321,7 @@
             "BREAST-COIL-DRAPES"
           ],
           "images": [
-            "https://www.pnwx.com/Supplies/Covers/MRI/image.jpg",
-            "https://www.pnwx.com/Supplies/Covers/MRI/image.gif",
-            "https://www.pnwx.com/Supplies/Covers/MRI/product.jpg",
-            "https://www.pnwx.com/Supplies/Covers/MRI/main.jpg",
-            "https://www.pnwx.com/Supplies/Covers/MRI.jpg"
+            "/images/pnwx-product-2.jpg"
           ]
         }
       ]
@@ -372,7 +340,7 @@
           "name": "MRI Earplugs",
           "description": "MRI-safe foam earplugs for patient hearing protection",
           "url": "https://www.pnwx.com/Supplies/MRI/EarProtection/",
-          "image": "https://www.pnwx.com/Supplies/MRI/EarProtection/image.jpg",
+          "image": "/images/pnwx-product-3.jpg",
           "specifications": {
             "Type": "Medical Imaging Equipment",
             "Compatibility": "Standard medical imaging systems",
@@ -393,11 +361,7 @@
             "HEARING-PROTECTION"
           ],
           "images": [
-            "https://www.pnwx.com/Supplies/MRI/EarProtection/image.jpg",
-            "https://www.pnwx.com/Supplies/MRI/EarProtection/image.gif",
-            "https://www.pnwx.com/Supplies/MRI/EarProtection/product.jpg",
-            "https://www.pnwx.com/Supplies/MRI/EarProtection/main.jpg",
-            "https://www.pnwx.com/Supplies/MRI/EarProtection.jpg"
+            "/images/pnwx-product-3.jpg"
           ]
         }
       ]
@@ -416,7 +380,7 @@
           "name": "BindIt Radioactive Decontamination",
           "description": "Safe, gentle cleaner that binds and traps radioactive iodine for removal from surfaces and skin",
           "url": "https://www.pnwx.com/Supplies/Cleaners/BindIt/",
-          "image": "https://www.pnwx.com/Supplies/Cleaners/BindIt/image.jpg",
+          "image": "/images/pnwx-product-4.jpg",
           "specifications": {
             "Type": "Medical Imaging Equipment",
             "Compatibility": "Standard medical imaging systems",
@@ -437,11 +401,7 @@
             "BINDIT-CLEANER"
           ],
           "images": [
-            "https://www.pnwx.com/Supplies/Cleaners/BindIt/image.jpg",
-            "https://www.pnwx.com/Supplies/Cleaners/BindIt/image.gif",
-            "https://www.pnwx.com/Supplies/Cleaners/BindIt/product.jpg",
-            "https://www.pnwx.com/Supplies/Cleaners/BindIt/main.jpg",
-            "https://www.pnwx.com/Supplies/Cleaners/BindIt.jpg"
+            "/images/pnwx-product-4.jpg"
           ]
         }
       ]
@@ -460,7 +420,7 @@
           "name": "Radiology Department Cleaning Products",
           "description": "Screen cleaners and spray cleaners for radiology",
           "url": "https://www.pnwx.com/Supplies/Cleaners/",
-          "image": "https://www.pnwx.com/Supplies/Cleaners/image.jpg",
+          "image": "/images/pnwx-product-5.jpg",
           "specifications": {
             "Type": "Medical Imaging Equipment",
             "Compatibility": "Standard medical imaging systems",
@@ -481,11 +441,7 @@
             "RADIOLOGY-CLEANERS"
           ],
           "images": [
-            "https://www.pnwx.com/Supplies/Cleaners/image.jpg",
-            "https://www.pnwx.com/Supplies/Cleaners/image.gif",
-            "https://www.pnwx.com/Supplies/Cleaners/product.jpg",
-            "https://www.pnwx.com/Supplies/Cleaners/main.jpg",
-            "https://www.pnwx.com/Supplies/Cleaners.jpg"
+            "/images/pnwx-product-5.jpg"
           ]
         }
       ]
@@ -504,7 +460,7 @@
           "name": "Ultrasound Gel",
           "description": "Ultrasound coupling gel in various sizes (bottles and jugs)",
           "url": "https://www.pnwx.com/Supplies/Ultrasound/",
-          "image": "https://www.pnwx.com/Supplies/Ultrasound/image.jpg",
+          "image": "/images/pnwx-product-6.jpg",
           "specifications": {
             "Type": "Medical Imaging Equipment",
             "Compatibility": "Standard medical imaging systems",
@@ -525,11 +481,7 @@
             "US-GEL-BOTTLES"
           ],
           "images": [
-            "https://www.pnwx.com/Supplies/Ultrasound/image.jpg",
-            "https://www.pnwx.com/Supplies/Ultrasound/image.gif",
-            "https://www.pnwx.com/Supplies/Ultrasound/product.jpg",
-            "https://www.pnwx.com/Supplies/Ultrasound/main.jpg",
-            "https://www.pnwx.com/Supplies/Ultrasound.jpg"
+            "/images/pnwx-product-6.jpg"
           ]
         }
       ]
@@ -548,7 +500,7 @@
           "name": "Ultrasound Probe Covers",
           "description": "Disposable covers for ultrasound transducers",
           "url": "https://www.pnwx.com/Supplies/Covers/Ultrasound/",
-          "image": "https://www.pnwx.com/Supplies/Covers/Ultrasound/image.jpg",
+          "image": "/images/pnwx-product-7.jpg",
           "specifications": {
             "Type": "Medical Imaging Equipment",
             "Compatibility": "Standard medical imaging systems",
@@ -569,11 +521,7 @@
             "PROBE-COVERS"
           ],
           "images": [
-            "https://www.pnwx.com/Supplies/Covers/Ultrasound/image.jpg",
-            "https://www.pnwx.com/Supplies/Covers/Ultrasound/image.gif",
-            "https://www.pnwx.com/Supplies/Covers/Ultrasound/product.jpg",
-            "https://www.pnwx.com/Supplies/Covers/Ultrasound/main.jpg",
-            "https://www.pnwx.com/Supplies/Covers/Ultrasound.jpg"
+            "/images/pnwx-product-7.jpg"
           ]
         }
       ]
@@ -592,7 +540,7 @@
           "name": "Sanitizing Wipes",
           "description": "Surface sanitizing wipes for healthcare facilities",
           "url": "https://www.pnwx.com/Supplies/Cleaners/Wipes/",
-          "image": "https://www.pnwx.com/Supplies/Cleaners/Wipes/image.jpg",
+          "image": "/images/pnwx-product-8.jpg",
           "specifications": {
             "Type": "Medical Imaging Equipment",
             "Compatibility": "Standard medical imaging systems",
@@ -613,11 +561,7 @@
             "MEDICAL-WIPES"
           ],
           "images": [
-            "https://www.pnwx.com/Supplies/Cleaners/Wipes/image.jpg",
-            "https://www.pnwx.com/Supplies/Cleaners/Wipes/image.gif",
-            "https://www.pnwx.com/Supplies/Cleaners/Wipes/product.jpg",
-            "https://www.pnwx.com/Supplies/Cleaners/Wipes/main.jpg",
-            "https://www.pnwx.com/Supplies/Cleaners/Wipes.jpg"
+            "/images/pnwx-product-8.jpg"
           ]
         }
       ]
