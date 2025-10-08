@@ -3785,7 +3785,12 @@
   "orderingInfo": {
     "minimumOrder": 30,
     "poMinimumOrder": 500,
-    "orderFormUrl": "/PNWX-OrderForm.pdf",
+    "orderFormUrl": "https://www.pnwx.com/PNWX-OrderForm.pdf",
+    "downloadToast": {
+      "success": "Order form downloaded successfully",
+      "error": "Error downloading order form. Please try again."
+    },
+
     "acceptedPayments": [
       "Purchase Order",
       "Credit Card",
