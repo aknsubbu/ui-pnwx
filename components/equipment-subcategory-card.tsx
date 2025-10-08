@@ -38,25 +38,20 @@ export const EquipmentSubcategoryCard = ({
       className="h-full"
     >
       <Card
-        className="h-full hover:shadow-xl transition-all duration-300 flex flex-col"
+        className="h-full hover:shadow-xl transition-all duration-300 flex flex-col min-h-[400px]"
         isPressable
       >
         <CardBody className="p-0 flex flex-col h-full">
-          <div className="relative aspect-video w-full overflow-hidden bg-default-100">
-            <Image
-              alt={subcategory.name}
-              className="object-cover w-full h-full"
-              fallbackSrc="https://via.placeholder.com/400x300?text=Equipment+Image"
-              src={subcategory.image}
-            />
-            {subcategory.manufacturer && (
-              <div className="absolute top-2 right-2 bg-background/80 backdrop-blur-sm px-3 py-1 rounded-full">
-                <span className="text-tiny font-semibold">
-                  {subcategory.manufacturer}
-                </span>
-              </div>
-            )}
-          </div>
+                  <div className="relative aspect-video w-full overflow-hidden rounded-t-lg">
+          <Image
+            src={subcategory.image || '/placeholder-equipment.jpg'}
+            alt={subcategory.name}
+            className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+            classNames={{
+              img: "h-full w-full object-cover"
+            }}
+          />
+        </div>
 
           <div className="p-4 space-y-3 flex flex-col flex-grow">
             <h4 className="text-lg font-semibold line-clamp-2">
