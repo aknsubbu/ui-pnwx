@@ -37,12 +37,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "ALCOHOL-SANITIZER"
-          ],
-          "images": [
-            "/images/pnwx-product-4.jpg"
-          ]
+          "partNumbers": ["ALCOHOL-SANITIZER"],
+          "images": ["/images/pnwx-product-4.jpg"]
         }
       ]
     },
@@ -77,12 +73,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "GANTRY-PROTECTION"
-          ],
-          "images": [
-            "/images/pnwx-product-5.jpg"
-          ]
+          "partNumbers": ["GANTRY-PROTECTION"],
+          "images": ["/images/pnwx-product-5.jpg"]
         }
       ]
     },
@@ -117,18 +109,14 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "CR-CLEAN-SYSTEM"
-          ],
-          "images": [
-            "/images/pnwx-product-6.jpg"
-          ]
+          "partNumbers": ["CR-CLEAN-SYSTEM"],
+          "images": ["/images/pnwx-product-6.jpg"]
         }
       ]
     },
     {
       "id": "cd-dvd-storage",
-      "name": "Custom Printed CD/DVD Storage Media and Packaging",
+      "name": "Custom Printed CD/DVD Storage ",
       "description": "Medical grade CD/DVD media with generic and custom printed packaging.",
       "icon": "disc",
       "itemCount": 1,
@@ -157,12 +145,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MEDICAL-CD-DVD"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["MEDICAL-CD-DVD"],
+          "images": ["/images/pnwx-product-7.jpg"]
         }
       ]
     },
@@ -197,12 +181,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "PATIENT-GOWNS"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["PATIENT-GOWNS"],
+          "images": ["/images/pnwx-product-8.jpg"]
         }
       ]
     },
@@ -237,12 +217,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "ENVELOPE-LABELS"
-          ],
-          "images": [
-            "/images/pnwx-product-9.jpg"
-          ]
+          "partNumbers": ["ENVELOPE-LABELS"],
+          "images": ["/images/pnwx-product-9.jpg"]
         }
       ]
     },
@@ -277,12 +253,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "FILM-JACKETS"
-          ],
-          "images": [
-            "/images/pnwx-product-1.jpg"
-          ]
+          "partNumbers": ["FILM-JACKETS"],
+          "images": ["/images/pnwx-product-1.jpg"]
         }
       ]
     },
@@ -317,12 +289,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "BREAST-COIL-DRAPES"
-          ],
-          "images": [
-            "/images/pnwx-product-2.jpg"
-          ]
+          "partNumbers": ["BREAST-COIL-DRAPES"],
+          "images": ["/images/pnwx-product-2.jpg"]
         }
       ]
     },
@@ -357,12 +325,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "HEARING-PROTECTION"
-          ],
-          "images": [
-            "/images/pnwx-product-3.jpg"
-          ]
+          "partNumbers": ["HEARING-PROTECTION"],
+          "images": ["/images/pnwx-product-3.jpg"]
         }
       ]
     },
@@ -397,12 +361,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "BINDIT-CLEANER"
-          ],
-          "images": [
-            "/images/pnwx-product-4.jpg"
-          ]
+          "partNumbers": ["BINDIT-CLEANER"],
+          "images": ["/images/pnwx-product-4.jpg"]
         }
       ]
     },
@@ -437,12 +397,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "RADIOLOGY-CLEANERS"
-          ],
-          "images": [
-            "/images/pnwx-product-5.jpg"
-          ]
+          "partNumbers": ["RADIOLOGY-CLEANERS"],
+          "images": ["/images/pnwx-product-5.jpg"]
         }
       ]
     },
@@ -477,12 +433,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "US-GEL-BOTTLES"
-          ],
-          "images": [
-            "/images/pnwx-product-6.jpg"
-          ]
+          "partNumbers": ["US-GEL-BOTTLES"],
+          "images": ["/images/pnwx-product-6.jpg"]
         }
       ]
     },
@@ -517,12 +469,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "PROBE-COVERS"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["PROBE-COVERS"],
+          "images": ["/images/pnwx-product-7.jpg"]
         }
       ]
     },
@@ -557,12 +505,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MEDICAL-WIPES"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["MEDICAL-WIPES"],
+          "images": ["/images/pnwx-product-8.jpg"]
         }
       ]
     }
@@ -590,11 +534,7 @@
       "error": "Error downloading order form. Please try again."
     },
 
-    "acceptedPayments": [
-      "Purchase Order",
-      "Credit Card",
-      "Cash"
-    ],
+    "acceptedPayments": ["Purchase Order", "Credit Card", "Cash"],
     "creditApprovalRequired": true
   }
 }

@@ -23,11 +23,7 @@
           "image": "/images/pnwx-product-7.jpg",
           "specifications": {
             "Processing Speed": "90 seconds dry-to-dry",
-            "Film Sizes": [
-              "8x10\"",
-              "10x12\"",
-              "14x17\""
-            ],
+            "Film Sizes": ["8x10\"", "10x12\"", "14x17\""],
             "Developer Tank Capacity": "3.5 gallons",
             "Fixer Tank Capacity": "5.0 gallons",
             "Power Requirements": "115V, 20A",
@@ -55,13 +51,8 @@
             "Works with Kodak, Fuji, and Agfa chemistry",
             "Fits standard 24-inch wide spaces"
           ],
-          "partNumbers": [
-            "FP-100",
-            "FP-100-STD"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["FP-100", "FP-100-STD"],
+          "images": ["/images/pnwx-product-7.jpg"]
         },
         {
           "id": "chemical-mixers",
@@ -85,12 +76,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "CHEMICAL-MIXERS"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["CHEMICAL-MIXERS"],
+          "images": ["/images/pnwx-product-8.jpg"]
         },
         {
           "id": "film-bins",
@@ -114,12 +101,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "FILM-BINS"
-          ],
-          "images": [
-            "/images/pnwx-product-9.jpg"
-          ]
+          "partNumbers": ["FILM-BINS"],
+          "images": ["/images/pnwx-product-9.jpg"]
         },
         {
           "id": "film-carrying-cases",
@@ -143,12 +126,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "FILM-CARRYING-CASES"
-          ],
-          "images": [
-            "/images/pnwx-product-1.jpg"
-          ]
+          "partNumbers": ["FILM-CARRYING-CASES"],
+          "images": ["/images/pnwx-product-1.jpg"]
         },
         {
           "id": "film-duplicators",
@@ -172,12 +151,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "FILM-DUPLICATORS"
-          ],
-          "images": [
-            "/images/pnwx-product-2.jpg"
-          ]
+          "partNumbers": ["FILM-DUPLICATORS"],
+          "images": ["/images/pnwx-product-2.jpg"]
         },
         {
           "id": "film-id-systems",
@@ -201,12 +176,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "FILM-ID-SYSTEMS"
-          ],
-          "images": [
-            "/images/pnwx-product-3.jpg"
-          ]
+          "partNumbers": ["FILM-ID-SYSTEMS"],
+          "images": ["/images/pnwx-product-3.jpg"]
         },
         {
           "id": "safelights",
@@ -230,12 +201,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "SAFELIGHTS"
-          ],
-          "images": [
-            "/images/pnwx-product-4.jpg"
-          ]
+          "partNumbers": ["SAFELIGHTS"],
+          "images": ["/images/pnwx-product-4.jpg"]
         },
         {
           "id": "signs",
@@ -259,12 +226,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "SIGNS"
-          ],
-          "images": [
-            "/images/pnwx-product-5.jpg"
-          ]
+          "partNumbers": ["SIGNS"],
+          "images": ["/images/pnwx-product-5.jpg"]
         },
         {
           "id": "silver-recovery",
@@ -288,12 +251,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "SILVER-RECOVERY"
-          ],
-          "images": [
-            "/images/pnwx-product-6.jpg"
-          ]
+          "partNumbers": ["SILVER-RECOVERY"],
+          "images": ["/images/pnwx-product-6.jpg"]
         },
         {
           "id": "thermometers",
@@ -317,12 +276,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "THERMOMETERS"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["THERMOMETERS"],
+          "images": ["/images/pnwx-product-7.jpg"]
         },
         {
           "id": "timers",
@@ -346,12 +301,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "TIMERS"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["TIMERS"],
+          "images": ["/images/pnwx-product-8.jpg"]
         }
       ]
     },
@@ -386,12 +337,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "BLANKET-WARMING"
-          ],
-          "images": [
-            "/images/pnwx-product-9.jpg"
-          ]
+          "partNumbers": ["BLANKET-WARMING"],
+          "images": ["/images/pnwx-product-9.jpg"]
         },
         {
           "id": "blood-drawing-chairs",
@@ -415,12 +362,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "BLOOD-DRAWING-CHAIRS"
-          ],
-          "images": [
-            "/images/pnwx-product-1.jpg"
-          ]
+          "partNumbers": ["BLOOD-DRAWING-CHAIRS"],
+          "images": ["/images/pnwx-product-1.jpg"]
         },
         {
           "id": "disposable-apparel",
@@ -444,12 +387,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "DISPOSABLE-APPAREL"
-          ],
-          "images": [
-            "/images/pnwx-product-2.jpg"
-          ]
+          "partNumbers": ["DISPOSABLE-APPAREL"],
+          "images": ["/images/pnwx-product-2.jpg"]
         },
         {
           "id": "seating-products",
@@ -473,12 +412,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "SEATING-PRODUCTS"
-          ],
-          "images": [
-            "/images/pnwx-product-3.jpg"
-          ]
+          "partNumbers": ["SEATING-PRODUCTS"],
+          "images": ["/images/pnwx-product-3.jpg"]
         },
         {
           "id": "chart-holders",
@@ -511,13 +446,8 @@
             "depth": "19 inches",
             "weight": "35 lbs"
           },
-          "partNumbers": [
-            "HF80-115V",
-            "HF80-240V"
-          ],
-          "images": [
-            "/images/pnwx-product-4.jpg"
-          ]
+          "partNumbers": ["HF80-115V", "HF80-240V"],
+          "images": ["/images/pnwx-product-4.jpg"]
         },
         {
           "id": "exam-tables",
@@ -541,12 +471,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "EXAM-TABLES"
-          ],
-          "images": [
-            "/images/pnwx-product-5.jpg"
-          ]
+          "partNumbers": ["EXAM-TABLES"],
+          "images": ["/images/pnwx-product-5.jpg"]
         },
         {
           "id": "instrument-stands",
@@ -570,12 +496,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "INSTRUMENT-STANDS"
-          ],
-          "images": [
-            "/images/pnwx-product-6.jpg"
-          ]
+          "partNumbers": ["INSTRUMENT-STANDS"],
+          "images": ["/images/pnwx-product-6.jpg"]
         },
         {
           "id": "instrument-tables",
@@ -599,12 +521,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "INSTRUMENT-TABLES"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["INSTRUMENT-TABLES"],
+          "images": ["/images/pnwx-product-7.jpg"]
         },
         {
           "id": "iv-poles",
@@ -628,12 +546,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "IV-POLES"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["IV-POLES"],
+          "images": ["/images/pnwx-product-8.jpg"]
         },
         {
           "id": "lighting",
@@ -657,12 +571,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "LIGHTING"
-          ],
-          "images": [
-            "/images/pnwx-product-9.jpg"
-          ]
+          "partNumbers": ["LIGHTING"],
+          "images": ["/images/pnwx-product-9.jpg"]
         },
         {
           "id": "linen-hampers",
@@ -686,12 +596,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "LINEN-HAMPERS"
-          ],
-          "images": [
-            "/images/pnwx-product-1.jpg"
-          ]
+          "partNumbers": ["LINEN-HAMPERS"],
+          "images": ["/images/pnwx-product-1.jpg"]
         },
         {
           "id": "mri-products",
@@ -715,12 +621,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MRI-PRODUCTS"
-          ],
-          "images": [
-            "/images/pnwx-product-2.jpg"
-          ]
+          "partNumbers": ["MRI-PRODUCTS"],
+          "images": ["/images/pnwx-product-2.jpg"]
         },
         {
           "id": "overbed-tables",
@@ -744,12 +646,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "OVERBED-TABLES"
-          ],
-          "images": [
-            "/images/pnwx-product-3.jpg"
-          ]
+          "partNumbers": ["OVERBED-TABLES"],
+          "images": ["/images/pnwx-product-3.jpg"]
         },
         {
           "id": "paper-products",
@@ -773,12 +671,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "PAPER-PRODUCTS"
-          ],
-          "images": [
-            "/images/pnwx-product-4.jpg"
-          ]
+          "partNumbers": ["PAPER-PRODUCTS"],
+          "images": ["/images/pnwx-product-4.jpg"]
         },
         {
           "id": "surgical-carts",
@@ -802,12 +696,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "SURGICAL-CARTS"
-          ],
-          "images": [
-            "/images/pnwx-product-5.jpg"
-          ]
+          "partNumbers": ["SURGICAL-CARTS"],
+          "images": ["/images/pnwx-product-5.jpg"]
         },
         {
           "id": "warming-cabinets",
@@ -831,12 +721,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "WARMING-CABINETS"
-          ],
-          "images": [
-            "/images/pnwx-product-6.jpg"
-          ]
+          "partNumbers": ["WARMING-CABINETS"],
+          "images": ["/images/pnwx-product-6.jpg"]
         },
         {
           "id": "utility-tables",
@@ -860,12 +746,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "UTILITY-TABLES"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["UTILITY-TABLES"],
+          "images": ["/images/pnwx-product-7.jpg"]
         },
         {
           "id": "wall-shelves",
@@ -889,12 +771,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "WALL-SHELVES"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["WALL-SHELVES"],
+          "images": ["/images/pnwx-product-8.jpg"]
         },
         {
           "id": "vet-paper",
@@ -918,12 +796,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "VET-PAPER"
-          ],
-          "images": [
-            "/images/pnwx-product-9.jpg"
-          ]
+          "partNumbers": ["VET-PAPER"],
+          "images": ["/images/pnwx-product-9.jpg"]
         }
       ]
     },
@@ -960,12 +834,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "ALLCRAFT-WELLMAN"
-          ],
-          "images": [
-            "/images/pnwx-product-1.jpg"
-          ]
+          "partNumbers": ["ALLCRAFT-WELLMAN"],
+          "images": ["/images/pnwx-product-1.jpg"]
         },
         {
           "id": "phillips-safety",
@@ -990,18 +860,14 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "PHILLIPS-SAFETY"
-          ],
-          "images": [
-            "/images/pnwx-product-2.jpg"
-          ]
+          "partNumbers": ["PHILLIPS-SAFETY"],
+          "images": ["/images/pnwx-product-2.jpg"]
         }
       ]
     },
     {
       "id": "cassettes-storage",
-      "name": "Cassettes/CR-Plate Storage, Transportation, Sorting & Viewing",
+      "name": "Cassettes/CR-Plate Storage & Transportation",
       "description": "Complete cassette and CR plate handling solutions.",
       "icon": "folder",
       "itemCount": 14,
@@ -1030,12 +896,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "CASSETTES-WITH-SCREENS"
-          ],
-          "images": [
-            "/images/pnwx-product-3.jpg"
-          ]
+          "partNumbers": ["CASSETTES-WITH-SCREENS"],
+          "images": ["/images/pnwx-product-3.jpg"]
         },
         {
           "id": "screen-cleaners",
@@ -1059,12 +921,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "SCREEN-CLEANERS"
-          ],
-          "images": [
-            "/images/pnwx-product-4.jpg"
-          ]
+          "partNumbers": ["SCREEN-CLEANERS"],
+          "images": ["/images/pnwx-product-4.jpg"]
         },
         {
           "id": "rad-contact-test",
@@ -1088,12 +946,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "RAD-CONTACT-TEST"
-          ],
-          "images": [
-            "/images/pnwx-product-5.jpg"
-          ]
+          "partNumbers": ["RAD-CONTACT-TEST"],
+          "images": ["/images/pnwx-product-5.jpg"]
         },
         {
           "id": "mammo-contact-test",
@@ -1117,12 +971,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MAMMO-CONTACT-TEST"
-          ],
-          "images": [
-            "/images/pnwx-product-6.jpg"
-          ]
+          "partNumbers": ["MAMMO-CONTACT-TEST"],
+          "images": ["/images/pnwx-product-6.jpg"]
         },
         {
           "id": "cassette-racks",
@@ -1146,12 +996,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "CASSETTE-RACKS"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["CASSETTE-RACKS"],
+          "images": ["/images/pnwx-product-7.jpg"]
         },
         {
           "id": "storage-carts",
@@ -1175,12 +1021,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "STORAGE-CARTS"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["STORAGE-CARTS"],
+          "images": ["/images/pnwx-product-8.jpg"]
         },
         {
           "id": "cassette-covers",
@@ -1204,12 +1046,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "CASSETTE-COVERS"
-          ],
-          "images": [
-            "/images/pnwx-product-9.jpg"
-          ]
+          "partNumbers": ["CASSETTE-COVERS"],
+          "images": ["/images/pnwx-product-9.jpg"]
         },
         {
           "id": "transport-cases",
@@ -1233,12 +1071,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "TRANSPORT-CASES"
-          ],
-          "images": [
-            "/images/pnwx-product-1.jpg"
-          ]
+          "partNumbers": ["TRANSPORT-CASES"],
+          "images": ["/images/pnwx-product-1.jpg"]
         },
         {
           "id": "cassette-holders",
@@ -1262,12 +1096,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "CASSETTE-HOLDERS"
-          ],
-          "images": [
-            "/images/pnwx-product-2.jpg"
-          ]
+          "partNumbers": ["CASSETTE-HOLDERS"],
+          "images": ["/images/pnwx-product-2.jpg"]
         },
         {
           "id": "equine-holders",
@@ -1291,12 +1121,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "EQUINE-HOLDERS"
-          ],
-          "images": [
-            "/images/pnwx-product-3.jpg"
-          ]
+          "partNumbers": ["EQUINE-HOLDERS"],
+          "images": ["/images/pnwx-product-3.jpg"]
         },
         {
           "id": "film-storage-bins",
@@ -1320,12 +1146,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "FILM-STORAGE-BINS"
-          ],
-          "images": [
-            "/images/pnwx-product-4.jpg"
-          ]
+          "partNumbers": ["FILM-STORAGE-BINS"],
+          "images": ["/images/pnwx-product-4.jpg"]
         },
         {
           "id": "cabinetry-shelving",
@@ -1349,12 +1171,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "CABINETRY-SHELVING"
-          ],
-          "images": [
-            "/images/pnwx-product-5.jpg"
-          ]
+          "partNumbers": ["CABINETRY-SHELVING"],
+          "images": ["/images/pnwx-product-5.jpg"]
         },
         {
           "id": "grids",
@@ -1378,12 +1196,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "GRIDS"
-          ],
-          "images": [
-            "/images/pnwx-product-6.jpg"
-          ]
+          "partNumbers": ["GRIDS"],
+          "images": ["/images/pnwx-product-6.jpg"]
         },
         {
           "id": "wall-film-storage",
@@ -1407,12 +1221,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "WALL-FILM-STORAGE"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["WALL-FILM-STORAGE"],
+          "images": ["/images/pnwx-product-7.jpg"]
         },
         {
           "id": "viewboxes",
@@ -1436,12 +1246,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "VIEWBOXES"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["VIEWBOXES"],
+          "images": ["/images/pnwx-product-8.jpg"]
         }
       ]
     },
@@ -1476,12 +1282,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "BREAST-COIL-DRAPES"
-          ],
-          "images": [
-            "/images/pnwx-product-9.jpg"
-          ]
+          "partNumbers": ["BREAST-COIL-DRAPES"],
+          "images": ["/images/pnwx-product-9.jpg"]
         },
         {
           "id": "mri-chairs",
@@ -1505,12 +1307,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MRI-CHAIRS"
-          ],
-          "images": [
-            "/images/pnwx-product-1.jpg"
-          ]
+          "partNumbers": ["MRI-CHAIRS"],
+          "images": ["/images/pnwx-product-1.jpg"]
         },
         {
           "id": "mri-hampers",
@@ -1534,12 +1332,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MRI-HAMPERS"
-          ],
-          "images": [
-            "/images/pnwx-product-2.jpg"
-          ]
+          "partNumbers": ["MRI-HAMPERS"],
+          "images": ["/images/pnwx-product-2.jpg"]
         },
         {
           "id": "mri-instrument-stands",
@@ -1563,12 +1357,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MRI-INSTRUMENT-STANDS"
-          ],
-          "images": [
-            "/images/pnwx-product-3.jpg"
-          ]
+          "partNumbers": ["MRI-INSTRUMENT-STANDS"],
+          "images": ["/images/pnwx-product-3.jpg"]
         },
         {
           "id": "mri-iv-poles",
@@ -1592,12 +1382,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MRI-IV-POLES"
-          ],
-          "images": [
-            "/images/pnwx-product-4.jpg"
-          ]
+          "partNumbers": ["MRI-IV-POLES"],
+          "images": ["/images/pnwx-product-4.jpg"]
         },
         {
           "id": "metal-detector",
@@ -1621,12 +1407,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "METAL-DETECTOR"
-          ],
-          "images": [
-            "/images/pnwx-product-5.jpg"
-          ]
+          "partNumbers": ["METAL-DETECTOR"],
+          "images": ["/images/pnwx-product-5.jpg"]
         },
         {
           "id": "mri-oxygen",
@@ -1650,12 +1432,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MRI-OXYGEN"
-          ],
-          "images": [
-            "/images/pnwx-product-6.jpg"
-          ]
+          "partNumbers": ["MRI-OXYGEN"],
+          "images": ["/images/pnwx-product-6.jpg"]
         },
         {
           "id": "mri-phantoms",
@@ -1679,12 +1457,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MRI-PHANTOMS"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["MRI-PHANTOMS"],
+          "images": ["/images/pnwx-product-7.jpg"]
         },
         {
           "id": "mri-positioning",
@@ -1708,12 +1482,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MRI-POSITIONING"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["MRI-POSITIONING"],
+          "images": ["/images/pnwx-product-8.jpg"]
         },
         {
           "id": "safety-carpets",
@@ -1737,12 +1507,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "SAFETY-CARPETS"
-          ],
-          "images": [
-            "/images/pnwx-product-9.jpg"
-          ]
+          "partNumbers": ["SAFETY-CARPETS"],
+          "images": ["/images/pnwx-product-9.jpg"]
         },
         {
           "id": "mri-sandbags",
@@ -1766,12 +1532,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MRI-SANDBAGS"
-          ],
-          "images": [
-            "/images/pnwx-product-1.jpg"
-          ]
+          "partNumbers": ["MRI-SANDBAGS"],
+          "images": ["/images/pnwx-product-1.jpg"]
         },
         {
           "id": "mri-step-stools",
@@ -1795,12 +1557,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MRI-STEP-STOOLS"
-          ],
-          "images": [
-            "/images/pnwx-product-2.jpg"
-          ]
+          "partNumbers": ["MRI-STEP-STOOLS"],
+          "images": ["/images/pnwx-product-2.jpg"]
         },
         {
           "id": "mri-stretchers",
@@ -1824,12 +1582,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MRI-STRETCHERS"
-          ],
-          "images": [
-            "/images/pnwx-product-3.jpg"
-          ]
+          "partNumbers": ["MRI-STRETCHERS"],
+          "images": ["/images/pnwx-product-3.jpg"]
         },
         {
           "id": "mri-signs",
@@ -1853,12 +1607,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MRI-SIGNS"
-          ],
-          "images": [
-            "/images/pnwx-product-4.jpg"
-          ]
+          "partNumbers": ["MRI-SIGNS"],
+          "images": ["/images/pnwx-product-4.jpg"]
         },
         {
           "id": "mri-wheelchairs",
@@ -1882,18 +1632,14 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MRI-WHEELCHAIRS"
-          ],
-          "images": [
-            "/images/pnwx-product-5.jpg"
-          ]
+          "partNumbers": ["MRI-WHEELCHAIRS"],
+          "images": ["/images/pnwx-product-5.jpg"]
         }
       ]
     },
     {
       "id": "patient-positioning",
-      "name": "Patient, Positioning, Measurement, Comfort, and Care",
+      "name": "Patient, Positioning, Measurement",
       "description": "Comprehensive patient care and positioning solutions.",
       "icon": "people",
       "itemCount": 20,
@@ -1922,12 +1668,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "ARM-SUPPORT"
-          ],
-          "images": [
-            "/images/pnwx-product-6.jpg"
-          ]
+          "partNumbers": ["ARM-SUPPORT"],
+          "images": ["/images/pnwx-product-6.jpg"]
         },
         {
           "id": "transfer-systems",
@@ -1951,12 +1693,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "TRANSFER-SYSTEMS"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["TRANSFER-SYSTEMS"],
+          "images": ["/images/pnwx-product-7.jpg"]
         },
         {
           "id": "compression-paddles",
@@ -1980,12 +1718,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "COMPRESSION-PADDLES"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["COMPRESSION-PADDLES"],
+          "images": ["/images/pnwx-product-8.jpg"]
         },
         {
           "id": "immobilizer-strap",
@@ -2009,12 +1743,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "IMMOBILIZER-STRAP"
-          ],
-          "images": [
-            "/images/pnwx-product-9.jpg"
-          ]
+          "partNumbers": ["IMMOBILIZER-STRAP"],
+          "images": ["/images/pnwx-product-9.jpg"]
         },
         {
           "id": "patient-iv-poles",
@@ -2038,12 +1768,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "PATIENT-IV-POLES"
-          ],
-          "images": [
-            "/images/pnwx-product-1.jpg"
-          ]
+          "partNumbers": ["PATIENT-IV-POLES"],
+          "images": ["/images/pnwx-product-1.jpg"]
         },
         {
           "id": "merchant-board",
@@ -2067,12 +1793,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MERCHANT-BOARD"
-          ],
-          "images": [
-            "/images/pnwx-product-2.jpg"
-          ]
+          "partNumbers": ["MERCHANT-BOARD"],
+          "images": ["/images/pnwx-product-2.jpg"]
         },
         {
           "id": "measurement-calipers",
@@ -2096,12 +1818,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MEASUREMENT-CALIPERS"
-          ],
-          "images": [
-            "/images/pnwx-product-3.jpg"
-          ]
+          "partNumbers": ["MEASUREMENT-CALIPERS"],
+          "images": ["/images/pnwx-product-3.jpg"]
         },
         {
           "id": "patient-wheelchairs",
@@ -2125,12 +1843,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "PATIENT-WHEELCHAIRS"
-          ],
-          "images": [
-            "/images/pnwx-product-4.jpg"
-          ]
+          "partNumbers": ["PATIENT-WHEELCHAIRS"],
+          "images": ["/images/pnwx-product-4.jpg"]
         },
         {
           "id": "elevation-steps",
@@ -2154,12 +1868,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "ELEVATION-STEPS"
-          ],
-          "images": [
-            "/images/pnwx-product-5.jpg"
-          ]
+          "partNumbers": ["ELEVATION-STEPS"],
+          "images": ["/images/pnwx-product-5.jpg"]
         },
         {
           "id": "restraints-traction",
@@ -2183,12 +1893,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "RESTRAINTS-TRACTION"
-          ],
-          "images": [
-            "/images/pnwx-product-6.jpg"
-          ]
+          "partNumbers": ["RESTRAINTS-TRACTION"],
+          "images": ["/images/pnwx-product-6.jpg"]
         },
         {
           "id": "patient-stretchers",
@@ -2212,12 +1918,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "PATIENT-STRETCHERS"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["PATIENT-STRETCHERS"],
+          "images": ["/images/pnwx-product-7.jpg"]
         },
         {
           "id": "support-bar",
@@ -2241,12 +1943,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "SUPPORT-BAR"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["SUPPORT-BAR"],
+          "images": ["/images/pnwx-product-8.jpg"]
         },
         {
           "id": "positioning-aids",
@@ -2270,12 +1968,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "POSITIONING-AIDS"
-          ],
-          "images": [
-            "/images/pnwx-product-9.jpg"
-          ]
+          "partNumbers": ["POSITIONING-AIDS"],
+          "images": ["/images/pnwx-product-9.jpg"]
         },
         {
           "id": "warming-blankets",
@@ -2299,12 +1993,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "WARMING-BLANKETS"
-          ],
-          "images": [
-            "/images/pnwx-product-1.jpg"
-          ]
+          "partNumbers": ["WARMING-BLANKETS"],
+          "images": ["/images/pnwx-product-1.jpg"]
         },
         {
           "id": "restraint-systems",
@@ -2328,12 +2018,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "RESTRAINT-SYSTEMS"
-          ],
-          "images": [
-            "/images/pnwx-product-2.jpg"
-          ]
+          "partNumbers": ["RESTRAINT-SYSTEMS"],
+          "images": ["/images/pnwx-product-2.jpg"]
         },
         {
           "id": "patient-seating",
@@ -2357,12 +2043,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "PATIENT-SEATING"
-          ],
-          "images": [
-            "/images/pnwx-product-3.jpg"
-          ]
+          "partNumbers": ["PATIENT-SEATING"],
+          "images": ["/images/pnwx-product-3.jpg"]
         },
         {
           "id": "patient-exam-tables",
@@ -2386,12 +2068,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "PATIENT-EXAM-TABLES"
-          ],
-          "images": [
-            "/images/pnwx-product-4.jpg"
-          ]
+          "partNumbers": ["PATIENT-EXAM-TABLES"],
+          "images": ["/images/pnwx-product-4.jpg"]
         },
         {
           "id": "table-pads",
@@ -2415,12 +2093,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "TABLE-PADS"
-          ],
-          "images": [
-            "/images/pnwx-product-5.jpg"
-          ]
+          "partNumbers": ["TABLE-PADS"],
+          "images": ["/images/pnwx-product-5.jpg"]
         },
         {
           "id": "transfer-boards",
@@ -2444,12 +2118,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "TRANSFER-BOARDS"
-          ],
-          "images": [
-            "/images/pnwx-product-6.jpg"
-          ]
+          "partNumbers": ["TRANSFER-BOARDS"],
+          "images": ["/images/pnwx-product-6.jpg"]
         }
       ]
     },
@@ -2484,12 +2154,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "RADIOLOGY-PHANTOMS"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["RADIOLOGY-PHANTOMS"],
+          "images": ["/images/pnwx-product-7.jpg"]
         },
         {
           "id": "resolution-test",
@@ -2513,12 +2179,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "RESOLUTION-TEST"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["RESOLUTION-TEST"],
+          "images": ["/images/pnwx-product-8.jpg"]
         },
         {
           "id": "ct-phantoms",
@@ -2542,12 +2204,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "CT-PHANTOMS"
-          ],
-          "images": [
-            "/images/pnwx-product-9.jpg"
-          ]
+          "partNumbers": ["CT-PHANTOMS"],
+          "images": ["/images/pnwx-product-9.jpg"]
         },
         {
           "id": "mammography-phantoms",
@@ -2571,12 +2229,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MAMMOGRAPHY-PHANTOMS"
-          ],
-          "images": [
-            "/images/pnwx-product-1.jpg"
-          ]
+          "partNumbers": ["MAMMOGRAPHY-PHANTOMS"],
+          "images": ["/images/pnwx-product-1.jpg"]
         },
         {
           "id": "mri-qc-phantoms",
@@ -2600,12 +2254,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MRI-QC-PHANTOMS"
-          ],
-          "images": [
-            "/images/pnwx-product-2.jpg"
-          ]
+          "partNumbers": ["MRI-QC-PHANTOMS"],
+          "images": ["/images/pnwx-product-2.jpg"]
         },
         {
           "id": "nuclear-medicine",
@@ -2629,12 +2279,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "NUCLEAR-MEDICINE"
-          ],
-          "images": [
-            "/images/pnwx-product-3.jpg"
-          ]
+          "partNumbers": ["NUCLEAR-MEDICINE"],
+          "images": ["/images/pnwx-product-3.jpg"]
         },
         {
           "id": "pet-spect",
@@ -2658,12 +2304,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "PET-SPECT"
-          ],
-          "images": [
-            "/images/pnwx-product-4.jpg"
-          ]
+          "partNumbers": ["PET-SPECT"],
+          "images": ["/images/pnwx-product-4.jpg"]
         },
         {
           "id": "breathing-phantom",
@@ -2687,18 +2329,14 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "BREATHING-PHANTOM"
-          ],
-          "images": [
-            "/images/pnwx-product-5.jpg"
-          ]
+          "partNumbers": ["BREATHING-PHANTOM"],
+          "images": ["/images/pnwx-product-5.jpg"]
         }
       ]
     },
     {
       "id": "seating",
-      "name": "Seating Products (Chairs, Step Stools and Regular Stools)",
+      "name": "Seating Products (Chairs and Regular Stools)",
       "description": "Comprehensive seating solutions for medical facilities.",
       "icon": "chair",
       "itemCount": 8,
@@ -2727,12 +2365,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "BLOOD-DRAW-SEATING"
-          ],
-          "images": [
-            "/images/pnwx-product-6.jpg"
-          ]
+          "partNumbers": ["BLOOD-DRAW-SEATING"],
+          "images": ["/images/pnwx-product-6.jpg"]
         },
         {
           "id": "exam-table-seating",
@@ -2756,12 +2390,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "EXAM-TABLE-SEATING"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["EXAM-TABLE-SEATING"],
+          "images": ["/images/pnwx-product-7.jpg"]
         },
         {
           "id": "dental-optical",
@@ -2785,12 +2415,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "DENTAL-OPTICAL"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["DENTAL-OPTICAL"],
+          "images": ["/images/pnwx-product-8.jpg"]
         },
         {
           "id": "budget-seating",
@@ -2814,12 +2440,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "BUDGET-SEATING"
-          ],
-          "images": [
-            "/images/pnwx-product-9.jpg"
-          ]
+          "partNumbers": ["BUDGET-SEATING"],
+          "images": ["/images/pnwx-product-9.jpg"]
         },
         {
           "id": "step-stools-seating",
@@ -2843,12 +2465,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "STEP-STOOLS-SEATING"
-          ],
-          "images": [
-            "/images/pnwx-product-1.jpg"
-          ]
+          "partNumbers": ["STEP-STOOLS-SEATING"],
+          "images": ["/images/pnwx-product-1.jpg"]
         },
         {
           "id": "other-seating",
@@ -2872,12 +2490,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "OTHER-SEATING"
-          ],
-          "images": [
-            "/images/pnwx-product-2.jpg"
-          ]
+          "partNumbers": ["OTHER-SEATING"],
+          "images": ["/images/pnwx-product-2.jpg"]
         }
       ]
     },
@@ -2912,12 +2526,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "BADGE-STORAGE"
-          ],
-          "images": [
-            "/images/pnwx-product-3.jpg"
-          ]
+          "partNumbers": ["BADGE-STORAGE"],
+          "images": ["/images/pnwx-product-3.jpg"]
         },
         {
           "id": "tech-compression",
@@ -2941,12 +2551,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "TECH-COMPRESSION"
-          ],
-          "images": [
-            "/images/pnwx-product-4.jpg"
-          ]
+          "partNumbers": ["TECH-COMPRESSION"],
+          "images": ["/images/pnwx-product-4.jpg"]
         },
         {
           "id": "tech-markers",
@@ -2970,12 +2576,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "TECH-MARKERS"
-          ],
-          "images": [
-            "/images/pnwx-product-5.jpg"
-          ]
+          "partNumbers": ["TECH-MARKERS"],
+          "images": ["/images/pnwx-product-5.jpg"]
         },
         {
           "id": "radiation-protection",
@@ -2999,12 +2601,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "RADIATION-PROTECTION"
-          ],
-          "images": [
-            "/images/pnwx-product-6.jpg"
-          ]
+          "partNumbers": ["RADIATION-PROTECTION"],
+          "images": ["/images/pnwx-product-6.jpg"]
         },
         {
           "id": "mobile-caddy",
@@ -3037,13 +2635,8 @@
             "depth": "19 inches",
             "weight": "35 lbs"
           },
-          "partNumbers": [
-            "HF80-115V",
-            "HF80-240V"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["HF80-115V", "HF80-240V"],
+          "images": ["/images/pnwx-product-7.jpg"]
         },
         {
           "id": "step-wedges",
@@ -3067,12 +2660,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "STEP-WEDGES"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["STEP-WEDGES"],
+          "images": ["/images/pnwx-product-8.jpg"]
         }
       ]
     },
@@ -3107,12 +2696,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "LEAD-APRONS"
-          ],
-          "images": [
-            "/images/pnwx-product-9.jpg"
-          ]
+          "partNumbers": ["LEAD-APRONS"],
+          "images": ["/images/pnwx-product-9.jpg"]
         },
         {
           "id": "lead-eyewear",
@@ -3136,12 +2721,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "LEAD-EYEWEAR"
-          ],
-          "images": [
-            "/images/pnwx-product-1.jpg"
-          ]
+          "partNumbers": ["LEAD-EYEWEAR"],
+          "images": ["/images/pnwx-product-1.jpg"]
         },
         {
           "id": "thyroid-collars",
@@ -3165,12 +2746,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "THYROID-COLLARS"
-          ],
-          "images": [
-            "/images/pnwx-product-2.jpg"
-          ]
+          "partNumbers": ["THYROID-COLLARS"],
+          "images": ["/images/pnwx-product-2.jpg"]
         },
         {
           "id": "lead-gloves",
@@ -3194,12 +2771,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "LEAD-GLOVES"
-          ],
-          "images": [
-            "/images/pnwx-product-3.jpg"
-          ]
+          "partNumbers": ["LEAD-GLOVES"],
+          "images": ["/images/pnwx-product-3.jpg"]
         },
         {
           "id": "pediatric-shielding",
@@ -3223,12 +2796,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "PEDIATRIC-SHIELDING"
-          ],
-          "images": [
-            "/images/pnwx-product-4.jpg"
-          ]
+          "partNumbers": ["PEDIATRIC-SHIELDING"],
+          "images": ["/images/pnwx-product-4.jpg"]
         },
         {
           "id": "lead-caps",
@@ -3252,12 +2821,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "LEAD-CAPS"
-          ],
-          "images": [
-            "/images/pnwx-product-5.jpg"
-          ]
+          "partNumbers": ["LEAD-CAPS"],
+          "images": ["/images/pnwx-product-5.jpg"]
         },
         {
           "id": "leg-shields",
@@ -3281,12 +2846,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "LEG-SHIELDS"
-          ],
-          "images": [
-            "/images/pnwx-product-6.jpg"
-          ]
+          "partNumbers": ["LEG-SHIELDS"],
+          "images": ["/images/pnwx-product-6.jpg"]
         },
         {
           "id": "fluoro-drapes",
@@ -3310,12 +2871,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "FLUORO-DRAPES"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["FLUORO-DRAPES"],
+          "images": ["/images/pnwx-product-7.jpg"]
         },
         {
           "id": "mobile-barriers",
@@ -3339,12 +2896,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "MOBILE-BARRIERS"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["MOBILE-BARRIERS"],
+          "images": ["/images/pnwx-product-8.jpg"]
         },
         {
           "id": "gonad-shields",
@@ -3368,12 +2921,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "GONAD-SHIELDS"
-          ],
-          "images": [
-            "/images/pnwx-product-9.jpg"
-          ]
+          "partNumbers": ["GONAD-SHIELDS"],
+          "images": ["/images/pnwx-product-9.jpg"]
         },
         {
           "id": "curtains-shields",
@@ -3406,13 +2955,8 @@
             "depth": "19 inches",
             "weight": "35 lbs"
           },
-          "partNumbers": [
-            "HF80-115V",
-            "HF80-240V"
-          ],
-          "images": [
-            "/images/pnwx-product-1.jpg"
-          ]
+          "partNumbers": ["HF80-115V", "HF80-240V"],
+          "images": ["/images/pnwx-product-1.jpg"]
         },
         {
           "id": "storage-racks",
@@ -3436,12 +2980,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "STORAGE-RACKS"
-          ],
-          "images": [
-            "/images/pnwx-product-2.jpg"
-          ]
+          "partNumbers": ["STORAGE-RACKS"],
+          "images": ["/images/pnwx-product-2.jpg"]
         },
         {
           "id": "lead-sheetrock",
@@ -3465,12 +3005,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "LEAD-SHEETROCK"
-          ],
-          "images": [
-            "/images/pnwx-product-3.jpg"
-          ]
+          "partNumbers": ["LEAD-SHEETROCK"],
+          "images": ["/images/pnwx-product-3.jpg"]
         },
         {
           "id": "lead-glass",
@@ -3494,12 +3030,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "LEAD-GLASS"
-          ],
-          "images": [
-            "/images/pnwx-product-4.jpg"
-          ]
+          "partNumbers": ["LEAD-GLASS"],
+          "images": ["/images/pnwx-product-4.jpg"]
         }
       ]
     },
@@ -3534,12 +3066,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "ULTRASOUND-GEL"
-          ],
-          "images": [
-            "/images/pnwx-product-5.jpg"
-          ]
+          "partNumbers": ["ULTRASOUND-GEL"],
+          "images": ["/images/pnwx-product-5.jpg"]
         },
         {
           "id": "gel-warmers",
@@ -3563,12 +3091,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "GEL-WARMERS"
-          ],
-          "images": [
-            "/images/pnwx-product-6.jpg"
-          ]
+          "partNumbers": ["GEL-WARMERS"],
+          "images": ["/images/pnwx-product-6.jpg"]
         },
         {
           "id": "ultrasound-phantoms",
@@ -3592,12 +3116,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "ULTRASOUND-PHANTOMS"
-          ],
-          "images": [
-            "/images/pnwx-product-7.jpg"
-          ]
+          "partNumbers": ["ULTRASOUND-PHANTOMS"],
+          "images": ["/images/pnwx-product-7.jpg"]
         },
         {
           "id": "ultrasound-tables",
@@ -3621,12 +3141,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "ULTRASOUND-TABLES"
-          ],
-          "images": [
-            "/images/pnwx-product-8.jpg"
-          ]
+          "partNumbers": ["ULTRASOUND-TABLES"],
+          "images": ["/images/pnwx-product-8.jpg"]
         }
       ]
     },
@@ -3661,12 +3177,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "VET-DENTAL-FILM"
-          ],
-          "images": [
-            "/images/pnwx-product-9.jpg"
-          ]
+          "partNumbers": ["VET-DENTAL-FILM"],
+          "images": ["/images/pnwx-product-9.jpg"]
         },
         {
           "id": "equine-holders-vet",
@@ -3690,12 +3202,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "EQUINE-HOLDERS-VET"
-          ],
-          "images": [
-            "/images/pnwx-product-1.jpg"
-          ]
+          "partNumbers": ["EQUINE-HOLDERS-VET"],
+          "images": ["/images/pnwx-product-1.jpg"]
         },
         {
           "id": "vet-positioners",
@@ -3719,12 +3227,8 @@
           "dimensions": {
             "weight": "Contact for specifications"
           },
-          "partNumbers": [
-            "VET-POSITIONERS"
-          ],
-          "images": [
-            "/images/pnwx-product-2.jpg"
-          ]
+          "partNumbers": ["VET-POSITIONERS"],
+          "images": ["/images/pnwx-product-2.jpg"]
         },
         {
           "id": "vet-xray",
@@ -3757,13 +3261,8 @@
             "depth": "19 inches",
             "weight": "35 lbs"
           },
-          "partNumbers": [
-            "HF80-115V",
-            "HF80-240V"
-          ],
-          "images": [
-            "/images/pnwx-product-3.jpg"
-          ]
+          "partNumbers": ["HF80-115V", "HF80-240V"],
+          "images": ["/images/pnwx-product-3.jpg"]
         }
       ]
     }
@@ -3791,11 +3290,7 @@
       "error": "Error downloading order form. Please try again."
     },
 
-    "acceptedPayments": [
-      "Purchase Order",
-      "Credit Card",
-      "Cash"
-    ],
+    "acceptedPayments": ["Purchase Order", "Credit Card", "Cash"],
     "creditApprovalRequired": true
   }
 }
