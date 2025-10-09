@@ -226,58 +226,66 @@ export default function CatalogPage({
             )}
           </div>
 
-          {/* Sidebar - 1/4 width - Sticky */}
-          <div className="lg:col-span-1 space-y-6">
-            <div className="sticky top-6 space-y-6">
+          {/* Sidebar - 1/4 width */}
+          <div className="lg:col-span-1">
+            <div className="flex flex-col">
               {/* Contact Card */}
-              <EquipmentContactCard contactInfo={data.contactInfo} />
+              <div className="w-full mb-6">
+                <EquipmentContactCard contactInfo={data.contactInfo} />
+              </div>
 
               {/* Order Info Card */}
-              <EquipmentOrderInfoCard orderingInfo={data.orderingInfo} />
+              <div className="w-full mb-6">
+                <EquipmentOrderInfoCard orderingInfo={data.orderingInfo} />
+              </div>
 
               {/* Quick Stats Card */}
-              <Card className="shadow-lg">
-                <CardBody className="p-5">
-                  <h3 className="font-bold text-lg mb-4">Quick Info</h3>
-                  <div className="space-y-3 text-sm">
-                    <div className="flex justify-between items-center pb-2 border-b border-foreground/10">
-                      <span className="text-foreground/70">Total Products</span>
-                      <span className="font-semibold">
-                        {totalSubcategories}+
-                      </span>
+              <div className="w-full mb-6">
+                <Card className="shadow-lg">
+                  <CardBody className="p-5">
+                    <h3 className="font-bold text-lg mb-4">Quick Info</h3>
+                    <div className="space-y-3 text-sm">
+                      <div className="flex justify-between items-center pb-2 border-b border-foreground/10">
+                        <span className="text-foreground/70">Total Products</span>
+                        <span className="font-semibold">
+                          {totalSubcategories}+
+                        </span>
+                      </div>
+                      <div className="flex justify-between items-center pb-2 border-b border-foreground/10">
+                        <span className="text-foreground/70">Categories</span>
+                        <span className="font-semibold">{totalCategories}</span>
+                      </div>
+                      <div className="flex justify-between items-center pb-2 border-b border-foreground/10">
+                        <span className="text-foreground/70">Min Order</span>
+                        <span className="font-semibold text-emerald-500">
+                          ${data.orderingInfo.minimumOrder}
+                        </span>
+                      </div>
+                      <div className="flex justify-between items-center">
+                        <span className="text-foreground/70">Delivery</span>
+                        <span className="font-semibold">Nationwide</span>
+                      </div>
                     </div>
-                    <div className="flex justify-between items-center pb-2 border-b border-foreground/10">
-                      <span className="text-foreground/70">Categories</span>
-                      <span className="font-semibold">{totalCategories}</span>
-                    </div>
-                    <div className="flex justify-between items-center pb-2 border-b border-foreground/10">
-                      <span className="text-foreground/70">Min Order</span>
-                      <span className="font-semibold text-emerald-500">
-                        ${data.orderingInfo.minimumOrder}
-                      </span>
-                    </div>
-                    <div className="flex justify-between items-center">
-                      <span className="text-foreground/70">Delivery</span>
-                      <span className="font-semibold">Nationwide</span>
-                    </div>
-                  </div>
-                </CardBody>
-              </Card>
+                  </CardBody>
+                </Card>
+              </div>
 
               {/* Help Card */}
-              <Card className="shadow-lg bg-blue-500/5 border-2 border-blue-500/20">
-                <CardBody className="p-5">
-                  <div className="text-3xl mb-3">💡</div>
-                  <h3 className="font-bold mb-2">Need Help?</h3>
-                  <p className="text-sm text-foreground/70 mb-3">
-                    Our experts are ready to help you find the right equipment
-                    for your needs.
-                  </p>
-                  <p className="text-sm font-semibold text-blue-500">
-                    Call: 1-503-667-3000
-                  </p>
-                </CardBody>
-              </Card>
+              <div className="w-full mb-6">
+                <Card className="shadow-lg bg-blue-500/5 border-2 border-blue-500/20">
+                  <CardBody className="p-5">
+                    <div className="text-3xl mb-3">💡</div>
+                    <h3 className="font-bold mb-2">Need Help?</h3>
+                    <p className="text-sm text-foreground/70 mb-3">
+                      Our experts are ready to help you find the right equipment
+                      for your needs.
+                    </p>
+                    <p className="text-sm font-semibold text-blue-500">
+                      Call: 1-503-667-3000
+                    </p>
+                  </CardBody>
+                </Card>
+              </div>
             </div>
           </div>
         </div>
