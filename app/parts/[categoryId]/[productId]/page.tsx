@@ -23,16 +23,16 @@ interface ProductPageProps {
 export default function PartsProductPage({ params }: ProductPageProps) {
   const { categoryId, productId } = use(params);
   const data = partsData as EquipmentData;
-  
+
   const category = data.categories.find((cat) => cat.id === categoryId);
   if (!category) notFound();
-  
+
   const product = category.subcategories.find((sub) => sub.id === productId);
   if (!product) notFound();
 
   return (
     <div className="min-h-screen">
-      <section className="w-full py-8 md:py-12 bg-gradient-to-b from-default-100 to-background">
+      <section className="w-full py-8 md:py-12 ">
         <div className="container mx-auto px-4">
           <motion.div
             animate={{ opacity: 1, y: 0 }}
@@ -42,11 +42,32 @@ export default function PartsProductPage({ params }: ProductPageProps) {
           >
             <nav className="mb-6">
               <ol className="flex items-center gap-2 text-sm flex-wrap">
-                <li><Link href="/" className="text-default-500 hover:text-default-900">Home</Link></li>
+                <li>
+                  <Link
+                    href="/"
+                    className="text-default-500 hover:text-default-900"
+                  >
+                    Home
+                  </Link>
+                </li>
                 <li className="text-default-400">/</li>
-                <li><Link href="/parts" className="text-default-500 hover:text-default-900">Parts</Link></li>
+                <li>
+                  <Link
+                    href="/parts"
+                    className="text-default-500 hover:text-default-900"
+                  >
+                    Parts
+                  </Link>
+                </li>
                 <li className="text-default-400">/</li>
-                <li><Link href={`/parts/${categoryId}`} className="text-default-500 hover:text-default-900">{category.name}</Link></li>
+                <li>
+                  <Link
+                    href={`/parts/${categoryId}`}
+                    className="text-default-500 hover:text-default-900"
+                  >
+                    {category.name}
+                  </Link>
+                </li>
                 <li className="text-default-400">/</li>
                 <li className="text-default-900 font-medium">{product.name}</li>
               </ol>
@@ -72,7 +93,9 @@ export default function PartsProductPage({ params }: ProductPageProps) {
 
                   <div className="space-y-4">
                     <div>
-                      <h1 className="text-3xl font-bold mb-2">{product.name}</h1>
+                      <h1 className="text-3xl font-bold mb-2">
+                        {product.name}
+                      </h1>
                       {product.manufacturer && (
                         <Chip color="primary" size="sm" variant="flat">
                           {product.manufacturer}
@@ -125,10 +148,13 @@ export default function PartsProductPage({ params }: ProductPageProps) {
                   <div className="flex items-start gap-4">
                     <div className="text-4xl">📋</div>
                     <div className="flex-1">
-                      <h3 className="text-xl font-bold mb-2">Complete Technical Specifications Available</h3>
+                      <h3 className="text-xl font-bold mb-2">
+                        Complete Technical Specifications Available
+                      </h3>
                       <p className="text-default-600 mb-4">
-                        For detailed technical specifications, measurements, compatibility information, 
-                        part numbers, and pricing, please visit the complete product page on PNWX.com.
+                        For detailed technical specifications, measurements,
+                        compatibility information, part numbers, and pricing,
+                        please visit the complete product page on PNWX.com.
                       </p>
                       <Button
                         as={Link}
@@ -157,18 +183,25 @@ export default function PartsProductPage({ params }: ProductPageProps) {
                     <div className="flex items-start gap-3 p-3 bg-default-100 rounded-lg">
                       <span className="text-2xl">📁</span>
                       <div>
-                        <p className="text-sm font-semibold text-default-500">Category</p>
-                        <Link href={`/parts/${categoryId}`} className="text-primary font-medium">
+                        <p className="text-sm font-semibold text-default-500">
+                          Category
+                        </p>
+                        <Link
+                          href={`/parts/${categoryId}`}
+                          className="text-primary font-medium"
+                        >
                           {category.name}
                         </Link>
                       </div>
                     </div>
-                    
+
                     {product.manufacturer && (
                       <div className="flex items-start gap-3 p-3 bg-default-100 rounded-lg">
                         <span className="text-2xl">🏭</span>
                         <div>
-                          <p className="text-sm font-semibold text-default-500">Manufacturer</p>
+                          <p className="text-sm font-semibold text-default-500">
+                            Manufacturer
+                          </p>
                           <p className="font-medium">{product.manufacturer}</p>
                         </div>
                       </div>
@@ -179,33 +212,48 @@ export default function PartsProductPage({ params }: ProductPageProps) {
                     <div className="flex items-start gap-3 p-3 bg-default-100 rounded-lg">
                       <span className="text-2xl">💰</span>
                       <div>
-                        <p className="text-sm font-semibold text-default-500">Pricing</p>
-                        <p className="text-sm text-default-600">Contact sales for quote</p>
+                        <p className="text-sm font-semibold text-default-500">
+                          Pricing
+                        </p>
+                        <p className="text-sm text-default-600">
+                          Contact sales for quote
+                        </p>
                       </div>
                     </div>
-                    
+
                     <div className="flex items-start gap-3 p-3 bg-default-100 rounded-lg">
                       <span className="text-2xl">📦</span>
                       <div>
-                        <p className="text-sm font-semibold text-default-500">Availability</p>
-                        <p className="text-sm text-default-600">Contact for stock status</p>
+                        <p className="text-sm font-semibold text-default-500">
+                          Availability
+                        </p>
+                        <p className="text-sm text-default-600">
+                          Contact for stock status
+                        </p>
                       </div>
                     </div>
                   </div>
                 </div>
-                
+
                 <Divider />
-                
+
                 <div>
-                  <h3 className="font-semibold text-lg mb-2">Why Choose Pacific Northwest X-Ray?</h3>
+                  <h3 className="font-semibold text-lg mb-2">
+                    Why Choose Pacific Northwest X-Ray?
+                  </h3>
                   <ul className="space-y-2 text-default-600">
                     <li className="flex items-start gap-2">
                       <span className="text-primary mt-1">✓</span>
-                      <span>Extensive inventory of OEM and compatible parts</span>
+                      <span>
+                        Extensive inventory of OEM and compatible parts
+                      </span>
                     </li>
                     <li className="flex items-start gap-2">
                       <span className="text-primary mt-1">✓</span>
-                      <span>Expert assistance with part identification and compatibility</span>
+                      <span>
+                        Expert assistance with part identification and
+                        compatibility
+                      </span>
                     </li>
                     <li className="flex items-start gap-2">
                       <span className="text-primary mt-1">✓</span>
@@ -217,7 +265,9 @@ export default function PartsProductPage({ params }: ProductPageProps) {
                     </li>
                     <li className="flex items-start gap-2">
                       <span className="text-primary mt-1">✓</span>
-                      <span>Over 25 years serving the medical imaging community</span>
+                      <span>
+                        Over 25 years serving the medical imaging community
+                      </span>
                     </li>
                   </ul>
                 </div>
@@ -226,26 +276,39 @@ export default function PartsProductPage({ params }: ProductPageProps) {
 
             {/* Related Products */}
             <Card>
-              <CardHeader><h2 className="text-2xl font-bold">More from {category.name}</h2></CardHeader>
+              <CardHeader>
+                <h2 className="text-2xl font-bold">
+                  More from {category.name}
+                </h2>
+              </CardHeader>
               <CardBody>
                 <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
-                  {category.subcategories.filter((sub) => sub.id !== productId).slice(0, 6).map((relatedProduct) => (
-                    <Link key={relatedProduct.id} href={`/parts/${categoryId}/${relatedProduct.id}`} className="group">
-                      <Card isPressable isHoverable>
-                        <CardBody className="p-3">
-                          <div className="aspect-square bg-default-100 rounded-lg mb-2 overflow-hidden">
-                            <Image
-                              alt={relatedProduct.name}
-                              className="object-cover w-full h-full group-hover:scale-110 transition-transform"
-                              fallbackSrc="https://via.placeholder.com/200x200?text=Product"
-                              src={relatedProduct.image}
-                            />
-                          </div>
-                          <p className="text-sm font-medium line-clamp-2">{relatedProduct.name}</p>
-                        </CardBody>
-                      </Card>
-                    </Link>
-                  ))}
+                  {category.subcategories
+                    .filter((sub) => sub.id !== productId)
+                    .slice(0, 6)
+                    .map((relatedProduct) => (
+                      <Link
+                        key={relatedProduct.id}
+                        href={`/parts/${categoryId}/${relatedProduct.id}`}
+                        className="group"
+                      >
+                        <Card isPressable isHoverable>
+                          <CardBody className="p-3">
+                            <div className="aspect-square bg-default-100 rounded-lg mb-2 overflow-hidden">
+                              <Image
+                                alt={relatedProduct.name}
+                                className="object-cover w-full h-full group-hover:scale-110 transition-transform"
+                                fallbackSrc="https://via.placeholder.com/200x200?text=Product"
+                                src={relatedProduct.image}
+                              />
+                            </div>
+                            <p className="text-sm font-medium line-clamp-2">
+                              {relatedProduct.name}
+                            </p>
+                          </CardBody>
+                        </Card>
+                      </Link>
+                    ))}
                 </div>
               </CardBody>
             </Card>
